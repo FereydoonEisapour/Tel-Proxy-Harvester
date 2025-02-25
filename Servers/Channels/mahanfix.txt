@@ -1,0 +1,2 @@
+vless://a2c3c863-d25e-4b67-9b02-c906a5b34f27@zula.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ifixmobile.pages.dev&fp=randomized&type=ws&sni=ifixmobile.pages.dev#IFIX+MOBILE+2
+vless://a2c3c863-d25e-4b67-9b02-c906a5b34f27@ifixmobile.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ifixmobile.pages.dev&fp=randomized&type=ws&sni=ifixmobile.pages.dev#IFIX+MOBILE+1
