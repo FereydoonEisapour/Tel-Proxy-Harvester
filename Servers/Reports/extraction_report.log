@@ -1,0 +1,27 @@
+=== Country Statistics ===
+Total Servers: 59
+Successful Geo-IP Resolutions: 45
+Failed Geo-IP Resolutions: 14
+United States        : 19
+Unknown              : 10
+The Netherlands      : 4
+South Korea          : 4
+United Kingdom       : 2
+France               : 2
+Hong Kong            : 2
+Germany              : 2
+
+=== Server Type Summary ===
+TROJAN               : 26
+VLESS                : 21
+SS                   : 6
+VMESS                : 4
+HYSTERIA2            : 2
+HYSTERIA             : 0
+TUIC                 : 0
+WIREGUARD            : 0
+WARP                 : 0
+
+=== Channel Statistics ===
+Hope_Net            : 46
+GrizzlyVPN          : 13
