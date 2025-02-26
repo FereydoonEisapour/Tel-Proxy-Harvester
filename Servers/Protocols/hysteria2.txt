@@ -1,3 +1,4 @@
+hysteria2://6b0f14b1-c388-4a18-9632-d5ae0a5293e5@coco-jp.legeth.xyz:20861?obfs=none&mport=20000-20999&fastopen=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#%40V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#%40V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?security=tls&obfs=salamander&obfs-password=bleepbloop&insecure=1#%40V2rayNG3

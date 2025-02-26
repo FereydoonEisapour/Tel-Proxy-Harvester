@@ -136,3 +136,4 @@ trojan://telegram-id-directvpn@15.188.216.101:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@15.236.159.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#%F0%9F%87%AB%F0%9F%87%B7FR-0345-NetFreedom0
 trojan://telegram-id-privatevpns@15.237.238.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs🤯
+vless://ZEDMODEON--ZEDMODEON@51.83.78.193:19246?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12

@@ -114,3 +114,5 @@ vless://c7612610-a6de-4bee-bcbd-734099129e94@46.36.103.71:8464?security=none&enc
 vless://c7612610-a6de-4bee-bcbd-734099129e94@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%40Server_vpn20%D8%AC%D9%87%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%DB%8C%DA%A9+%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D9%BE%…
 vless://b3a1da8a-6ba9-45cc-9526-cf9cac13fa30@94.182.137.187:80?path=%2F&security=none&encryption=none&type=ws#vpnplus100%E2%9C%85%40vpnpopular2023
 vless://29c51eaa-7168-4f3d-95b3-109379690d69@94.182.147.148:80?path=%2F&security=none&encryption=none&type=ws#vpnplus100
+vless://ab1b7458-aa68-43d0-80e2-d8f59a964fa7@185.79.158.141:8088?security=none&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHubϟ
+vless://ab1b7458-aa68-43d0-80e2-d8f59a964fa7@185.79.158.141:8088?security=none&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
