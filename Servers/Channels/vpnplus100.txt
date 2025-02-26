@@ -1,5 +1,0 @@
-vless://ba775821-d47b-4669-8ff0-91edf718a162@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#VPNPlus%F0%9F%92%AF%E2%9C%85%E2%9C%85%40vpnpopular2023»
-vless://af72b3fb-ff05-49bf-a468-b0803185f701@94.182.136.82:80?path=%2F&security=none&encryption=none&type=ws#VPNPlus+100
-vless://c7612610-a6de-4bee-bcbd-734099129e94@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%40Server_vpn20%D8%AC%D9%87%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%DB%8C%DA%A9+%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D9%BE%…
-vless://c7612610-a6de-4bee-bcbd-734099129e94@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%40Server_vpn20%D8%AC%D9%87%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%DB%8C%DA%A9+%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D9%BE%D8%B1+%D8%B3%D8%B1%D8%B9%D8%AA
-vless://ba775821-d47b-4669-8ff0-91edf718a162@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#VPNPlus%F0%9F%92%AF%E2%9C%85%E2%9C%85%40vpnpopular2023

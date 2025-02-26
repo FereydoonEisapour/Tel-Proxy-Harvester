@@ -1,1 +1,0 @@
-vless://0a10e581-5a64-4814-8823-c5e5641eac8d@mask42.api-tel.online:29483?path=%2F&security=none&encryption=none&type=ws#SERVER42-OVH

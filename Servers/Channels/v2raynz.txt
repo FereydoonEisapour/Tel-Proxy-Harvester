@@ -1,8 +1,0 @@
-vless://c54cfeb5-aa01-4b58-a66a-fcee65709956@dns24.tmpiltan.com:55653?type=tcp&security=none#Gold-test
-vless://55f435fd-9c92-4685-a9ea-cd3e96a67335@85.133.227.42:34556?type=tcp&security=none#test-6my2jf0n
-vless://2fb495b4-2d12-450a-9cf6-5f637883a3e5@94.182.129.87:40305?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#VIP%2Fnimbaha-4rby8fhn
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItmG2KfZhdit2K/ZiNivIDM5INiq2YjZhdin2YbbjCIsDQogICJhZGQiOiAidjJyLnBpeHBpeDYuaXIiLA0KICAicG9ydCI6ICI4NDg0IiwNCiAgImlkIjogIjRlZjIzODYzZTJiNDQwMDQ4YjJkNGNlYTMwYWI4YWYwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vless://0c373f42-2cf1-467e-91c6-b1ba46fd65c1@193.107.48.197:58598?security=none&encryption=none&headerType=http&type=tcp#irvps
-vless://58532264-a240-42aa-fe7b-88a235d2e742@pirahan.lebasmavi.sbs:30518?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#%D9%81%D9%82%D8%B7%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C-esf
-vless://2c2a3e8e-c223-490d-b7fd-d2be3f5bc506@195.234.191.157:47303?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#irvpsتست
-vless://65eb28e6-c6d0-40b8-8525-46a86a6b528f@185.154.190.196:17134?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#Respina-Irvps

@@ -1,2 +1,0 @@
-vless://08ef1330-8ffb-4001-a15e-96befc065c06@45.83.129.174:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=hq3.newretr432as.info#@AZARBAYJAB1(GPRS)
-vless://08ef1330-8ffb-4001-a15e-96befc065c06@45.83.129.174:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=hq3.newretr432as.info#@AZARBAYJAB1(GPRS)⚙️

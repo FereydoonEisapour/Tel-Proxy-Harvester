@@ -1,9 +1,0 @@
-vless://bb0e9bf0-500d-4247-d419-bba5a0d390ac@46.101.139.137:443?path=%2FTelegram-%40FNET00&security=none&encryption=none&host=Zula.ir&type=ws#Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Telegram
-vless://95ae7fd5-51cd-4fee-8123-faf46a717486@46.101.139.137:8443?security=none&encryption=none&headerType=none&type=tcp#Telegram
-vless://36740bdb-7471-4d81-bf7a-1cdb65a2061b@ali.mobilemilan.shop:3333?type=tcp&path=%2F&host=eset.com&headerType=http&security=none#Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram
-wireguard://kCxdt0OHw2fdwebAOeqvZXDmQiwK6mCDlu%2BDad3h7E0%3D@188.114.96.116:945?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=11%2C48%2C229&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#Telegram
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#Telegram
-vless://b1040ec3-3f38-4f85-9e0b-d7516c71d939@46.101.139.137:35479?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram
