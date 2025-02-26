@@ -1,33 +1,33 @@
 === Country Statistics ===
-Total Servers: 5366
-Successful Geo-IP Resolutions: 2178
-Failed Geo-IP Resolutions: 3188
-Unknown              : 594
-United States        : 282
-Germany              : 251
-Sweden               : 194
-France               : 129
+Total Servers: 5573
+Successful Geo-IP Resolutions: 2265
+Failed Geo-IP Resolutions: 3308
+Unknown              : 614
+United States        : 299
+Germany              : 261
+Sweden               : 202
+France               : 138
 Iran                 : 116
 Finland              : 94
-United Kingdom       : 78
-The Netherlands      : 71
+United Kingdom       : 81
+The Netherlands      : 72
+Ireland              : 42
 United Arab Emirates : 41
-Ireland              : 40
-Lithuania            : 37
-Russia               : 25
-Hong Kong            : 24
+Lithuania            : 38
+Russia               : 26
+Hong Kong            : 25
+South Korea          : 25
 Japan                : 22
 Türkiye              : 21
-Singapore            : 18
+Singapore            : 20
 Poland               : 17
-South Korea          : 17
 Switzerland          : 11
 Canada               : 10
 Spain                : 9
 Italy                : 7
+Gibraltar            : 7
 Ukraine              : 7
 Austria              : 6
-Gibraltar            : 5
 Moldova              : 5
 Philippines          : 4
 Bahrain              : 4
@@ -40,6 +40,7 @@ Serbia               : 3
 Albania              : 2
 Slovakia             : 2
 Czechia              : 2
+Slovenia             : 2
 Indonesia            : 2
 Chile                : 2
 Greece               : 1
@@ -54,31 +55,31 @@ Latvia               : 1
 Macao                : 1
 
 === Server Type Summary ===
-VLESS                : 3400
-VMESS                : 922
-SS                   : 624
-TROJAN               : 333
+VLESS                : 3462
+VMESS                : 970
+SS                   : 648
+TROJAN               : 403
+WIREGUARD            : 34
 WARP                 : 34
-WIREGUARD            : 31
 HYSTERIA2            : 19
 TUIC                 : 3
 HYSTERIA             : 0
 
 === Channel Statistics ===
+poroxybaz           : 206
 v2rayng3            : 151
-poroxybaz           : 138
 v2rayngconfig       : 109
+hope_net            : 94
+Hope_Net            : 94
+v2ray_free_conf     : 86
+farahvpn            : 80
 armodchannel        : 80
-v2ray_free_conf     : 71
-hope_net            : 70
-Hope_Net            : 70
-farahvpn            : 64
-vpnfail_v2ray       : 62
+configshub2         : 75
+vpnfail_v2ray       : 74
 meli_v2rayng        : 53
+v2rayngrit          : 52
 fast_2ray           : 52
-v2rayngrit          : 50
 disconnectedconfig  : 50
-configshub2         : 49
 vmesc               : 44
 irv2rey             : 44
 vmess_ir            : 42
@@ -88,6 +89,7 @@ v2ra_ng_iran        : 39
 vpngate_config      : 38
 nepo_v2ray          : 38
 v2rayngfast         : 37
+azarbayjab1         : 37
 v2rayn2g            : 36
 yxjnode             : 36
 v2conf              : 36
@@ -106,13 +108,13 @@ config_proxy_ir     : 34
 orange_vpns         : 34
 v2pedia             : 33
 mrv2raay            : 33
+v2aryng_vpn         : 33
 v2rayninja          : 33
 xvproxy             : 33
 v2ray_youtube       : 32
-v2aryng_vpn         : 32
 v2rng_free1         : 32
+wxgmrjdcc           : 31
 v2rayvpnclub        : 31
-azarbayjab1         : 31
 iran_access         : 30
 vpnvg               : 30
 alienvpn402         : 30
@@ -136,12 +138,12 @@ fastkanfig          : 25
 injectormconf       : 25
 dailyv2ray          : 25
 hatunnel_vpn        : 25
+v2range             : 25
 v2rayzone           : 25
 torang_vpn          : 25
 cpuvpn              : 24
 vmessraygan         : 24
 ehsawn8             : 24
-v2range             : 24
 vpnfree6            : 24
 ir_server_an        : 23
 garnet_free         : 23
@@ -162,18 +164,20 @@ PrivateVPNs         : 20
 v2rayweb            : 20
 vpneti              : 20
 v2rayngconfiig      : 20
+jiedianssr          : 20
+jiujied             : 20
+mahanfix            : 20
+huiguo62            : 20
+vistav2ray          : 20
+jiedianf            : 20
 meli_proxyy         : 20
-jiedianssr          : 19
-jiujied             : 19
 v2rayproxy          : 19
 vpn_ioss            : 19
 v2rayngvpnn         : 19
 starconfigs1        : 19
-huiguo62            : 19
 chv2raynp           : 19
 tehron98            : 19
 freeiranweb         : 19
-jiedianf            : 19
 bemolatext          : 18
 vpidiamond          : 18
 lockey_vpn          : 18
@@ -188,7 +192,6 @@ vpn_v2ra_ng         : 18
 mtpv2ray            : 18
 hopev2ray           : 18
 v2rayng_account_free: 18
-vistav2ray          : 18
 mrclud              : 18
 v2rayy_vpn13        : 17
 v2rayngconfings     : 17
@@ -197,7 +200,6 @@ v2rayvmess          : 17
 realvpnmaster       : 17
 v2rayngvp           : 16
 khoneproxy          : 16
-wxgmrjdcc           : 16
 custom_config       : 16
 Ahmedhamoomi_Servers: 16
 parsv2ray1          : 16
@@ -233,6 +235,7 @@ shadowsocksservers  : 13
 icloudyshop         : 13
 kopltall_vpn        : 13
 satafkompani        : 12
+proxy_mtproto_vpns_free: 12
 iranbfilter         : 12
 univstar            : 12
 teamvpnpro          : 12
@@ -240,6 +243,7 @@ bluevpn_v2ray       : 12
 v2rayspeed          : 11
 selinc              : 11
 vpnv2rayonline      : 11
+shadowsocksm        : 11
 V2Ray_Market11      : 11
 trand_farsi         : 11
 V2ray_market11      : 11
@@ -256,7 +260,6 @@ vipmsv2raynp        : 10
 iranray_vpn         : 10
 aryoovpn            : 10
 proxystore11        : 10
-proxy_mtproto_vpns_free: 9
 v2raying            : 9
 vpnwedbaz           : 9
 thevictorvpn        : 9
@@ -276,8 +279,8 @@ v2rray_ng           : 8
 vpncostume          : 8
 v2rayngvvpn         : 8
 iransoftware90      : 8
-shadowsocksm        : 8
 mahdivpn2           : 8
+v2raynz             : 8
 yaney_01            : 8
 Gozargah_Azadi      : 8
 free1_vpn           : 8
@@ -294,9 +297,7 @@ vipv2rayvip         : 7
 tmno1vpn            : 7
 v2rayng_lion        : 7
 vpncaneel           : 7
-mahanfix            : 7
 netazadchannel      : 7
-v2raynz             : 7
 v2shop2             : 7
 v2ray_fd            : 7
 sajad_titan_s_t_n_v2ray: 7
