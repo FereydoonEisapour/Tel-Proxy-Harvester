@@ -1,0 +1,72 @@
+=== Country Statistics ===
+Total Servers: 879
+Successful Geo-IP Resolutions: 455
+Failed Geo-IP Resolutions: 424
+Unknown              : 116
+United States        : 88
+Germany              : 61
+France               : 29
+Finland              : 26
+United Arab Emirates : 17
+Sweden               : 17
+Ireland              : 16
+The Netherlands      : 14
+Japan                : 11
+Lithuania            : 8
+United Kingdom       : 7
+Hong Kong            : 6
+Iran                 : 5
+Singapore            : 5
+Kazakhstan           : 4
+Türkiye              : 4
+South Korea          : 4
+Italy                : 3
+Russia               : 2
+India                : 2
+Poland               : 2
+Estonia              : 2
+South Africa         : 2
+Armenia              : 2
+Slovenia             : 2
+
+=== Server Type Summary ===
+VLESS                : 546
+TROJAN               : 118
+SS                   : 113
+VMESS                : 79
+WIREGUARD            : 23
+HYSTERIA             : 0
+HYSTERIA2            : 0
+TUIC                 : 0
+WARP                 : 0
+
+=== Channel Statistics ===
+poroxybaz           : 50
+Hope_Net            : 50
+v2rayngrit          : 48
+vpnfail_v2ray       : 40
+vmesc               : 40
+vmess_ir            : 40
+V2ra_ng_iran        : 39
+NEW_MTProxi2        : 38
+v2ray_free_conf     : 37
+FarahVPN            : 36
+vmesskhodam         : 34
+chanel_v2ray_2      : 34
+ConfigsHUB2         : 32
+WedBaZvpn           : 29
+V2rayNg_madam       : 29
+V2aryng_vpn         : 29
+V2rayngim           : 28
+ehsawn8             : 25
+kingofilter         : 22
+freewireguard       : 20
+jiuJieD             : 20
+jiedianF            : 20
+HuiGuo62            : 20
+PrivateVPNs         : 19
+customv2ray         : 16
+custom_config       : 14
+proxystore11        : 10
+V2Ray_Market11      : 10
+ShadowsocksM        : 9
