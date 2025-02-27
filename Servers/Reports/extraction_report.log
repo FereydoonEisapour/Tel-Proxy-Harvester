@@ -1,42 +1,43 @@
 === Country Statistics ===
-Total Servers: 5816
-Successful Geo-IP Resolutions: 2443
-Failed Geo-IP Resolutions: 3373
-Unknown              : 645
-United States        : 330
-Germany              : 275
-Sweden               : 211
-France               : 161
+Total Servers: 5971
+Successful Geo-IP Resolutions: 2537
+Failed Geo-IP Resolutions: 3434
+Unknown              : 677
+United States        : 354
+Germany              : 283
+Sweden               : 213
+France               : 170
 Finland              : 128
 Iran                 : 118
-United Kingdom       : 93
+United Kingdom       : 95
 The Netherlands      : 66
 Ireland              : 52
 United Arab Emirates : 45
 Lithuania            : 43
-Russia               : 27
-South Korea          : 26
-Singapore            : 23
-Japan                : 23
+Russia               : 29
+South Korea          : 29
+Singapore            : 25
+Japan                : 25
 Türkiye              : 21
+Poland               : 21
 Hong Kong            : 18
-Poland               : 18
 Switzerland          : 11
 Canada               : 10
 Spain                : 9
-Italy                : 7
+Italy                : 9
 Gibraltar            : 7
 Ukraine              : 7
 Austria              : 6
 Cyprus               : 6
 Indonesia            : 4
+Philippines          : 4
 Serbia               : 4
 India                : 4
 Bahrain              : 4
 Pakistan             : 4
-Philippines          : 3
 Romania              : 3
 Moldova              : 3
+Armenia              : 3
 Albania              : 2
 Vietnam              : 2
 Mauritius            : 2
@@ -56,13 +57,12 @@ Colombia             : 1
 China                : 1
 Luxembourg           : 1
 South Africa         : 1
-Armenia              : 1
 
 === Server Type Summary ===
 VMESS                : 1000
 VLESS                : 1000
-SS                   : 679
-TROJAN               : 414
+SS                   : 704
+TROJAN               : 461
 WARP                 : 34
 WIREGUARD            : 33
 HYSTERIA2            : 19
@@ -72,12 +72,14 @@ HYSTERIA             : 0
 === Channel Statistics ===
 v2rayng3            : 50
 armodchannel        : 50
+mahanfix            : 50
 v2ray_free_conf     : 50
 meli_v2rayng        : 50
 disconnectedconfig  : 50
 fast_2ray           : 50
 v2rayngrit          : 50
 vpnfail_v2ray       : 50
+wxgmrjdcc           : 50
 vmesc               : 50
 poroxybaz           : 50
 farahvpn            : 50
@@ -85,15 +87,14 @@ configshub2         : 50
 vmess_ir            : 50
 Hope_Net            : 50
 v2rayngconfig       : 50
-mahanfix            : 46
 irv2rey             : 45
 new_mtproxi2        : 44
+orange_vpns         : 42
 v2ra_ng_iran        : 41
 pr_guard            : 40
-orange_vpns         : 40
+chanel_v2ray_2      : 40
 nepo_v2ray          : 38
 vmesskhodam         : 38
-chanel_v2ray_2      : 38
 vpngate_config      : 38
 v2rayngfast         : 37
 PrivateVPNs         : 36
@@ -103,7 +104,6 @@ yxjnode             : 36
 novinology          : 36
 itv2ray             : 36
 v2conf              : 36
-wxgmrjdcc           : 35
 gh_v2rayng          : 35
 frev2rayng          : 35
 artemis_vpn_free    : 34
@@ -117,13 +117,13 @@ mrv2raay            : 33
 xvproxy             : 33
 v2pedia             : 33
 v2rng_free1         : 32
+meli_proxyy         : 32
 v2ray_youtube       : 32
 v2aryng_vpn         : 31
 v2rayvpnclub        : 31
 iran_access         : 30
 configforvpn        : 30
 vpnvg               : 30
-meli_proxyy         : 30
 azad_intrnet        : 30
 v2rayng_madam       : 30
 alienvpn402         : 30
@@ -161,26 +161,26 @@ v2freenet           : 22
 bestvpn4030         : 22
 sobi_vpn            : 22
 vless1              : 22
+jiujied             : 21
 v2hamid             : 21
 v2rayngb            : 21
 v2rayngc            : 21
 v2rayng_n2          : 21
+jiedianssr          : 21
 xnxv2ray            : 21
 vistav2ray          : 21
+huiguo62            : 21
+jiedianf            : 21
 vpnfreeo            : 21
 v2rayngconfiig      : 20
 vpneti              : 20
 v2rayweb            : 20
 free_vpn_for_all_of_us: 20
 masirbazz           : 20
-jiujied             : 19
 v2rayngvpnn         : 19
 vpn_ioss            : 19
 tehron98            : 19
-jiedianssr          : 19
 starconfigs1        : 19
-huiguo62            : 19
-jiedianf            : 19
 chv2raynp           : 19
 digiv2ray23         : 18
 vpidiamond          : 18
@@ -329,6 +329,7 @@ star_hack_100       : 6
 freeconfigvpns      : 6
 mi_pn_official      : 5
 janusvpn            : 5
+v2rez               : 5
 v2rayng_1378        : 5
 freeshadowsock      : 5
 REDFREE8            : 5
@@ -363,7 +364,6 @@ ntgreenplus         : 3
 filter5050          : 3
 phiilshekn          : 3
 sevenvpnchannel     : 3
-v2rez               : 3
 dailytek            : 3
 fasst_vpn           : 3
 shadowsocksserv     : 3
