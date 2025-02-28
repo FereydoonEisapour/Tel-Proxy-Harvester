@@ -78,3 +78,4 @@ vless://48cffefe-bb3a-4b67-9f9e-b78a2f15a88d@168.119.255.228:18637?type=tcp&secu
 trojan://telegram-id-privatevpns@18.199.47.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs🤯
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@80.92.204.106:9025
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@80.92.204.106:9025🤯
+trojan://telegram-id-privatevpns@3.123.56.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs🤯
