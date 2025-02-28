@@ -1,43 +1,46 @@
 === Country Statistics ===
-Total Servers: 1260
-Successful Geo-IP Resolutions: 689
-Failed Geo-IP Resolutions: 571
-Unknown              : 167
-United States        : 132
-Germany              : 81
-France               : 44
-Finland              : 36
-Ireland              : 33
-Sweden               : 31
-United Kingdom       : 22
-United Arab Emirates : 20
-The Netherlands      : 18
+Total Servers: 1376
+Successful Geo-IP Resolutions: 775
+Failed Geo-IP Resolutions: 601
+Unknown              : 179
+United States        : 142
+Germany              : 93
+France               : 49
+Finland              : 42
+Ireland              : 37
+Sweden               : 33
+The Netherlands      : 30
+United Kingdom       : 29
+United Arab Emirates : 22
 Lithuania            : 17
+Japan                : 15
 Singapore            : 13
-Japan                : 13
+South Korea          : 10
 Hong Kong            : 8
-South Korea          : 8
 Iran                 : 7
 Italy                : 5
+Thailand             : 4
 Kazakhstan           : 4
 Russia               : 4
 Türkiye              : 4
 Poland               : 4
-Thailand             : 2
+Armenia              : 4
+Spain                : 2
 Costa Rica           : 2
+Canada               : 2
+Gibraltar            : 2
 India                : 2
 Portugal             : 2
 Estonia              : 2
 South Africa         : 2
 Switzerland          : 2
-Armenia              : 2
 Slovenia             : 2
 
 === Server Type Summary ===
-VLESS                : 709
-SS                   : 186
-TROJAN               : 184
-VMESS                : 156
+VLESS                : 758
+SS                   : 214
+TROJAN               : 197
+VMESS                : 182
 WIREGUARD            : 25
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -65,8 +68,8 @@ V2rayngim           : 30
 V2rayNg_madam       : 29
 ehsawn8             : 25
 customv2ray         : 24
+kingofilter         : 24
 freewireguard       : 22
-kingofilter         : 22
 jiuJieD             : 20
 jiedianF            : 20
 HuiGuo62            : 20
