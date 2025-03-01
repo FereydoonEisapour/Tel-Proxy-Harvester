@@ -1,39 +1,39 @@
 === Country Statistics ===
-Total Servers: 2040
-Successful Geo-IP Resolutions: 1233
-Failed Geo-IP Resolutions: 807
-Unknown              : 289
-United States        : 198
-Germany              : 143
-Finland              : 86
-France               : 80
-Sweden               : 59
-United Kingdom       : 58
-Ireland              : 54
+Total Servers: 2130
+Successful Geo-IP Resolutions: 1302
+Failed Geo-IP Resolutions: 828
+Unknown              : 297
+United States        : 202
+Germany              : 156
+Finland              : 96
+France               : 87
+Sweden               : 66
+United Kingdom       : 61
+Ireland              : 60
 The Netherlands      : 40
-Japan                : 33
-United Arab Emirates : 24
+Japan                : 35
+United Arab Emirates : 26
 Lithuania            : 23
 Singapore            : 17
 Hong Kong            : 14
 South Korea          : 12
 Iran                 : 9
+Poland               : 9
+Spain                : 8
 India                : 8
-Poland               : 8
 China                : 8
-Spain                : 6
+Italy                : 7
 Armenia              : 6
 Slovenia             : 6
-Italy                : 5
 Thailand             : 4
 Kazakhstan           : 4
+Philippines          : 4
 Russia               : 4
 Cyprus               : 4
 Türkiye              : 4
 Estonia              : 4
 South Africa         : 4
 Bahrain              : 3
-Philippines          : 2
 Costa Rica           : 2
 Canada               : 2
 Gibraltar            : 2
@@ -44,9 +44,9 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 355
-TROJAN               : 307
-VMESS                : 292
+SS                   : 363
+TROJAN               : 330
+VMESS                : 295
 WIREGUARD            : 29
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -73,6 +73,7 @@ WedBaZvpn           : 34
 V2rayNg_madam       : 31
 V2rayngim           : 30
 customv2ray         : 30
+ShadowsocksM        : 29
 kingofilter         : 28
 ehsawn8             : 27
 freewireguard       : 26
@@ -82,4 +83,3 @@ HuiGuo62            : 21
 custom_config       : 16
 proxystore11        : 10
 V2Ray_Market11      : 10
-ShadowsocksM        : 9

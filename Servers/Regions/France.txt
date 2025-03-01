@@ -78,3 +78,10 @@ trojan://telegram-id-privatevpns@15.188.46.25:22222?security=tls&alpn=http/1.1&h
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3🤯
 trojan://telegram-id-privatevpns@15.188.46.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs🤯
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#https://t.me/ShadowsocksMss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#https://t.me/ShadowsocksMss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#https://t.me/ShadowsocksMss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
+trojan://telegram-id-directvpn@52.47.181.225:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇫🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+trojan://telegram-id-directvpn@15.188.216.101:22222?security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.216.101:22222?security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp#[🇫🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+trojan://telegram-id-privatevpns@15.237.148.200:22222?security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.237.148.200:22222?security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp#[🇫🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+trojan://telegram-id-directvpn@52.47.181.225:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇫🇷]t.me/ConfigsHub
