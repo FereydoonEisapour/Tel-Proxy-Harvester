@@ -1,25 +1,26 @@
 === Country Statistics ===
-Total Servers: 1712
-Successful Geo-IP Resolutions: 1030
-Failed Geo-IP Resolutions: 682
-Unknown              : 243
-United States        : 174
-Germany              : 126
-France               : 70
-Finland              : 66
-Sweden               : 53
-Ireland              : 47
-United Kingdom       : 46
-The Netherlands      : 34
+Total Servers: 1827
+Successful Geo-IP Resolutions: 1095
+Failed Geo-IP Resolutions: 732
+Unknown              : 256
+United States        : 188
+Germany              : 130
+France               : 72
+Finland              : 70
+Sweden               : 55
+Ireland              : 51
+United Kingdom       : 50
+The Netherlands      : 38
+Japan                : 25
 United Arab Emirates : 24
-Japan                : 23
 Lithuania            : 19
 Singapore            : 17
-South Korea          : 10
-Hong Kong            : 8
-Iran                 : 7
+South Korea          : 12
+Hong Kong            : 10
+Iran                 : 9
 India                : 6
 Poland               : 6
+Armenia              : 6
 Italy                : 5
 Thailand             : 4
 Kazakhstan           : 4
@@ -27,22 +28,23 @@ Russia               : 4
 Türkiye              : 4
 Estonia              : 4
 South Africa         : 4
-Armenia              : 4
 Spain                : 2
 Costa Rica           : 2
 Canada               : 2
 Cyprus               : 2
 Gibraltar            : 2
 Portugal             : 2
+Colombia             : 2
+Bahrain              : 2
 Switzerland          : 2
 Bolivia              : 2
 Slovenia             : 2
 
 === Server Type Summary ===
-VLESS                : 925
-SS                   : 275
-TROJAN               : 248
-VMESS                : 236
+VLESS                : 967
+SS                   : 305
+TROJAN               : 269
+VMESS                : 258
 WIREGUARD            : 28
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -51,23 +53,23 @@ WARP                 : 0
 
 === Channel Statistics ===
 FarahVPN            : 50
+PrivateVPNs         : 50
 v2ray_free_conf     : 50
 v2rayngrit          : 50
 vpnfail_v2ray       : 50
 vmesc               : 50
 poroxybaz           : 50
 vmess_ir            : 50
+NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
-PrivateVPNs         : 49
-NEW_MTProxi2        : 48
 vmesskhodam         : 43
-V2ra_ng_iran        : 41
+V2ra_ng_iran        : 43
 chanel_v2ray_2      : 40
 WedBaZvpn           : 32
+V2rayNg_madam       : 31
 V2aryng_vpn         : 31
 V2rayngim           : 30
-V2rayNg_madam       : 29
 ehsawn8             : 27
 kingofilter         : 26
 freewireguard       : 25
