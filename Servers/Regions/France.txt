@@ -70,3 +70,6 @@ vless://d927916a-7dca-4466-9c5e-e70c0a6879b5@91.134.61.207:18764?security=none&e
 vless://d927916a-7dca-4466-9c5e-e70c0a6879b5@91.134.61.207:18764?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3🤯
 trojan://telegram-id-privatevpns@35.181.216.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@51.44.191.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs🤯
+vless://ZEDMODEON--biaZEDMODEON@51.83.78.193:19246?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#all%20%F0%9F%87%AB%F0%9F%87%B7%20%28%40ZEDMODEON%29%20193
+vless://ZEDMODEON--biaZEDMODEON@51.83.78.193:19246?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#all%20%F0%9F%87%AB%F0%9F%87%B7%20%28%40ZEDMODEON%29%20193🤯
+trojan://telegram-id-privatevpns@13.37.72.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs🤯

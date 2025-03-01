@@ -1,25 +1,25 @@
 === Country Statistics ===
-Total Servers: 1827
-Successful Geo-IP Resolutions: 1095
-Failed Geo-IP Resolutions: 732
-Unknown              : 256
-United States        : 188
-Germany              : 130
-France               : 72
-Finland              : 70
+Total Servers: 1899
+Successful Geo-IP Resolutions: 1141
+Failed Geo-IP Resolutions: 758
+Unknown              : 268
+United States        : 194
+Germany              : 137
+Finland              : 76
+France               : 75
 Sweden               : 55
+United Kingdom       : 52
 Ireland              : 51
-United Kingdom       : 50
 The Netherlands      : 38
-Japan                : 25
+Japan                : 27
 United Arab Emirates : 24
 Lithuania            : 19
 Singapore            : 17
+Hong Kong            : 12
 South Korea          : 12
-Hong Kong            : 10
 Iran                 : 9
+Poland               : 8
 India                : 6
-Poland               : 6
 Armenia              : 6
 Italy                : 5
 Thailand             : 4
@@ -28,7 +28,9 @@ Russia               : 4
 Türkiye              : 4
 Estonia              : 4
 South Africa         : 4
+Slovenia             : 4
 Spain                : 2
+Philippines          : 2
 Costa Rica           : 2
 Canada               : 2
 Cyprus               : 2
@@ -38,13 +40,12 @@ Colombia             : 2
 Bahrain              : 2
 Switzerland          : 2
 Bolivia              : 2
-Slovenia             : 2
 
 === Server Type Summary ===
-VLESS                : 967
-SS                   : 305
-TROJAN               : 269
-VMESS                : 258
+VLESS                : 999
+SS                   : 323
+TROJAN               : 281
+VMESS                : 268
 WIREGUARD            : 28
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -63,12 +64,12 @@ vmess_ir            : 50
 NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
-vmesskhodam         : 43
+vmesskhodam         : 45
 V2ra_ng_iran        : 43
 chanel_v2ray_2      : 40
+V2aryng_vpn         : 37
 WedBaZvpn           : 32
 V2rayNg_madam       : 31
-V2aryng_vpn         : 31
 V2rayngim           : 30
 ehsawn8             : 27
 kingofilter         : 26
