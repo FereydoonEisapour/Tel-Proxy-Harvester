@@ -1,28 +1,28 @@
 === Country Statistics ===
-Total Servers: 2717
-Successful Geo-IP Resolutions: 1717
-Failed Geo-IP Resolutions: 1000
-Unknown              : 366
-United States        : 257
-Germany              : 213
-Finland              : 132
-France               : 125
-Sweden               : 87
-Ireland              : 87
-United Kingdom       : 84
-The Netherlands      : 52
-Japan                : 48
-Lithuania            : 33
-Singapore            : 27
+Total Servers: 2842
+Successful Geo-IP Resolutions: 1806
+Failed Geo-IP Resolutions: 1036
+Unknown              : 382
+United States        : 275
+Germany              : 225
+Finland              : 134
+France               : 129
+Sweden               : 93
+Ireland              : 91
+United Kingdom       : 89
+The Netherlands      : 54
+Japan                : 50
+Lithuania            : 39
+Singapore            : 29
 United Arab Emirates : 26
+Poland               : 25
 Hong Kong            : 24
-Poland               : 21
-Spain                : 14
-Iran                 : 13
+Spain                : 16
+Iran                 : 15
 South Korea          : 12
+Bahrain              : 11
 China                : 10
 Italy                : 9
-Bahrain              : 9
 India                : 8
 Slovenia             : 8
 Armenia              : 6
@@ -44,10 +44,10 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 496
-TROJAN               : 443
-VMESS                : 359
-WIREGUARD            : 32
+SS                   : 518
+TROJAN               : 472
+VMESS                : 375
+WIREGUARD            : 34
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -66,16 +66,16 @@ vmess_ir            : 50
 NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
-chanel_v2ray_2      : 44
+chanel_v2ray_2      : 46
 V2aryng_vpn         : 44
 V2ra_ng_iran        : 43
 WedBaZvpn           : 39
 V2rayNg_madam       : 35
 ShadowsocksM        : 33
+freewireguard       : 31
 V2rayngim           : 30
 customv2ray         : 30
 kingofilter         : 30
-freewireguard       : 29
 ehsawn8             : 27
 jiuJieD             : 21
 jiedianF            : 21
