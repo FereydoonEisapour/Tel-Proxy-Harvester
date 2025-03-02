@@ -116,3 +116,10 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@54.36.174.181:9102#%F0%9F%87%AB%F0%9F%8
 trojan://telegram-id-privatevpns@13.38.157.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs🤯
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#%F0%9F%87%AB%F0%9F%87%B7%20FR-54.36.174.181%3A4444
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#%F0%9F%87%AB%F0%9F%87%B7%20FR-54.36.174.181%3A4444🤯
+trojan://telegram-id-privatevpns@52.47.213.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.38.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+vless://9416286d-bc1a-42c2-8c69-61fe39b49fcc@185.10.18.161:2052?mode=multi&security=reality&encryption=none&authority=Icloud.com&pbk=mxwd0_CWCFjrBQCeeudvLRSsp1aE56mi1xIDthkomVA&fp=chrome&spx=%2F&type=grpc&serviceName=%2FHormozv%3Fed%3D2048&sni=refersion.com&sid=6450593947690f#vless://a4f85248-7545-486e-b090-9864ba52bcaf@185.10.18.161:2083?mode=multi&security=reality&encryption=none&authority=Apple.com&pbk=-AaAo9sp3l8URKQd_QdbuKElofL6j7tygZse7YfVRxw&fp=chrome&spx=%2F&type=grpc&serviceName=Hormoz.vp.Hormoz.vp&sni=routedns.net&sid=e876e7#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.251.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.137.193:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+trojan://telegram-id-directvpn@13.37.135.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+trojan://telegram-id-directvpn@51.44.38.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
