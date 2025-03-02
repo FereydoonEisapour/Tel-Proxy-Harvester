@@ -70,3 +70,4 @@ trojan://telegram-id-directvpn@18.135.90.225:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@18.132.144.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.116.46:443#[🇬🇧]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.116.46:443#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.11.73.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
