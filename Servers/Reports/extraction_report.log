@@ -1,16 +1,16 @@
 === Country Statistics ===
-Total Servers: 2842
-Successful Geo-IP Resolutions: 1806
-Failed Geo-IP Resolutions: 1036
-Unknown              : 382
-United States        : 275
-Germany              : 225
-Finland              : 134
-France               : 129
-Sweden               : 93
-Ireland              : 91
-United Kingdom       : 89
-The Netherlands      : 54
+Total Servers: 2950
+Successful Geo-IP Resolutions: 1867
+Failed Geo-IP Resolutions: 1083
+Unknown              : 388
+United States        : 287
+Germany              : 232
+Finland              : 138
+France               : 135
+Ireland              : 99
+Sweden               : 95
+United Kingdom       : 94
+The Netherlands      : 59
 Japan                : 50
 Lithuania            : 39
 Singapore            : 29
@@ -23,19 +23,19 @@ South Korea          : 12
 Bahrain              : 11
 China                : 10
 Italy                : 9
+Türkiye              : 8
 India                : 8
 Slovenia             : 8
 Armenia              : 6
 Thailand             : 4
 Kazakhstan           : 4
 Philippines          : 4
+Canada               : 4
 Russia               : 4
 Cyprus               : 4
-Türkiye              : 4
 Estonia              : 4
 South Africa         : 4
 Costa Rica           : 2
-Canada               : 2
 Gibraltar            : 2
 Portugal             : 2
 Colombia             : 2
@@ -44,9 +44,9 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 518
-TROJAN               : 472
-VMESS                : 375
+SS                   : 540
+TROJAN               : 492
+VMESS                : 397
 WIREGUARD            : 34
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -66,14 +66,14 @@ vmess_ir            : 50
 NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
+V2ra_ng_iran        : 47
 chanel_v2ray_2      : 46
-V2aryng_vpn         : 44
-V2ra_ng_iran        : 43
+V2aryng_vpn         : 46
 WedBaZvpn           : 39
 V2rayNg_madam       : 35
 ShadowsocksM        : 33
+V2rayngim           : 32
 freewireguard       : 31
-V2rayngim           : 30
 customv2ray         : 30
 kingofilter         : 30
 ehsawn8             : 27
