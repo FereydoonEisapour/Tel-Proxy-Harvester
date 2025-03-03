@@ -1,24 +1,24 @@
 === Country Statistics ===
-Total Servers: 3046
-Successful Geo-IP Resolutions: 1920
-Failed Geo-IP Resolutions: 1126
-Unknown              : 390
-United States        : 297
-Germany              : 238
-France               : 138
-Finland              : 138
-Ireland              : 106
-Sweden               : 101
-United Kingdom       : 99
+Total Servers: 3183
+Successful Geo-IP Resolutions: 2004
+Failed Geo-IP Resolutions: 1179
+Unknown              : 401
+United States        : 317
+Germany              : 245
+France               : 146
+Finland              : 144
+Ireland              : 112
+Sweden               : 105
+United Kingdom       : 105
 The Netherlands      : 63
-Japan                : 52
-Lithuania            : 39
-Singapore            : 31
+Japan                : 56
+Lithuania            : 45
+Singapore            : 33
+Hong Kong            : 28
 Poland               : 27
 United Arab Emirates : 26
-Hong Kong            : 26
+Spain                : 18
 Iran                 : 17
-Spain                : 16
 South Korea          : 12
 Bahrain              : 11
 China                : 10
@@ -44,10 +44,10 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 559
-TROJAN               : 512
-VMESS                : 411
-WIREGUARD            : 36
+SS                   : 585
+TROJAN               : 545
+VMESS                : 431
+WIREGUARD            : 37
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -66,16 +66,16 @@ vmess_ir            : 50
 NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
+V2aryng_vpn         : 50
 V2ra_ng_iran        : 47
 chanel_v2ray_2      : 46
-V2aryng_vpn         : 46
+ShadowsocksM        : 40
 WedBaZvpn           : 39
-ShadowsocksM        : 39
+customv2ray         : 38
 V2rayNg_madam       : 35
 V2rayngim           : 32
-freewireguard       : 31
-customv2ray         : 30
-kingofilter         : 30
+freewireguard       : 32
+kingofilter         : 32
 ehsawn8             : 27
 jiuJieD             : 22
 jiedianF            : 22
