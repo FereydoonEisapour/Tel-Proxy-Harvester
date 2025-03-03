@@ -1,24 +1,24 @@
 === Country Statistics ===
-Total Servers: 2950
-Successful Geo-IP Resolutions: 1867
-Failed Geo-IP Resolutions: 1083
-Unknown              : 388
-United States        : 287
-Germany              : 232
+Total Servers: 3046
+Successful Geo-IP Resolutions: 1920
+Failed Geo-IP Resolutions: 1126
+Unknown              : 390
+United States        : 297
+Germany              : 238
+France               : 138
 Finland              : 138
-France               : 135
-Ireland              : 99
-Sweden               : 95
-United Kingdom       : 94
-The Netherlands      : 59
-Japan                : 50
+Ireland              : 106
+Sweden               : 101
+United Kingdom       : 99
+The Netherlands      : 63
+Japan                : 52
 Lithuania            : 39
-Singapore            : 29
+Singapore            : 31
+Poland               : 27
 United Arab Emirates : 26
-Poland               : 25
-Hong Kong            : 24
+Hong Kong            : 26
+Iran                 : 17
 Spain                : 16
-Iran                 : 15
 South Korea          : 12
 Bahrain              : 11
 China                : 10
@@ -44,10 +44,10 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 540
-TROJAN               : 492
-VMESS                : 397
-WIREGUARD            : 34
+SS                   : 559
+TROJAN               : 512
+VMESS                : 411
+WIREGUARD            : 36
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -70,16 +70,16 @@ V2ra_ng_iran        : 47
 chanel_v2ray_2      : 46
 V2aryng_vpn         : 46
 WedBaZvpn           : 39
+ShadowsocksM        : 39
 V2rayNg_madam       : 35
-ShadowsocksM        : 33
 V2rayngim           : 32
 freewireguard       : 31
 customv2ray         : 30
 kingofilter         : 30
 ehsawn8             : 27
-jiuJieD             : 21
-jiedianF            : 21
-HuiGuo62            : 21
+jiuJieD             : 22
+jiedianF            : 22
+HuiGuo62            : 22
 custom_config       : 16
 proxystore11        : 10
 V2Ray_Market11      : 10
