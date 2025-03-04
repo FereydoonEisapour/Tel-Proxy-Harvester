@@ -1,21 +1,21 @@
 === Country Statistics ===
-Total Servers: 3341
-Successful Geo-IP Resolutions: 2114
-Failed Geo-IP Resolutions: 1227
-Unknown              : 415
-United States        : 329
-Germany              : 267
-Finland              : 154
-France               : 149
-Ireland              : 118
-United Kingdom       : 114
-Sweden               : 113
+Total Servers: 3456
+Successful Geo-IP Resolutions: 2187
+Failed Geo-IP Resolutions: 1269
+Unknown              : 421
+United States        : 341
+Germany              : 280
+Finland              : 164
+France               : 152
+Ireland              : 122
+United Kingdom       : 121
+Sweden               : 117
 The Netherlands      : 65
 Japan                : 58
 Lithuania            : 49
-Singapore            : 39
-Hong Kong            : 32
-Poland               : 29
+Singapore            : 47
+Hong Kong            : 34
+Poland               : 31
 United Arab Emirates : 26
 Spain                : 20
 Iran                 : 17
@@ -37,6 +37,7 @@ Estonia              : 4
 South Africa         : 4
 Puerto Rico          : 2
 Costa Rica           : 2
+Moldova              : 2
 Gibraltar            : 2
 Portugal             : 2
 Colombia             : 2
@@ -45,9 +46,9 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 617
-TROJAN               : 569
-VMESS                : 449
+SS                   : 639
+TROJAN               : 592
+VMESS                : 475
 WIREGUARD            : 39
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -73,7 +74,7 @@ V2ra_ng_iran        : 47
 ShadowsocksM        : 40
 WedBaZvpn           : 39
 customv2ray         : 38
-V2rayNg_madam       : 35
+V2rayNg_madam       : 37
 V2rayngim           : 34
 freewireguard       : 34
 kingofilter         : 32
