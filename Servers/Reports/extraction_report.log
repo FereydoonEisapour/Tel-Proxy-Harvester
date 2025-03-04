@@ -1,44 +1,44 @@
 === Country Statistics ===
-Total Servers: 3716
-Successful Geo-IP Resolutions: 2378
-Failed Geo-IP Resolutions: 1338
-Unknown              : 442
-United States        : 363
-Germany              : 293
-Finland              : 172
-France               : 170
-Ireland              : 142
-Sweden               : 139
-United Kingdom       : 135
-The Netherlands      : 69
-Japan                : 62
-Singapore            : 53
-Lithuania            : 51
-Hong Kong            : 41
-Poland               : 33
-United Arab Emirates : 28
+Total Servers: 3906
+Successful Geo-IP Resolutions: 2501
+Failed Geo-IP Resolutions: 1405
+Unknown              : 488
+United States        : 369
+Germany              : 301
+France               : 177
+Finland              : 173
+Ireland              : 144
+Sweden               : 141
+United Kingdom       : 138
+The Netherlands      : 79
+Japan                : 64
+Singapore            : 57
+Lithuania            : 55
+Hong Kong            : 47
+Poland               : 38
+United Arab Emirates : 30
 Spain                : 22
-Iran                 : 17
+Iran                 : 21
 South Korea          : 16
-Bahrain              : 13
+Bahrain              : 15
 China                : 12
+Slovenia             : 12
+Türkiye              : 10
 India                : 10
-Slovenia             : 10
 Italy                : 9
 Philippines          : 8
-Türkiye              : 8
+Russia               : 7
 Canada               : 6
 Armenia              : 6
 Thailand             : 4
 Kazakhstan           : 4
-Russia               : 4
+Moldova              : 4
 Cyprus               : 4
 Estonia              : 4
 South Africa         : 4
 Switzerland          : 4
 Puerto Rico          : 2
 Costa Rica           : 2
-Moldova              : 2
 Brazil               : 2
 Gibraltar            : 2
 Portugal             : 2
@@ -49,10 +49,10 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 706
-TROJAN               : 648
-VMESS                : 497
-WIREGUARD            : 40
+SS                   : 742
+TROJAN               : 675
+VMESS                : 521
+WIREGUARD            : 48
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -67,20 +67,20 @@ vmesskhodam         : 50
 vpnfail_v2ray       : 50
 vmesc               : 50
 poroxybaz           : 50
+chanel_v2ray_2      : 50
 vmess_ir            : 50
 NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
 V2aryng_vpn         : 50
-chanel_v2ray_2      : 48
+customv2ray         : 47
 V2ra_ng_iran        : 47
 WedBaZvpn           : 45
 ShadowsocksM        : 42
-customv2ray         : 38
-V2rayNg_madam       : 37
-freewireguard       : 35
-V2rayngim           : 34
-kingofilter         : 32
+V2rayNg_madam       : 39
+V2rayngim           : 38
+freewireguard       : 37
+kingofilter         : 34
 ehsawn8             : 27
 jiuJieD             : 23
 jiedianF            : 23
@@ -88,3 +88,4 @@ HuiGuo62            : 23
 custom_config       : 16
 proxystore11        : 10
 V2Ray_Market11      : 10
+ShadowSocks_s       : 4
