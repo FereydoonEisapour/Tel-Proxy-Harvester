@@ -1,32 +1,32 @@
 === Country Statistics ===
-Total Servers: 3456
-Successful Geo-IP Resolutions: 2187
-Failed Geo-IP Resolutions: 1269
-Unknown              : 421
-United States        : 341
-Germany              : 280
-Finland              : 164
-France               : 152
-Ireland              : 122
-United Kingdom       : 121
-Sweden               : 117
+Total Servers: 3547
+Successful Geo-IP Resolutions: 2267
+Failed Geo-IP Resolutions: 1280
+Unknown              : 433
+United States        : 355
+Germany              : 283
+Finland              : 166
+France               : 157
+Ireland              : 130
+United Kingdom       : 128
+Sweden               : 127
 The Netherlands      : 65
-Japan                : 58
+Japan                : 60
+Singapore            : 51
 Lithuania            : 49
-Singapore            : 47
-Hong Kong            : 34
+Hong Kong            : 37
 Poland               : 31
-United Arab Emirates : 26
-Spain                : 20
+United Arab Emirates : 28
+Spain                : 22
 Iran                 : 17
 South Korea          : 12
 Bahrain              : 11
 China                : 10
 Italy                : 9
+Philippines          : 8
 Türkiye              : 8
 India                : 8
 Slovenia             : 8
-Philippines          : 6
 Armenia              : 6
 Thailand             : 4
 Kazakhstan           : 4
@@ -35,20 +35,21 @@ Russia               : 4
 Cyprus               : 4
 Estonia              : 4
 South Africa         : 4
+Switzerland          : 4
 Puerto Rico          : 2
 Costa Rica           : 2
 Moldova              : 2
+Brazil               : 2
 Gibraltar            : 2
 Portugal             : 2
 Colombia             : 2
-Switzerland          : 2
 Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 639
-TROJAN               : 592
-VMESS                : 475
+SS                   : 665
+TROJAN               : 618
+VMESS                : 481
 WIREGUARD            : 39
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -71,7 +72,7 @@ Hope_Net            : 50
 V2aryng_vpn         : 50
 chanel_v2ray_2      : 48
 V2ra_ng_iran        : 47
-ShadowsocksM        : 40
+ShadowsocksM        : 42
 WedBaZvpn           : 39
 customv2ray         : 38
 V2rayNg_madam       : 37
