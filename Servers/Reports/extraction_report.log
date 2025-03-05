@@ -1,22 +1,22 @@
 === Country Statistics ===
-Total Servers: 3906
-Successful Geo-IP Resolutions: 2501
-Failed Geo-IP Resolutions: 1405
-Unknown              : 488
-United States        : 369
-Germany              : 301
-France               : 177
-Finland              : 173
-Ireland              : 144
-Sweden               : 141
-United Kingdom       : 138
-The Netherlands      : 79
-Japan                : 64
-Singapore            : 57
+Total Servers: 4035
+Successful Geo-IP Resolutions: 2590
+Failed Geo-IP Resolutions: 1445
+Unknown              : 508
+United States        : 381
+Germany              : 314
+France               : 180
+Finland              : 175
+Ireland              : 148
+Sweden               : 147
+United Kingdom       : 145
+The Netherlands      : 81
+Japan                : 72
+Singapore            : 59
 Lithuania            : 55
-Hong Kong            : 47
+Hong Kong            : 49
 Poland               : 38
-United Arab Emirates : 30
+United Arab Emirates : 32
 Spain                : 22
 Iran                 : 21
 South Korea          : 16
@@ -27,19 +27,19 @@ Türkiye              : 10
 India                : 10
 Italy                : 9
 Philippines          : 8
+Moldova              : 8
 Russia               : 7
 Canada               : 6
 Armenia              : 6
 Thailand             : 4
 Kazakhstan           : 4
-Moldova              : 4
+Brazil               : 4
 Cyprus               : 4
 Estonia              : 4
 South Africa         : 4
 Switzerland          : 4
 Puerto Rico          : 2
 Costa Rica           : 2
-Brazil               : 2
 Gibraltar            : 2
 Portugal             : 2
 Colombia             : 2
@@ -49,10 +49,10 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 742
-TROJAN               : 675
-VMESS                : 521
-WIREGUARD            : 48
+SS                   : 760
+TROJAN               : 701
+VMESS                : 543
+WIREGUARD            : 50
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -73,8 +73,8 @@ NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
 V2aryng_vpn         : 50
+V2ra_ng_iran        : 49
 customv2ray         : 47
-V2ra_ng_iran        : 47
 WedBaZvpn           : 45
 ShadowsocksM        : 42
 V2rayNg_madam       : 39
