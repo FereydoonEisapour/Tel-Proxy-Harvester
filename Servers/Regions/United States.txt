@@ -52,3 +52,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:8888#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.113:8008#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20CA%2C%20United%20States%20%2828%29🤯
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
+vless://c6b34209-523e-4350-a1fd-058a5847d124@151.101.192.155:80?path=ws%2F%3Fed%3D2560%23Telegram%40Freev2alpha&security=none&encryption=none&host=iranhoush.com&type=ws#[🇺🇸]t.me/ConfigsHubϟ
+vless://c6b34209-523e-4350-a1fd-058a5847d124@151.101.192.155:80?path=ws%2F%3Fed%3D2560%23Telegram%40Freev2alpha&security=none&encryption=none&host=iranhoush.com&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.5.213.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+trojan://telegram-id-directvpn@44.199.170.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our

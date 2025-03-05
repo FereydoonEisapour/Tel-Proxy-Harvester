@@ -1,17 +1,17 @@
 === Country Statistics ===
-Total Servers: 830
-Successful Geo-IP Resolutions: 441
-Failed Geo-IP Resolutions: 389
-Unknown              : 96
-Germany              : 68
-United States        : 54
+Total Servers: 941
+Successful Geo-IP Resolutions: 489
+Failed Geo-IP Resolutions: 452
+Unknown              : 99
+Germany              : 73
+United States        : 58
 Finland              : 36
-France               : 25
-United Kingdom       : 19
-Ireland              : 19
-The Netherlands      : 18
+France               : 32
+United Kingdom       : 25
+Ireland              : 24
+Sweden               : 23
+The Netherlands      : 22
 United Arab Emirates : 13
-Sweden               : 13
 Japan                : 13
 Lithuania            : 12
 Iran                 : 7
@@ -19,9 +19,10 @@ Singapore            : 7
 Canada               : 6
 Hong Kong            : 4
 Moldova              : 4
+Russia               : 4
 China                : 4
 Kazakhstan           : 2
-Russia               : 2
+Philippines          : 2
 Malaysia             : 2
 Cyprus               : 2
 Türkiye              : 2
@@ -34,10 +35,10 @@ Slovenia             : 2
 Italy                : 1
 
 === Server Type Summary ===
-VLESS                : 457
-SS                   : 165
-VMESS                : 98
-TROJAN               : 88
+VLESS                : 511
+SS                   : 174
+TROJAN               : 132
+VMESS                : 102
 WIREGUARD            : 22
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -46,14 +47,14 @@ WARP                 : 0
 
 === Channel Statistics ===
 poroxybaz           : 50
+ConfigsHUB2         : 50
 Hope_Net            : 48
 v2rayngrit          : 47
+vpnfail_v2ray       : 44
+vmess_ir            : 42
 FarahVPN            : 40
-vpnfail_v2ray       : 40
+v2ray_free_conf     : 40
 vmesc               : 40
-vmess_ir            : 40
-v2ray_free_conf     : 39
-ConfigsHUB2         : 38
 NEW_MTProxi2        : 36
 V2ra_ng_iran        : 33
 V2rayNg_madam       : 32
@@ -72,5 +73,5 @@ custom_config       : 16
 customv2ray         : 14
 V2aryng_vpn         : 14
 V2Ray_Market11      : 8
+ShadowSocks_s       : 6
 proxystore11        : 4
-ShadowSocks_s       : 4
