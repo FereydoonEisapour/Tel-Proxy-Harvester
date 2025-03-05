@@ -1,20 +1,20 @@
 === Country Statistics ===
-Total Servers: 4141
-Successful Geo-IP Resolutions: 2673
-Failed Geo-IP Resolutions: 1468
-Unknown              : 514
-United States        : 394
-Germany              : 320
-France               : 187
-Finland              : 179
-Sweden               : 157
-United Kingdom       : 154
-Ireland              : 154
+Total Servers: 4261
+Successful Geo-IP Resolutions: 2766
+Failed Geo-IP Resolutions: 1495
+Unknown              : 525
+United States        : 401
+Germany              : 330
+France               : 198
+Finland              : 185
+United Kingdom       : 167
+Sweden               : 166
+Ireland              : 166
 The Netherlands      : 81
-Japan                : 72
-Singapore            : 63
+Japan                : 78
+Singapore            : 65
 Lithuania            : 55
-Hong Kong            : 49
+Hong Kong            : 51
 Poland               : 38
 United Arab Emirates : 32
 Iran                 : 23
@@ -24,17 +24,17 @@ South Korea          : 16
 China                : 14
 Slovenia             : 14
 Moldova              : 12
+Türkiye              : 12
 Philippines          : 10
-Türkiye              : 10
 India                : 10
 Italy                : 9
 Russia               : 7
 Canada               : 6
+Cyprus               : 6
 Armenia              : 6
 Thailand             : 4
 Kazakhstan           : 4
 Brazil               : 4
-Cyprus               : 4
 Taiwan               : 4
 Estonia              : 4
 South Africa         : 4
@@ -50,10 +50,10 @@ Bolivia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-SS                   : 781
-TROJAN               : 730
-VMESS                : 555
-WIREGUARD            : 50
+SS                   : 800
+TROJAN               : 771
+VMESS                : 569
+WIREGUARD            : 51
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -80,7 +80,7 @@ WedBaZvpn           : 45
 ShadowsocksM        : 42
 V2rayNg_madam       : 39
 V2rayngim           : 38
-freewireguard       : 37
+freewireguard       : 38
 kingofilter         : 34
 ehsawn8             : 27
 jiuJieD             : 24
