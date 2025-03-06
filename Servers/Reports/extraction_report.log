@@ -1,26 +1,28 @@
 === Country Statistics ===
-Total Servers: 1086
-Successful Geo-IP Resolutions: 565
-Failed Geo-IP Resolutions: 521
-Unknown              : 110
-Germany              : 82
-United States        : 70
+Total Servers: 1171
+Successful Geo-IP Resolutions: 618
+Failed Geo-IP Resolutions: 553
+Unknown              : 122
+Germany              : 86
+United States        : 77
+United Kingdom       : 41
 Finland              : 39
-United Kingdom       : 37
-France               : 34
-Sweden               : 31
+France               : 38
+Sweden               : 35
 Ireland              : 28
 The Netherlands      : 26
 United Arab Emirates : 15
 Japan                : 14
 Lithuania            : 12
 Iran                 : 11
-Singapore            : 7
+Hong Kong            : 10
+Singapore            : 9
+Moldova              : 6
 Canada               : 6
+Bahrain              : 6
 China                : 6
-Hong Kong            : 4
-Moldova              : 4
 Russia               : 4
+Switzerland          : 4
 Thailand             : 2
 Kazakhstan           : 2
 Philippines          : 2
@@ -29,17 +31,16 @@ Cyprus               : 2
 Türkiye              : 2
 India                : 2
 Poland               : 2
-Bahrain              : 2
+Israel               : 2
 Taiwan               : 2
-Switzerland          : 2
 Slovenia             : 2
 Italy                : 1
 
 === Server Type Summary ===
-VLESS                : 556
-SS                   : 202
-TROJAN               : 162
-VMESS                : 144
+VLESS                : 586
+SS                   : 217
+TROJAN               : 182
+VMESS                : 164
 WIREGUARD            : 22
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -65,10 +66,10 @@ chanel_v2ray_2      : 26
 ehsawn8             : 25
 PrivateVPNs         : 21
 WedBaZvpn           : 21
-jiuJieD             : 20
+jiuJieD             : 21
+jiedianF            : 21
+HuiGuo62            : 21
 kingofilter         : 20
-jiedianF            : 20
-HuiGuo62            : 20
 freewireguard       : 16
 custom_config       : 16
 customv2ray         : 14
