@@ -2,3 +2,5 @@ vless://ZEDMODEON--joinZEDMODEON@45.144.51.195:35036?mode=gun&security=none&encr
 vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:3389#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland%20%288%29🤯
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:3389#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland%20%288%29
+vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🏁]t.me/ConfigsHubϟ
+vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🏁]t.me/ConfigsHub
