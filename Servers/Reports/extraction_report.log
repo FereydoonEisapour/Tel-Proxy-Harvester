@@ -1,33 +1,34 @@
 === Country Statistics ===
-Total Servers: 1665
-Successful Geo-IP Resolutions: 938
-Failed Geo-IP Resolutions: 727
-Unknown              : 166
-Germany              : 145
-United States        : 112
-United Kingdom       : 65
+Total Servers: 1761
+Successful Geo-IP Resolutions: 1005
+Failed Geo-IP Resolutions: 756
+Unknown              : 172
+Germany              : 163
+United States        : 123
+United Kingdom       : 67
+France               : 65
 Sweden               : 61
-France               : 60
-Finland              : 53
+Finland              : 57
 Ireland              : 50
-The Netherlands      : 40
-Japan                : 26
-Hong Kong            : 18
+The Netherlands      : 44
+Japan                : 28
+Hong Kong            : 22
 United Arab Emirates : 17
+Bahrain              : 16
 Iran                 : 15
-Bahrain              : 14
 Lithuania            : 14
-Singapore            : 11
+Singapore            : 13
 Canada               : 8
 China                : 8
 Switzerland          : 8
+Philippines          : 7
 Moldova              : 6
-Philippines          : 4
+Iceland              : 4
 Russia               : 4
 Gibraltar            : 4
 Poland               : 4
 Taiwan               : 4
-Iceland              : 2
+South Korea          : 4
 Thailand             : 2
 Kazakhstan           : 2
 Malaysia             : 2
@@ -35,15 +36,14 @@ Cyprus               : 2
 Türkiye              : 2
 India                : 2
 Israel               : 2
-South Korea          : 2
 Slovenia             : 2
 Italy                : 1
 
 === Server Type Summary ===
-VLESS                : 831
-SS                   : 286
-TROJAN               : 277
-VMESS                : 246
+VLESS                : 882
+SS                   : 301
+TROJAN               : 294
+VMESS                : 259
 WIREGUARD            : 25
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -74,8 +74,8 @@ jiuJieD             : 21
 jiedianF            : 21
 HuiGuo62            : 21
 kingofilter         : 20
+V2aryng_vpn         : 20
 freewireguard       : 19
-V2aryng_vpn         : 18
 custom_config       : 16
 proxystore11        : 8
 V2Ray_Market11      : 8
