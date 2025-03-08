@@ -1,29 +1,29 @@
 === Country Statistics ===
-Total Servers: 2321
-Successful Geo-IP Resolutions: 1389
-Failed Geo-IP Resolutions: 932
-Unknown              : 244
-Germany              : 216
-United States        : 169
-United Kingdom       : 100
-France               : 99
-Sweden               : 81
-Finland              : 73
+Total Servers: 2439
+Successful Geo-IP Resolutions: 1459
+Failed Geo-IP Resolutions: 980
+Unknown              : 261
+Germany              : 220
+United States        : 183
+United Kingdom       : 107
+France               : 105
+Sweden               : 85
+Finland              : 79
 Ireland              : 68
-The Netherlands      : 48
+The Netherlands      : 50
 Hong Kong            : 46
-Japan                : 42
+Japan                : 44
 United Arab Emirates : 23
+Iran                 : 21
+Bahrain              : 21
 Lithuania            : 20
-Iran                 : 19
-Bahrain              : 19
 Singapore            : 17
+Philippines          : 11
 Switzerland          : 10
 Moldova              : 8
 Canada               : 8
 Poland               : 8
 China                : 8
-Philippines          : 7
 Italy                : 5
 Iceland              : 4
 Russia               : 4
@@ -46,10 +46,10 @@ Armenia              : 2
 
 === Server Type Summary ===
 VLESS                : 1000
-TROJAN               : 419
-SS                   : 394
-VMESS                : 331
-WIREGUARD            : 28
+TROJAN               : 434
+SS                   : 404
+VMESS                : 347
+WIREGUARD            : 29
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -68,14 +68,14 @@ NEW_MTProxi2        : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
 vmesskhodam         : 48
+V2rayNg_madam       : 38
 V2ra_ng_iran        : 35
-V2rayNg_madam       : 34
+chanel_v2ray_2      : 32
+V2rayngim           : 31
 customv2ray         : 31
-chanel_v2ray_2      : 30
-V2rayngim           : 29
 ehsawn8             : 26
 WedBaZvpn           : 23
-freewireguard       : 22
+freewireguard       : 23
 kingofilter         : 22
 jiuJieD             : 21
 jiedianF            : 21
