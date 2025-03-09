@@ -56,3 +56,9 @@ trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.28.247.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@52.28.247.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)
+vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=ov-germany1.09vpn.com#[🇩🇪]t.me/ConfigsHubϟ
+vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=ov-germany1.09vpn.com#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@80.92.204.106:9015
+ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@80.92.204.106:9015🤯
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=none&encryption=none&type=grpc#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc───────❥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=none&encryption=none&type=grpc#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc

@@ -1,0 +1,2 @@
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.65.217.0:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=a2.flcode.ir#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.65.217.0:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=a2.flcode.ir#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc───────❥
