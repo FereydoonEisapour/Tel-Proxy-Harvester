@@ -52,3 +52,12 @@ trojan://telegram-id-privatevpns@15.188.44.209:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.44.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:8888#%F0%9F%87%AB%F0%9F%87%B7%20FR%207
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:8888#%F0%9F%87%AB%F0%9F%87%B7%20FR%207🤯
+trojan://telegram-id-privatevpns@51.44.34.85:22222?security=tls&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.44.34.85:22222?security=tls&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+trojan://telegram-id-directvpn@13.38.222.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%F0%9F%87%AB%F0%9F%87%B7%20FR-149.202.82.172%3A8091
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%F0%9F%87%AB%F0%9F%87%B7%20FR-149.202.82.172%3A8091🤯
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%2819%29🤯
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%2819%29
