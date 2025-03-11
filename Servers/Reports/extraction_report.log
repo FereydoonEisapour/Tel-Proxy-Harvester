@@ -1,8 +1,8 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 692
-Failed Geo-IP Resolutions: 308
-Unknown              : 146
+Successful Geo-IP Resolutions: 697
+Failed Geo-IP Resolutions: 303
+Unknown              : 152
 United States        : 92
 Germany              : 69
 France               : 69
@@ -12,7 +12,7 @@ Japan                : 28
 United Kingdom       : 26
 Singapore            : 26
 Ireland              : 26
-The Netherlands      : 17
+The Netherlands      : 16
 Poland               : 12
 Iran                 : 10
 Spain                : 8
