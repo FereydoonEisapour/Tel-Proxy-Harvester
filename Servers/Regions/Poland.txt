@@ -4,3 +4,5 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#%F0%9F%87%B5%F0%9F
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9031🤯
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9003
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9031
+vless://16766e07-95a2-494c-8ce6-67bd88422163@95.164.35.169:32756?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#[🏁]t.me/ConfigsHubϟ
+vless://16766e07-95a2-494c-8ce6-67bd88422163@95.164.35.169:32756?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#[🏁]t.me/ConfigsHub
