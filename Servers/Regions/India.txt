@@ -6,3 +6,5 @@ trojan://3747000103274291200@185.67.125.147:443/?type=tcp&security=tls&sni=polis
 trojan://3747000103274291200@185.67.125.147:443/?type=tcp&security=tls&sni=polished-collie.adder289.quest&allowInsecure=1#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#premium-in🤯
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#premium-in
+trojan://3747000103274291200@185.67.125.147:443?security=tls&host=polished-collie.adder289.quest&headerType=none&type=tcp&sni=polished-collie.adder289.quest#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
+trojan://3747000103274291200@185.67.125.147:443?security=tls&host=polished-collie.adder289.quest&headerType=none&type=tcp&sni=polished-collie.adder289.quest#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
