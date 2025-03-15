@@ -1,34 +1,35 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 732
-Failed Geo-IP Resolutions: 268
-Unknown              : 175
-United States        : 96
+Successful Geo-IP Resolutions: 728
+Failed Geo-IP Resolutions: 272
+Unknown              : 153
 Germany              : 89
-France               : 58
+United States        : 86
+France               : 71
 United Kingdom       : 40
 Finland              : 38
-Ireland              : 30
-Japan                : 28
-Singapore            : 20
-Sweden               : 18
-Hong Kong            : 16
-The Netherlands      : 14
+Japan                : 30
+Ireland              : 28
+Singapore            : 26
+Sweden               : 22
+The Netherlands      : 16
+Hong Kong            : 14
+Lithuania            : 14
 Cyprus               : 10
-India                : 10
-Lithuania            : 10
-Poland               : 8
-Russia               : 6
-Iran                 : 6
+Poland               : 10
+Iran                 : 8
+India                : 7
 Türkiye              : 6
 China                : 6
 Switzerland          : 6
-Armenia              : 6
+United Arab Emirates : 4
 Austria              : 4
 Moldova              : 4
+Russia               : 4
 Gibraltar            : 4
 South Korea          : 4
-United Arab Emirates : 2
+Armenia              : 4
+Thailand             : 2
 Kazakhstan           : 2
 Philippines          : 2
 Costa Rica           : 2
@@ -41,9 +42,9 @@ Belarus              : 2
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 302
-TROJAN               : 234
-VMESS                : 190
+SS                   : 324
+TROJAN               : 256
+VMESS                : 216
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -57,7 +58,7 @@ vmesc               : 50
 vmess_ir            : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
-vmesskhodam         : 44
+vmesskhodam         : 46
 V2aryng_vpn         : 41
-V2ra_ng_iran        : 28
-kingofilter         : 28
+V2ra_ng_iran        : 32
+kingofilter         : 30
