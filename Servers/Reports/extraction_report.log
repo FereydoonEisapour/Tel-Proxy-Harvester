@@ -1,33 +1,31 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 728
-Failed Geo-IP Resolutions: 272
-Unknown              : 153
+Successful Geo-IP Resolutions: 727
+Failed Geo-IP Resolutions: 273
+Unknown              : 159
 Germany              : 89
-United States        : 86
-France               : 71
-United Kingdom       : 40
-Finland              : 38
-Japan                : 30
-Ireland              : 28
-Singapore            : 26
-Sweden               : 22
+France               : 80
+United States        : 76
+United Kingdom       : 38
+Finland              : 37
+Ireland              : 32
+Singapore            : 28
+Sweden               : 24
+Japan                : 24
 The Netherlands      : 16
-Hong Kong            : 14
 Lithuania            : 14
+Poland               : 12
 Cyprus               : 10
-Poland               : 10
+Hong Kong            : 8
 Iran                 : 8
-India                : 7
+Moldova              : 6
 Türkiye              : 6
+India                : 6
 China                : 6
-Switzerland          : 6
 United Arab Emirates : 4
 Austria              : 4
-Moldova              : 4
 Russia               : 4
-Gibraltar            : 4
-South Korea          : 4
+Australia            : 4
 Armenia              : 4
 Thailand             : 2
 Kazakhstan           : 2
@@ -35,16 +33,20 @@ Philippines          : 2
 Costa Rica           : 2
 North Macedonia      : 2
 Canada               : 2
-Greece               : 2
+Malaysia             : 2
+Gibraltar            : 2
+Portugal             : 2
 Bahrain              : 2
 Saudi Arabia         : 2
 Belarus              : 2
+South Korea          : 2
+Switzerland          : 2
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 324
-TROJAN               : 256
-VMESS                : 216
+SS                   : 338
+TROJAN               : 274
+VMESS                : 232
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -58,7 +60,7 @@ vmesc               : 50
 vmess_ir            : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
-vmesskhodam         : 46
+vmesskhodam         : 48
 V2aryng_vpn         : 41
 V2ra_ng_iran        : 32
 kingofilter         : 30
