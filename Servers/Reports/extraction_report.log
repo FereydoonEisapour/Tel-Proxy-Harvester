@@ -1,36 +1,35 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 738
-Failed Geo-IP Resolutions: 262
-Unknown              : 157
-France               : 117
-Germany              : 96
-United States        : 78
-Finland              : 29
+Successful Geo-IP Resolutions: 723
+Failed Geo-IP Resolutions: 277
+Unknown              : 163
+France               : 118
+Germany              : 88
+United States        : 82
 The Netherlands      : 26
-United Kingdom       : 22
-Singapore            : 22
+Finland              : 25
 Sweden               : 20
-Ireland              : 18
-Japan                : 18
-Lithuania            : 16
-Poland               : 14
-Hong Kong            : 10
+United Kingdom       : 20
+Singapore            : 20
+Lithuania            : 18
+Poland               : 16
+Japan                : 16
+Ireland              : 14
 Moldova              : 10
+Hong Kong            : 8
 Australia            : 8
-Iran                 : 8
-Canada               : 6
-Cyprus               : 6
-India                : 6
-United Arab Emirates : 5
-Philippines          : 4
-Türkiye              : 4
+United Arab Emirates : 7
+Iran                 : 6
+Türkiye              : 6
+Austria              : 4
+Canada               : 4
+Cyprus               : 4
+India                : 4
 Taiwan               : 4
+Croatia              : 4
 Thailand             : 2
 Kazakhstan           : 2
-Austria              : 2
-North Macedonia      : 2
-Russia               : 2
+Philippines          : 2
 Malaysia             : 2
 Greece               : 2
 Gibraltar            : 2
@@ -42,13 +41,12 @@ South Korea          : 2
 Estonia              : 2
 Switzerland          : 2
 Armenia              : 2
-Croatia              : 2
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 417
-TROJAN               : 319
-VMESS                : 302
+SS                   : 437
+TROJAN               : 332
+VMESS                : 316
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
