@@ -4,3 +4,5 @@ vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?type=tcp&securit
 vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?type=tcp&security=none#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
 vless://fbc2f996-7de5-4a9e-9a25-871ec1a94e2c@188.121.117.161:80?type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&host=&security=none#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://fbc2f996-7de5-4a9e-9a25-871ec1a94e2c@188.121.117.161:80?type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&host=&security=none#[🇮🇷]t.me/ConfigsHub
+vless://d35f5fd4-d4bb-44e7-ccd6-9d7057a9cf97@78.39.47.73:2468?security=none&type=tcp&headerType=http#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+vless://d35f5fd4-d4bb-44e7-ccd6-9d7057a9cf97@78.39.47.73:2468?security=none&type=tcp&headerType=http#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
