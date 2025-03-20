@@ -1,23 +1,24 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 697
-Failed Geo-IP Resolutions: 303
-Unknown              : 153
-United States        : 112
-Germany              : 82
-France               : 57
-Sweden               : 30
-United Kingdom       : 30
-Japan                : 30
-Finland              : 30
-Singapore            : 20
-The Netherlands      : 16
-Poland               : 14
-Ireland              : 14
+Successful Geo-IP Resolutions: 700
+Failed Geo-IP Resolutions: 300
+Unknown              : 158
+United States        : 93
+Germany              : 75
+France               : 69
+United Kingdom       : 32
+Finland              : 29
+Sweden               : 28
+Japan                : 26
+Ireland              : 20
+The Netherlands      : 18
+Singapore            : 18
+Russia               : 16
+Poland               : 16
 Lithuania            : 14
-United Arab Emirates : 13
-Hong Kong            : 8
-Russia               : 8
+United Arab Emirates : 12
+Hong Kong            : 10
+Canada               : 6
 China                : 6
 Philippines          : 4
 Austria              : 4
@@ -25,21 +26,20 @@ Moldova              : 4
 Iran                 : 4
 Türkiye              : 4
 Mexico               : 4
-Denmark              : 4
-Switzerland          : 4
 Iceland              : 2
 Indonesia            : 2
 Costa Rica           : 2
 North Macedonia      : 2
-Canada               : 2
 Serbia               : 2
 Malaysia             : 2
-Italy                : 2
 Cyprus               : 2
 Jordan               : 2
 Gibraltar            : 2
 Colombia             : 2
+Bahrain              : 2
 Ukraine              : 2
+Denmark              : 2
+Switzerland          : 2
 Armenia              : 2
 
 === Server Type Summary ===
@@ -62,5 +62,5 @@ vmess_ir            : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
 V2aryng_vpn         : 50
-V2ra_ng_iran        : 39
+V2ra_ng_iran        : 42
 kingofilter         : 38
