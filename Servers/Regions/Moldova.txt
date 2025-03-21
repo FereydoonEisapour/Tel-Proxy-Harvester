@@ -1,0 +1,2 @@
+vless://a6dd7645-8548-4207-83fb-19d93c1768f0@185.234.67.214:44030?security=reality&encryption=none&pbk=ixAsWPXEc5_H2D6xhQSlkiy6WktAatjn98h49Fuzrl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0bd674#[🏁]t.me/ConfigsHub
+vless://a6dd7645-8548-4207-83fb-19d93c1768f0@185.234.67.214:44030?security=reality&encryption=none&pbk=ixAsWPXEc5_H2D6xhQSlkiy6WktAatjn98h49Fuzrl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0bd674#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
