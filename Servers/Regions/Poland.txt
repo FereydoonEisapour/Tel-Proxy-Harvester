@@ -10,3 +10,5 @@ ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#%F0%9F%87%B5%F0%9F
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9060🤯
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#[🏁]t.me/ConfigsHubϟ
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#[🏁]t.me/ConfigsHub
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
