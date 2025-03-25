@@ -2,25 +2,26 @@
 Total Servers: 1000
 Successful Geo-IP Resolutions: 634
 Failed Geo-IP Resolutions: 366
-Unknown              : 136
-United States        : 61
-Germany              : 58
+Unknown              : 145
+United States        : 59
+Germany              : 56
 France               : 55
-The Netherlands      : 47
-Japan                : 40
-Finland              : 39
-Lithuania            : 32
+The Netherlands      : 49
+Japan                : 48
+Finland              : 34
 Sweden               : 28
-United Kingdom       : 20
-Ireland              : 16
-Hong Kong            : 14
-Singapore            : 12
-Moldova              : 8
-Russia               : 8
+Lithuania            : 24
+United Kingdom       : 18
+Ireland              : 18
+Hong Kong            : 12
+Moldova              : 10
+Iran                 : 10
+Singapore            : 8
 Canada               : 6
-Iran                 : 6
+Russia               : 6
 India                : 6
 United Arab Emirates : 4
+Serbia               : 4
 Qatar                : 4
 Türkiye              : 4
 Poland               : 4
@@ -28,9 +29,7 @@ China                : 4
 South Korea          : 4
 Armenia              : 4
 Philippines          : 2
-Austria              : 2
 Morocco              : 2
-Serbia               : 2
 Italy                : 2
 Bahrain              : 2
 Switzerland          : 2
