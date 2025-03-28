@@ -1,35 +1,35 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 644
-Failed Geo-IP Resolutions: 356
-Unknown              : 129
-United States        : 92
+Successful Geo-IP Resolutions: 653
+Failed Geo-IP Resolutions: 347
+Unknown              : 130
+United States        : 94
 Germany              : 74
-France               : 70
-The Netherlands      : 45
-Lithuania            : 42
-Finland              : 23
-United Kingdom       : 20
+France               : 72
+The Netherlands      : 43
+Lithuania            : 36
+Finland              : 30
+United Kingdom       : 24
+Ireland              : 24
 Japan                : 20
-Ireland              : 19
-Singapore            : 16
-Hong Kong            : 8
+Singapore            : 14
 Moldova              : 8
 Türkiye              : 8
+Sweden               : 8
+Poland               : 8
 Switzerland          : 8
+Hong Kong            : 6
 Iran                 : 6
-Sweden               : 6
-Poland               : 6
-United Arab Emirates : 4
 Spain                : 4
-Canada               : 4
 Russia               : 4
 Italy                : 4
 South Korea          : 4
 Slovenia             : 4
 Iceland              : 2
+United Arab Emirates : 2
 Morocco              : 2
 North Macedonia      : 2
+Canada               : 2
 Serbia               : 2
 Cyprus               : 2
 Bahrain              : 2
