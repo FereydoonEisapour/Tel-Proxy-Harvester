@@ -8,3 +8,5 @@ ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.18:9041#%F0%9F%87%B5%F0%9F
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.18:9041#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9041
 vless://37e0cabd-bdb0-5e94-aea7-0506d2b0bf7f@94.131.96.137:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
 vless://37e0cabd-bdb0-5e94-aea7-0506d2b0bf7f@94.131.96.137:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#[🏁]t.me/ConfigsHubϟ
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#[🏁]t.me/ConfigsHub
