@@ -1,11 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.93.80:5498#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.80%3A5498
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.93.80:5498#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.80%3A5498🤯
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@184.72.82.70:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135004002.sec20org.com#[🇺🇸]t.me/ConfigsHub
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@184.72.82.70:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubϟ
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.184.159:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.184.159:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135004002.sec20org.com#[🇺🇸]t.me/ConfigsHubϟ
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.115:443/?type=ws&encryption=none&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=in.youlingkais.filegear-sg.me&packetEncoding=xudp#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
@@ -129,3 +121,7 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.132:2375#%F0%9F%87%BA%F0%9F
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.132:2375#%F0%9F%87%BA%F0%9F%87%B8%20US-23.154.136.132%3A2375🤯
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.47%3A6379
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.47%3A6379🤯
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHubϟ
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A7002🤯
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A7002
