@@ -12,3 +12,5 @@ trojan://telegram-id-directvpn@13.51.221.249:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.51.221.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
 vless://Parsashonam-209@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
 vless://Parsashonam-209@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+vless://15f23067-110b-4baa-bb30-60ecc4a7feb0@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+vless://15f23067-110b-4baa-bb30-60ecc4a7feb0@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHubϟ
