@@ -1,0 +1,2 @@
+vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.10.241:58491?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.10.241:58491?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
