@@ -1,22 +1,21 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 622
-Failed Geo-IP Resolutions: 378
-United States        : 107
-Unknown              : 92
-France               : 65
-The Netherlands      : 63
-Germany              : 52
-Lithuania            : 42
+Successful Geo-IP Resolutions: 619
+Failed Geo-IP Resolutions: 381
+United States        : 103
+Unknown              : 98
+France               : 68
+The Netherlands      : 59
+Germany              : 48
+Lithuania            : 36
 United Kingdom       : 32
-Finland              : 29
-Poland               : 16
+Finland              : 27
+Sweden               : 18
 Ireland              : 16
-Sweden               : 14
-Japan                : 10
-Iran                 : 9
+Poland               : 14
+Iran                 : 13
+Japan                : 12
 South Korea          : 8
-Türkiye              : 6
 Malaysia             : 5
 United Arab Emirates : 4
 Kazakhstan           : 4
@@ -24,19 +23,20 @@ Austria              : 4
 Vietnam              : 4
 Costa Rica           : 4
 Moldova              : 4
+Russia               : 4
 Serbia               : 4
+Türkiye              : 4
 Luxembourg           : 4
-Switzerland          : 4
+Ecuador              : 4
 Spain                : 2
 Hong Kong            : 2
-Peru                 : 2
-Russia               : 2
+Canada               : 2
 Argentina            : 2
 Italy                : 2
 Greece               : 2
 Gibraltar            : 2
 Israel               : 2
-Ecuador              : 2
+Switzerland          : 2
 
 === Server Type Summary ===
 VMESS                : 500
