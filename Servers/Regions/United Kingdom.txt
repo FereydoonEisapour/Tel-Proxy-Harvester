@@ -8,3 +8,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OWRmMjZkYzdmNTI1YTI4@198.244.142.65:42782#%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7%20GB-62.100.205.48%3A989🤯
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7%20GB-62.100.205.48%3A989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OWRmMjZkYzdmNTI1YTI4@198.244.142.65:42782#%F0%9F%87%AC%F0%9F%87%A7%20GB-198.244.142.65%3A42782
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@192.248.170.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir&fp=firefox&pbk=YYvLeafd75AcMSA_X_zbD2Pviwe5FLvvXVmPZ3s87kU&sid=5446518d4810b7&spx=%2FCRrN94otrdppVJK&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@192.248.170.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir&fp=firefox&pbk=YYvLeafd75AcMSA_X_zbD2Pviwe5FLvvXVmPZ3s87kU&sid=5446518d4810b7&spx=%2FCRrN94otrdppVJK&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHubϟ
