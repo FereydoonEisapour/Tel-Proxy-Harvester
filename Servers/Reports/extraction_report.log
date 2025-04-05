@@ -1,22 +1,24 @@
 === Country Statistics ===
-Total Servers: 410
-Successful Geo-IP Resolutions: 221
-Failed Geo-IP Resolutions: 189
-Unknown              : 60
-The Netherlands      : 37
-United States        : 21
-Germany              : 18
-France               : 15
+Total Servers: 480
+Successful Geo-IP Resolutions: 265
+Failed Geo-IP Resolutions: 215
+Unknown              : 66
+The Netherlands      : 41
+United States        : 27
+France               : 27
+Germany              : 20
 United Kingdom       : 10
 Finland              : 10
-Lithuania            : 8
+Lithuania            : 10
+Sweden               : 8
 Iran                 : 6
-Sweden               : 6
-Poland               : 4
-Ireland              : 4
+Poland               : 6
+Ireland              : 6
+Russia               : 4
+United Arab Emirates : 2
+Austria              : 2
 Moldova              : 2
 Canada               : 2
-Russia               : 2
 Serbia               : 2
 Argentina            : 2
 Malaysia             : 2
@@ -27,10 +29,10 @@ Ecuador              : 2
 Japan                : 2
 
 === Server Type Summary ===
-VLESS                : 236
-VMESS                : 72
-SS                   : 70
-TROJAN               : 30
+VLESS                : 258
+VMESS                : 92
+SS                   : 88
+TROJAN               : 40
 WIREGUARD            : 2
 HYSTERIA             : 0
 HYSTERIA2            : 0

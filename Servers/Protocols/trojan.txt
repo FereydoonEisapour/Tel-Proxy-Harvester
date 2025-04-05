@@ -1,3 +1,13 @@
+trojan://telegram-id-privatevpns@51.44.56.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.44.56.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇨🇵t.me/PrivateVPNs🤯
+trojan://telegram-id-privatevpns@35.181.159.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs🤯
+trojan://telegram-id-privatevpns@35.181.159.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.37.195.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+trojan://telegram-id-privatevpns@15.188.241.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+trojan://telegram-id-directvpn@54.77.178.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+trojan://telegram-id-directvpn@13.37.195.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+trojan://telegram-id-directvpn@54.77.178.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+trojan://telegram-id-privatevpns@15.188.241.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
 trojan://telegram-id-privatevpns@13.36.121.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@13.36.121.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.157.216.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs🤯
