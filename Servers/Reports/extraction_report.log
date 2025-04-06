@@ -1,35 +1,36 @@
 === Country Statistics ===
-Total Servers: 894
-Successful Geo-IP Resolutions: 555
-Failed Geo-IP Resolutions: 339
-Unknown              : 106
-United States        : 69
-France               : 67
-The Netherlands      : 65
-Germany              : 48
-Lithuania            : 28
-Iran                 : 18
-United Kingdom       : 16
+Total Servers: 1000
+Successful Geo-IP Resolutions: 628
+Failed Geo-IP Resolutions: 372
+Unknown              : 125
+United States        : 86
+France               : 75
+The Netherlands      : 68
+Germany              : 53
+Lithuania            : 30
+United Kingdom       : 18
+Iran                 : 17
+Sweden               : 16
 Poland               : 16
+Ireland              : 16
 Finland              : 16
-Sweden               : 12
-Ireland              : 12
+Singapore            : 10
+Canada               : 8
 Italy                : 8
-Singapore            : 8
+Czechia              : 8
 Japan                : 8
-Canada               : 6
 Russia               : 6
-Czechia              : 6
+Greece               : 6
 Spain                : 4
 Austria              : 4
 Moldova              : 4
-Greece               : 4
 Switzerland          : 4
 United Arab Emirates : 2
 Serbia               : 2
 Argentina            : 2
 Malaysia             : 2
 Türkiye              : 2
+India                : 2
 Taiwan               : 2
 South Korea          : 2
 Luxembourg           : 2
@@ -37,10 +38,10 @@ Estonia              : 2
 Ecuador              : 2
 
 === Server Type Summary ===
-VLESS                : 486
-SS                   : 182
-VMESS                : 160
-TROJAN               : 64
+VLESS                : 500
+SS                   : 204
+VMESS                : 178
+TROJAN               : 71
 WIREGUARD            : 2
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -54,7 +55,7 @@ vmesskhodam         : 50
 vmesc               : 50
 vmess_ir            : 50
 ConfigsHUB2         : 50
-Hope_Net            : 48
-V2aryng_vpn         : 36
+Hope_Net            : 50
+V2aryng_vpn         : 38
 V2ra_ng_iran        : 20
 kingofilter         : 19
