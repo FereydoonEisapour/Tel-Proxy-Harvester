@@ -1,49 +1,48 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 683
-Failed Geo-IP Resolutions: 317
-Unknown              : 159
-United States        : 97
-Germany              : 67
-The Netherlands      : 60
-France               : 53
+Successful Geo-IP Resolutions: 689
+Failed Geo-IP Resolutions: 311
+Unknown              : 148
+United States        : 99
+Germany              : 66
+The Netherlands      : 64
+France               : 51
 Lithuania            : 42
-United Kingdom       : 30
+United Kingdom       : 36
+Czechia              : 22
 Iran                 : 16
-Czechia              : 16
+Poland               : 12
 Switzerland          : 12
-Japan                : 12
-Finland              : 12
+Canada               : 10
 Russia               : 10
-Singapore            : 10
-Canada               : 8
-Türkiye              : 8
+Türkiye              : 10
+Japan                : 10
+Finland              : 10
 Sweden               : 8
-Ireland              : 7
+Singapore            : 8
 United Arab Emirates : 6
 Spain                : 6
-Poland               : 6
 China                : 6
+Ireland              : 6
+Cyprus               : 4
 South Korea          : 4
 Austria              : 3
-Moldova              : 3
 Hong Kong            : 2
 Romania              : 2
 Seychelles           : 2
+Moldova              : 2
 Brazil               : 2
 Myanmar              : 2
-Cyprus               : 2
 India                : 2
-Bahrain              : 2
 Estonia              : 2
 Bolivia              : 2
 Slovenia             : 2
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 491
-VMESS                : 386
-TROJAN               : 194
+SS                   : 500
+VMESS                : 402
+TROJAN               : 196
 WIREGUARD            : 2
 HYSTERIA             : 0
 HYSTERIA2            : 0
@@ -59,5 +58,5 @@ vmess_ir            : 50
 ConfigsHUB2         : 50
 Hope_Net            : 50
 V2aryng_vpn         : 50
+kingofilter         : 25
 V2ra_ng_iran        : 24
-kingofilter         : 23
