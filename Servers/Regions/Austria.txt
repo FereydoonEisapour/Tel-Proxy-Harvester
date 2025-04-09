@@ -1,3 +1,2 @@
-vless://ba5a4409-159a-5e30-8806-6d97df5d85f3@45.141.58.22:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇳🇱]t.me/ConfigsHubϟ
 vless://ba5a4409-159a-5e30-8806-6d97df5d85f3@45.141.58.22:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇳🇱]t.me/ConfigsHub
 vless://ba5a4409-159a-5e30-8806-6d97df5d85f3@45.141.58.22:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
