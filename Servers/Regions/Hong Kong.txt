@@ -2,3 +2,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@203.23.128.33:989#premium-hk
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@203.23.128.33:989#premium-hk🤯
 vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHubϟ
 vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&encryption=none&host=Telegram%20%3A%20MARAMBASHI&headerType=none&type=tcp#[🏁]t.me/ConfigsHubϟ
+vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&encryption=none&host=Telegram%20%3A%20MARAMBASHI&headerType=none&type=tcp#[🏁]t.me/ConfigsHub

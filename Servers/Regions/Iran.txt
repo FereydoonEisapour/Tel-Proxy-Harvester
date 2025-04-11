@@ -6,3 +6,4 @@ vless://e423b953-f182-4353-ab41-276deea064d0@95.81.86.61:44402?type=tcp&security
 vless://e423b953-f182-4353-ab41-276deea064d0@95.81.86.61:44402?type=tcp&security=none#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
 vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir.igap.net.soft98.ir#[🇮🇷]t.me/ConfigsHub
 vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir.igap.net.soft98.ir#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:451…
