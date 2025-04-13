@@ -1,2 +1,4 @@
 vless://mltivpn@138.128.225.100:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=ns.design-mobo.ir#[🇦🇪]t.me/ConfigsHubϟ
 vless://mltivpn@138.128.225.100:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=ns.design-mobo.ir#[🇦🇪]t.me/ConfigsHub
+vless://a23e44ce-4d6e-4d79-abed-4d122d797167@77.110.98.179:54715?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://a23e44ce-4d6e-4d79-abed-4d122d797167@77.110.98.179:54715?security=none&type=tcp#[🇺🇸]t.me/ConfigsHubϟ
