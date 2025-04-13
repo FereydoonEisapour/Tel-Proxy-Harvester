@@ -1,3 +1,14 @@
+trojan://amclubs@103.160.204.1:443?path=%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
+trojan://amclubs@103.160.204.1:443?path=%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc───────❥
+trojan://telegram-id-privatevpns@35.156.41.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@63.177.130.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.157.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@63.177.130.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs🤯
+trojan://telegram-id-directvpn@13.39.238.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+trojan://telegram-id-privatevpns@13.36.157.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs🤯
+trojan://telegram-id-privatevpns@35.156.41.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇩🇪t.me/PrivateVPNs🤯
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
 trojan://telegram-id-privatevpns@15.236.54.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇨🇵t.me/PrivateVPNs🤯
