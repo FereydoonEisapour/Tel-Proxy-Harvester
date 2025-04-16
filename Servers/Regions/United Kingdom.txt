@@ -1,0 +1,6 @@
+vless://1b187900-969e-4770-a3f6-f7f4d7bb24b8@18.169.158.249:32821?security=reality&encryption=none&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#[🇬🇧]t.me/ConfigsHubϟ
+vless://1b187900-969e-4770-a3f6-f7f4d7bb24b8@18.169.158.249:32821?security=reality&encryption=none&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#[🇬🇧]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#%40V2aryng_vpn
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#%40V2aryng_vpn@V2aryng_vpn
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#premium-gb🤯
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#premium-gb
