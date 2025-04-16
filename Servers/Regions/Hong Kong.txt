@@ -1,2 +1,4 @@
 vless://5421ad38-6952-437f-a8ce-d6d3e9afd05f@18.163.49.25:443?security=tls&flow=xtls-rprx-vision-udp443&sni=osxapps.itunes.apple.com&fp=chrome#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
 vless://5421ad38-6952-437f-a8ce-d6d3e9afd05f@18.163.49.25:443?security=tls&flow=xtls-rprx-vision-udp443&sni=osxapps.itunes.apple.com&fp=chrome#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK-154.197.26.237%3A8388
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK-154.197.26.237%3A8388🤯
