@@ -23,3 +23,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.88.176:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.127.26:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR-51.195.119.47%3A1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR-51.195.119.47%3A1080🤯
+trojan://telegram-id-privatevpns@13.38.2.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs🤯
+trojan://telegram-id-privatevpns@13.38.2.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
