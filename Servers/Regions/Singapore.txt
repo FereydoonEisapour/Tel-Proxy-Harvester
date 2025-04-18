@@ -2,3 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VUlGUWNNTTJLMlZZZFZ6OEdLeWVF@13.212.90.20:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VUlGUWNNTTJLMlZZZFZ6OEdLeWVF@13.212.90.20:443#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.244.9.92:989#premium-sg
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.244.9.92:989#premium-sg🤯
+ss://a89981b0-8096-4bbc-8d24-da2330650c4b@140.245.44.250:443/?type=ws&encryption=none&host=sgp.cayuo.me&path=%2Fbing&security=tls&sni=sgp.cayuo.me&packetEncoding=xudp#[🏁]t.me/ConfigsHub
+ss://a89981b0-8096-4bbc-8d24-da2330650c4b@140.245.44.250:443/?type=ws&encryption=none&host=sgp.cayuo.me&path=%2Fbing&security=tls&sni=sgp.cayuo.me&packetEncoding=xudp#[🏁]t.me/ConfigsHubϟ
+vless://2d9798a1-6f27-4d8c-8f89-0d4147ae7cd2@152.42.218.33:443?security=tls&sni=aka.ms&type=ws&path=/&allowInsecure=1#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+vless://2d9798a1-6f27-4d8c-8f89-0d4147ae7cd2@152.42.218.33:443?security=tls&sni=aka.ms&type=ws&path=/&allowInsecure=1#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
