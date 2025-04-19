@@ -1,6 +1,6 @@
-vless://f18b885b-bae4-4236-b602-b49830d5f88c@151.101.246.133:80?security=none&type=xhttp&host=Xpnteamfastingfree.ir#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
-vless://f18b885b-bae4-4236-b602-b49830d5f88c@151.101.246.133:80?security=none&type=xhttp&host=Xpnteamfastingfree.ir#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
 vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=none&encryption=none&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
 vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=none&encryption=none&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHubϟ
