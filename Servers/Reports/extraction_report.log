@@ -1,48 +1,49 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 645
-Failed Geo-IP Resolutions: 355
-Unknown              : 159
-United States        : 86
-Germany              : 73
-France               : 57
+Successful Geo-IP Resolutions: 651
+Failed Geo-IP Resolutions: 349
+Unknown              : 162
+United States        : 98
+Germany              : 80
+France               : 52
 The Netherlands      : 32
 Finland              : 25
-United Kingdom       : 20
 Czechia              : 20
-Lithuania            : 14
-Hong Kong            : 13
-Iran                 : 13
+United Kingdom       : 18
+Lithuania            : 16
+Japan                : 14
 Spain                : 12
-Singapore            : 12
-South Korea          : 12
-Türkiye              : 10
+South Korea          : 10
+Singapore            : 10
 Sweden               : 10
-Japan                : 10
-United Arab Emirates : 8
-Poland               : 8
+Türkiye              : 10
+Hong Kong            : 8
 Seychelles           : 6
 Canada               : 6
+Iran                 : 6
+Poland               : 6
 Switzerland          : 6
-Moldova              : 4
-Russia               : 4
-Italy                : 4
+United Arab Emirates : 6
 Ireland              : 4
-Thailand             : 2
+Denmark              : 4
+Moldova              : 4
+Italy                : 4
+Russia               : 4
 Kazakhstan           : 2
-Bulgaria             : 2
-India                : 2
-Norway               : 2
-Denmark              : 2
+Austria              : 2
+Vietnam              : 2
+Malaysia             : 2
+Thailand             : 2
 Chile                : 2
+India                : 2
 Slovenia             : 2
-Australia            : 1
+Bulgaria             : 2
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 490
-VMESS                : 476
-TROJAN               : 230
+SS                   : 500
+VMESS                : 488
+TROJAN               : 239
 HYSTERIA2            : 18
 WIREGUARD            : 8
 HYSTERIA             : 0
@@ -52,11 +53,11 @@ WARP                 : 0
 === Channel Statistics ===
 FarahVPN            : 50
 v2ray_free_conf     : 50
-vmesc               : 50
-vmess_ir            : 50
 ConfigsHUB2         : 50
-Hope_Net            : 50
 V2aryng_vpn         : 50
+vmess_ir            : 50
+vmesc               : 50
+Hope_Net            : 50
 vmesskhodam         : 49
 kingofilter         : 39
 V2ra_ng_iran        : 25
