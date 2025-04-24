@@ -1,2 +1,1 @@
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@148.113.43.228:8443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#[🇮🇳]t.me/ConfigsHubϟ
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@148.113.43.228:8443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#[🇮🇳]t.me/ConfigsHub
