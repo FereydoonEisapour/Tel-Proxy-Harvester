@@ -1,12 +1,3 @@
-trojan://telegram-id-directvpn@35.181.209.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-vlessconfig@13.38.145.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig
-trojan://telegram-id-directvpn@13.38.212.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-vless://9486e684-0e38-49ff-954c-a9ed1e595ecf@141.95.103.120:54436?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40ZEDMODEON%29%20120🤯
-vless://9486e684-0e38-49ff-954c-a9ed1e595ecf@141.95.103.120:54436?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40ZEDMODEON%29%20120
-trojan://telegram-id-privatevpns@15.236.96.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-vlessconfig@15.236.96.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig
-trojan://telegram-id-vlessconfig@51.44.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig
-trojan://telegram-id-privatevpns@15.236.96.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-directvpn@15.236.96.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@35.181.249.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.209.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -43,3 +34,8 @@ trojan://telegram-id-privatevpns@51.44.188.33:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.44.188.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-vlessconfig@52.47.123.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-privatevpns@52.47.123.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
+vless://5343f4a4-85c7-467e-9fe5-d048572273e3@54.37.7.94:443?security=reality&encryption=none&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=f8d21b62b1#[🇬🇧]t.me/ConfigsHubϟ
+vless://ff36394b-a01e-413c-a577-ebb8d99d6afb@141.94.187.143:8443?security=reality&encryption=none&pbk=UNI1GwKFLD9lsN6sg1GDZCZNHWShv66Jb5Lhg5gXfjg&headerType=none&fp=chrome&type=tcp&sni=cookielaw.org&sid=eb916194c3221a9c#[🇫🇷]t.me/ConfigsHub
+vless://ff36394b-a01e-413c-a577-ebb8d99d6afb@141.94.187.143:8443?security=reality&encryption=none&pbk=UNI1GwKFLD9lsN6sg1GDZCZNHWShv66Jb5Lhg5gXfjg&headerType=none&fp=chrome&type=tcp&sni=cookielaw.org&sid=eb916194c3221a9c#[🇫🇷]t.me/ConfigsHubϟ
+vless://5343f4a4-85c7-467e-9fe5-d048572273e3@54.37.7.94:443?security=reality&encryption=none&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=f8d21b62b1#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.47.123.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel

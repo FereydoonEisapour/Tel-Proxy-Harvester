@@ -1,52 +1,47 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 627
-Failed Geo-IP Resolutions: 373
-Unknown              : 151
-United States        : 102
-Germany              : 70
-France               : 45
+Successful Geo-IP Resolutions: 614
+Failed Geo-IP Resolutions: 386
+Unknown              : 168
+United States        : 80
+Germany              : 66
+France               : 41
+United Kingdom       : 30
 Finland              : 25
-United Kingdom       : 24
-The Netherlands      : 20
-Czechia              : 20
-Sweden               : 18
+Czechia              : 24
+The Netherlands      : 22
+Türkiye              : 18
 Ireland              : 16
-Türkiye              : 16
-South Korea          : 12
-Poland               : 12
-Russia               : 12
-Iran                 : 10
+Sweden               : 16
+Russia               : 14
+Iran                 : 11
+Poland               : 10
+South Korea          : 8
 China                : 8
-Lithuania            : 8
 Spain                : 6
+Cyprus               : 6
+Lithuania            : 6
 Hong Kong            : 4
-Austria              : 4
+Japan                : 4
 Singapore            : 4
 Switzerland          : 4
 United Arab Emirates : 4
-Peru                 : 2
-Mexico               : 2
-Japan                : 2
-Seychelles           : 2
-Cyprus               : 2
-Malaysia             : 2
+Colombia             : 2
+Austria              : 2
 Denmark              : 2
-Taiwan               : 2
 North Macedonia      : 2
 Moldova              : 2
 India                : 2
-Portugal             : 2
 Slovenia             : 2
 Italy                : 2
-South Africa         : 2
 Bulgaria             : 2
+Taiwan               : 1
 
 === Server Type Summary ===
 VMESS                : 500
 VLESS                : 500
 SS                   : 500
-TROJAN               : 486
+TROJAN               : 494
 HYSTERIA2            : 18
 WIREGUARD            : 8
 HYSTERIA             : 0
@@ -62,5 +57,5 @@ V2aryng_vpn         : 50
 vmess_ir            : 50
 vmesc               : 50
 Hope_Net            : 50
-kingofilter         : 43
+kingofilter         : 45
 V2ra_ng_iran        : 25
