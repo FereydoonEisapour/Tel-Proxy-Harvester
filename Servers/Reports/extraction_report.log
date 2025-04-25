@@ -1,61 +1,122 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 614
-Failed Geo-IP Resolutions: 386
-Unknown              : 168
-United States        : 80
-Germany              : 66
-France               : 41
-United Kingdom       : 30
-Finland              : 25
-Czechia              : 24
-The Netherlands      : 22
-Türkiye              : 18
-Ireland              : 16
-Sweden               : 16
-Russia               : 14
-Iran                 : 11
-Poland               : 10
-South Korea          : 8
-China                : 8
-Spain                : 6
-Cyprus               : 6
-Lithuania            : 6
-Hong Kong            : 4
-Japan                : 4
-Singapore            : 4
-Switzerland          : 4
-United Arab Emirates : 4
-Colombia             : 2
-Austria              : 2
-Denmark              : 2
-North Macedonia      : 2
-Moldova              : 2
-India                : 2
-Slovenia             : 2
-Italy                : 2
+Successful Geo-IP Resolutions: 730
+Failed Geo-IP Resolutions: 270
+Unknown              : 269
+United States        : 116
+Germany              : 62
+Iran                 : 43
+United Kingdom       : 43
+The Netherlands      : 35
+Finland              : 26
+Sweden               : 18
+Lithuania            : 18
+France               : 16
+Türkiye              : 14
+United Arab Emirates : 14
+Czechia              : 10
+Poland               : 6
+Cyprus               : 5
+Switzerland          : 5
+Russia               : 5
+Serbia               : 4
+Hong Kong            : 3
+South Korea          : 3
+Spain                : 2
+Canada               : 2
 Bulgaria             : 2
-Taiwan               : 1
+Australia            : 2
+Slovakia             : 1
+Romania              : 1
+Austria              : 1
+Singapore            : 1
+India                : 1
+Italy                : 1
+South Africa         : 1
 
 === Server Type Summary ===
 VMESS                : 500
 VLESS                : 500
+TROJAN               : 500
 SS                   : 500
-TROJAN               : 494
-HYSTERIA2            : 18
-WIREGUARD            : 8
+HYSTERIA2            : 40
+WIREGUARD            : 23
 HYSTERIA             : 0
 TUIC                 : 0
 WARP                 : 0
 
 === Channel Statistics ===
+shokhmiplus         : 50
 FarahVPN            : 50
+expressvpn_420      : 50
 vmesskhodam         : 50
 v2ray_free_conf     : 50
+Outline_Vpn         : 50
 ConfigsHUB2         : 50
 V2aryng_vpn         : 50
+V2rayNG3            : 50
 vmess_ir            : 50
 vmesc               : 50
 Hope_Net            : 50
+v2ray_ng            : 50
 kingofilter         : 45
+orange_vpns         : 41
+gh_v2rayng          : 40
+outline_ir          : 40
+farahvpn            : 40
+v2raytg             : 40
+outlinev2rayng      : 40
+asak_vpn            : 39
+WedBaZvpn           : 38
+configshub2         : 37
+v2rayprotocol       : 37
+VmessProtocol       : 36
+FreakConfig         : 36
+v2ry_proxy          : 36
+vpnplusee_free      : 36
+summertimeus        : 36
+kurdistan_vpn_perfectt: 34
+v2mystery           : 32
+vpnowl              : 30
+satellitenewspersian: 29
+dr_v2ray            : 29
+vpn_tehran          : 28
+NEW_MTProxi2        : 28
+wxgmrjdcc           : 27
+v2ray1_ng           : 25
+m_vipv2ray          : 25
 V2ra_ng_iran        : 25
+meli_proxyy         : 24
+v2ryorg             : 24
+v_2rayng0           : 23
+chv2raynp           : 23
+kingoclubs          : 22
+azarbayjab1         : 21
+skivpn              : 21
+v2rayng_1378        : 21
+vistav2ray          : 20
+v2ray_best_iran     : 20
+free_vpn_for_all_of_us: 20
+vpn_ioss            : 18
+qrv2ray             : 17
+zede_filteri        : 16
+v2rayfree           : 16
+proxy_mtproto_vpns_free: 16
+free1_vpn           : 15
+v2raying            : 14
+v2ray_raha          : 14
+v2rayngfreee        : 13
+selinc              : 12
+nofiltering2        : 11
+sinavm              : 11
+configpluse         : 10
+v2ray_sub           : 10
+vpnkanfik           : 10
+freeiranweb         : 8
+configV2rayForFree  : 8
+V2rayng_Fast        : 8
+freestrongvpn       : 6
+free_nettm          : 6
+zibanabz            : 3
+v2rayvpn2           : 2
+vpn4ir_1            : 2
