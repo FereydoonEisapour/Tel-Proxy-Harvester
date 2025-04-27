@@ -1,29 +1,31 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 727
-Failed Geo-IP Resolutions: 273
-Unknown              : 335
+Successful Geo-IP Resolutions: 724
+Failed Geo-IP Resolutions: 276
+Unknown              : 326
 United States        : 125
-Germany              : 58
+Germany              : 64
 Iran                 : 45
-Finland              : 34
-The Netherlands      : 28
-United Kingdom       : 21
-Sweden               : 18
+Finland              : 36
+The Netherlands      : 26
+Sweden               : 17
+United Kingdom       : 17
 Türkiye              : 11
 United Arab Emirates : 11
 Cyprus               : 7
-France               : 6
-Czechia              : 5
+Russia               : 6
+France               : 5
 Lithuania            : 5
 Serbia               : 4
+Czechia              : 3
 Austria              : 3
-Switzerland          : 2
-Russia               : 2
+South Korea          : 2
+India                : 2
+Australia            : 2
 Slovakia             : 1
 Iceland              : 1
 Brazil               : 1
-India                : 1
+China                : 1
 Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
@@ -57,12 +59,12 @@ vmess_ir            : 50
 vmesc               : 50
 Hope_Net            : 50
 v2ray_ng            : 50
+wxgmrjdcc           : 50
 outlinev2rayng      : 50
 gh_v2rayng          : 49
 outline_ir          : 48
 vpnplusee_free      : 48
 kingofilter         : 45
-wxgmrjdcc           : 45
 meli_proxyy         : 44
 v2ry_proxy          : 44
 v2rayfree           : 42
@@ -72,18 +74,18 @@ WedBaZvpn           : 40
 NEW_MTProxi2        : 40
 summertimeus        : 40
 asak_vpn            : 39
+kurdistan_vpn_perfectt: 39
 v2rayprotocol       : 39
 VmessProtocol       : 38
 FreakConfig         : 38
-kurdistan_vpn_perfectt: 37
 satellitenewspersian: 35
 v2mystery           : 35
 vpn_tehran          : 34
 vpn_ioss            : 32
+vistav2ray          : 32
 vpnowl              : 30
 chv2raynp           : 30
 skivpn              : 30
-vistav2ray          : 30
 v2ray1_ng           : 29
 dr_v2ray            : 29
 v2ryorg             : 26
