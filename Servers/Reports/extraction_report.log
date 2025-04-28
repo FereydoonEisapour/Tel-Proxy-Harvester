@@ -1,37 +1,35 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 738
-Failed Geo-IP Resolutions: 262
-Unknown              : 310
-United States        : 114
-Germany              : 67
-Iran                 : 52
-The Netherlands      : 41
-Finland              : 26
-United Kingdom       : 22
-Sweden               : 13
-United Arab Emirates : 13
-France               : 12
-Lithuania            : 12
-Türkiye              : 8
-Czechia              : 7
-Brazil               : 5
-Hong Kong            : 4
+Successful Geo-IP Resolutions: 712
+Failed Geo-IP Resolutions: 288
+Unknown              : 311
+United States        : 111
+Germany              : 71
+Iran                 : 51
+The Netherlands      : 30
+Finland              : 28
+United Kingdom       : 21
+Sweden               : 16
+United Arab Emirates : 12
+Czechia              : 11
+Lithuania            : 9
+Türkiye              : 7
+France               : 5
 Serbia               : 4
-Luxembourg           : 4
-Poland               : 4
-Austria              : 3
+Austria              : 4
+Kazakhstan           : 3
 Cyprus               : 3
-Switzerland          : 3
-Russia               : 3
+Hong Kong            : 2
+Canada               : 2
+Luxembourg           : 2
+Bulgaria             : 2
 Slovakia             : 1
-Kazakhstan           : 1
-Romania              : 1
 Iceland              : 1
+Brazil               : 1
 Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
-Australia            : 1
+Russia               : 1
 
 === Server Type Summary ===
 VMESS                : 500
@@ -61,8 +59,11 @@ configpluse         : 50
 meli_proxyy         : 50
 farahvpn            : 50
 ConfigsHUB2         : 50
+vpn_ioss            : 50
 v2ry_proxy          : 50
 vpnplusee_free      : 50
+v2raytg             : 50
+kurdistan_vpn_perfectt: 50
 V2aryng_vpn         : 50
 V2rayNG3            : 50
 NEW_MTProxi2        : 50
@@ -72,51 +73,48 @@ Hope_Net            : 50
 v2ray_ng            : 50
 wxgmrjdcc           : 50
 outlinev2rayng      : 50
-vpn_ioss            : 49
-kurdistan_vpn_perfectt: 49
-kingofilter         : 47
-v2raytg             : 47
-summertimeus        : 46
+kingofilter         : 49
+summertimeus        : 48
+FreakConfig         : 42
 WedBaZvpn           : 42
-FreakConfig         : 40
+v2mystery           : 41
 asak_vpn            : 39
 v2rayprotocol       : 39
 VmessProtocol       : 38
-v2mystery           : 38
 vistav2ray          : 37
 satellitenewspersian: 36
+v2ray1_ng           : 35
 vpn_tehran          : 34
-v2ray1_ng           : 33
 kingoclubs          : 31
 skivpn              : 31
 vpnowl              : 30
 chv2raynp           : 30
 dr_v2ray            : 29
 v2ryorg             : 26
+V2rayng_Fast        : 26
 m_vipv2ray          : 25
 V2ra_ng_iran        : 25
+v2raying            : 24
 v2ray_raha          : 24
 azarbayjab1         : 23
 v_2rayng0           : 23
-v2raying            : 23
-V2rayng_Fast        : 22
 free1_vpn           : 21
 v2rayng_1378        : 21
 zede_filteri        : 20
+sinavm              : 20
+selinc              : 20
 v2ray_best_iran     : 20
 free_vpn_for_all_of_us: 20
-selinc              : 19
-sinavm              : 18
 qrv2ray             : 17
 freeiranweb         : 14
 v2rayngfreee        : 13
+v2ray_sub           : 12
 vpnkanfik           : 12
 nofiltering2        : 11
-v2ray_sub           : 10
 free_nettm          : 9
+freestrongvpn       : 8
 configV2rayForFree  : 8
 artemisvpn1         : 8
-freestrongvpn       : 6
 zibanabz            : 3
 v2rayvpn2           : 2
 vpn4ir_1            : 2
