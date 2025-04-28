@@ -1,32 +1,36 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 732
-Failed Geo-IP Resolutions: 268
-Unknown              : 331
-United States        : 121
-Germany              : 72
-Iran                 : 52
-The Netherlands      : 40
+Successful Geo-IP Resolutions: 750
+Failed Geo-IP Resolutions: 250
+Unknown              : 334
+United States        : 118
+Germany              : 69
+Iran                 : 54
+The Netherlands      : 38
 Finland              : 27
-United Kingdom       : 21
-Sweden               : 13
-United Arab Emirates : 11
-Czechia              : 9
+Sweden               : 16
+United Kingdom       : 14
+Lithuania            : 13
+United Arab Emirates : 13
+Czechia              : 11
 Türkiye              : 9
+Austria              : 5
+Hong Kong            : 4
 Serbia               : 4
-Russia               : 4
+France               : 4
 Cyprus               : 3
-Lithuania            : 3
-Hong Kong            : 2
-France               : 2
+India                : 2
+Gibraltar            : 2
 Slovakia             : 1
 Iceland              : 1
-Austria              : 1
+South Korea          : 1
 Brazil               : 1
+Singapore            : 1
+Poland               : 1
 Italy                : 1
 South Africa         : 1
-Gibraltar            : 1
 Switzerland          : 1
+Russia               : 1
 
 === Server Type Summary ===
 VMESS                : 500
@@ -78,9 +82,9 @@ asak_vpn            : 39
 v2rayprotocol       : 39
 VmessProtocol       : 38
 v2mystery           : 38
+vistav2ray          : 37
 satellitenewspersian: 36
 vpn_tehran          : 34
-vistav2ray          : 34
 v2ray1_ng           : 33
 skivpn              : 31
 vpnowl              : 30
@@ -108,9 +112,9 @@ v2rayngfreee        : 13
 vpnkanfik           : 12
 nofiltering2        : 11
 v2ray_sub           : 10
+free_nettm          : 9
 configV2rayForFree  : 8
 freestrongvpn       : 6
-free_nettm          : 6
 artemisvpn1         : 6
 zibanabz            : 3
 v2rayvpn2           : 2
