@@ -1,1 +1,0 @@
-trojan://Aimer@118.38.137.237:21025?path=%2F&security=tls&host=epcca.ambercc.filegear-sg.me&type=ws&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C49
