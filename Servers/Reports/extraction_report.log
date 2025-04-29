@@ -1,28 +1,29 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 688
-Failed Geo-IP Resolutions: 312
-Unknown              : 309
-United States        : 108
-Germany              : 65
+Successful Geo-IP Resolutions: 692
+Failed Geo-IP Resolutions: 308
+Unknown              : 310
+United States        : 114
+Germany              : 64
 Iran                 : 49
-Finland              : 29
+Finland              : 28
 The Netherlands      : 27
-United Kingdom       : 25
-Sweden               : 16
+Sweden               : 17
+United Kingdom       : 16
+Singapore            : 11
 United Arab Emirates : 11
-France               : 8
 Czechia              : 7
 Türkiye              : 7
-Lithuania            : 7
-Austria              : 5
+Cyprus               : 5
+Hong Kong            : 4
 Serbia               : 4
-Cyprus               : 3
-Hong Kong            : 2
+France               : 4
+Austria              : 3
+Italy                : 3
+Lithuania            : 3
 Slovakia             : 1
 Iceland              : 1
 Brazil               : 1
-Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
 
@@ -31,7 +32,7 @@ VMESS                : 500
 VLESS                : 500
 TROJAN               : 500
 SS                   : 500
-HYSTERIA2            : 42
+HYSTERIA2            : 44
 WIREGUARD            : 29
 WARP                 : 4
 HYSTERIA             : 0
@@ -101,11 +102,11 @@ selinc              : 20
 v2ray_best_iran     : 20
 free_vpn_for_all_of_us: 20
 qrv2ray             : 17
+nofiltering2        : 14
 freeiranweb         : 14
 v2rayngfreee        : 13
 v2ray_sub           : 12
 vpnkanfik           : 12
-nofiltering2        : 11
 free_nettm          : 9
 freestrongvpn       : 8
 configV2rayForFree  : 8
