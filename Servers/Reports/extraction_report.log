@@ -1,28 +1,28 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 688
-Failed Geo-IP Resolutions: 312
+Successful Geo-IP Resolutions: 676
+Failed Geo-IP Resolutions: 324
 Unknown              : 298
-United States        : 119
-Germany              : 67
+United States        : 115
+Germany              : 70
 Iran                 : 47
 Finland              : 29
-United Kingdom       : 24
-Sweden               : 18
+Sweden               : 21
+United Kingdom       : 19
 The Netherlands      : 17
-United Arab Emirates : 11
-Cyprus               : 10
+United Arab Emirates : 12
 Türkiye              : 8
-Czechia              : 7
 France               : 6
+Cyprus               : 6
+Czechia              : 5
 Serbia               : 4
-Austria              : 4
-Lithuania            : 4
-Hong Kong            : 3
-Latvia               : 2
-Spain                : 2
-Armenia              : 2
+Austria              : 3
+Lithuania            : 3
+Ukraine              : 2
+Singapore            : 2
+Poland               : 2
 Slovakia             : 1
+Hong Kong            : 1
 Iceland              : 1
 Brazil               : 1
 Italy                : 1
@@ -75,22 +75,22 @@ wxgmrjdcc           : 50
 outlinev2rayng      : 50
 v2rayprotocol       : 43
 VmessProtocol       : 42
+v2ray1_ng           : 42
 FreakConfig         : 42
 WedBaZvpn           : 42
 v2mystery           : 41
 vistav2ray          : 41
-v2ray1_ng           : 39
+satellitenewspersian: 40
 asak_vpn            : 39
-satellitenewspersian: 38
 vpn_tehran          : 34
 kingoclubs          : 31
 chv2raynp           : 31
 skivpn              : 31
 vpnowl              : 30
+V2rayng_Fast        : 30
 dr_v2ray            : 29
 v_2rayng0           : 28
 v2raying            : 28
-V2rayng_Fast        : 28
 azarbayjab1         : 27
 v2ryorg             : 26
 free1_vpn           : 25
@@ -106,10 +106,10 @@ free_vpn_for_all_of_us: 20
 qrv2ray             : 17
 nofiltering2        : 14
 freeiranweb         : 14
+vpnkanfik           : 14
 v2rayngfreee        : 13
 v2ray_sub           : 12
 artemisvpn1         : 12
-vpnkanfik           : 12
 free_nettm          : 9
 freestrongvpn       : 8
 configV2rayForFree  : 8
