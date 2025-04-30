@@ -1,29 +1,30 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 676
-Failed Geo-IP Resolutions: 324
-Unknown              : 298
-United States        : 115
-Germany              : 70
+Successful Geo-IP Resolutions: 682
+Failed Geo-IP Resolutions: 318
+Unknown              : 296
+United States        : 111
+Germany              : 68
 Iran                 : 47
 Finland              : 29
+Singapore            : 23
 Sweden               : 21
-United Kingdom       : 19
 The Netherlands      : 17
-United Arab Emirates : 12
+United Arab Emirates : 13
+United Kingdom       : 11
 Türkiye              : 8
 France               : 6
 Cyprus               : 6
 Czechia              : 5
 Serbia               : 4
-Austria              : 3
 Lithuania            : 3
-Ukraine              : 2
-Singapore            : 2
-Poland               : 2
+Latvia               : 2
+Bulgaria             : 2
+Russia               : 2
 Slovakia             : 1
 Hong Kong            : 1
 Iceland              : 1
+Austria              : 1
 Brazil               : 1
 Italy                : 1
 South Africa         : 1
@@ -73,11 +74,11 @@ summertimeus        : 50
 v2ray_ng            : 50
 wxgmrjdcc           : 50
 outlinev2rayng      : 50
+WedBaZvpn           : 44
 v2rayprotocol       : 43
 VmessProtocol       : 42
 v2ray1_ng           : 42
 FreakConfig         : 42
-WedBaZvpn           : 42
 v2mystery           : 41
 vistav2ray          : 41
 satellitenewspersian: 40
@@ -88,9 +89,9 @@ chv2raynp           : 31
 skivpn              : 31
 vpnowl              : 30
 V2rayng_Fast        : 30
+v2raying            : 29
 dr_v2ray            : 29
 v_2rayng0           : 28
-v2raying            : 28
 azarbayjab1         : 27
 v2ryorg             : 26
 free1_vpn           : 25
