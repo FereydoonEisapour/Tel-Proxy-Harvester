@@ -1,0 +1,2 @@
+trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&allowInsecure=1&type=tcp&path=&host=x1es-ovh.devefun.net#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&allowInsecure=1&type=tcp&path=&host=x1es-ovh.devefun.net#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
