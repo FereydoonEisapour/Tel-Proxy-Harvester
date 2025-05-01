@@ -1,1 +1,2 @@
 vless://a6b5e86d-248d-4313-bc1f-716baf350ef8@95.164.36.59:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#______%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F______
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
