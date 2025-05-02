@@ -1,32 +1,30 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 703
-Failed Geo-IP Resolutions: 297
-Unknown              : 266
-United States        : 130
-Germany              : 74
-Iran                 : 40
-The Netherlands      : 27
+Successful Geo-IP Resolutions: 679
+Failed Geo-IP Resolutions: 321
+Unknown              : 260
+United States        : 129
+Germany              : 76
+Iran                 : 41
+The Netherlands      : 25
 Finland              : 25
-Sweden               : 20
-United Arab Emirates : 18
+Singapore            : 19
+Sweden               : 16
+United Arab Emirates : 15
+Czechia              : 13
 Cyprus               : 13
-France               : 12
-Lithuania            : 12
-Czechia              : 11
 United Kingdom       : 11
 Türkiye              : 7
-Austria              : 6
+Lithuania            : 6
 Latvia               : 4
 Serbia               : 4
-China                : 4
-Switzerland          : 4
 South Korea          : 3
-Hong Kong            : 2
-Vietnam              : 2
-Singapore            : 2
+France               : 2
+Switzerland          : 2
 Slovakia             : 1
+Hong Kong            : 1
 Iceland              : 1
+Austria              : 1
 Luxembourg           : 1
 Italy                : 1
 South Africa         : 1
@@ -48,6 +46,7 @@ shokhmiplus         : 50
 v2rayfree           : 50
 FarahVPN            : 50
 gh_v2rayng          : 50
+v2ray1_ng           : 50
 expressvpn_420      : 50
 outline_ir          : 50
 configshub2         : 50
@@ -76,7 +75,6 @@ summertimeus        : 50
 v2ray_ng            : 50
 wxgmrjdcc           : 50
 outlinev2rayng      : 50
-v2ray1_ng           : 48
 vistav2ray          : 48
 v2mystery           : 47
 WedBaZvpn           : 45
@@ -87,14 +85,14 @@ FreakConfig         : 42
 asak_vpn            : 41
 v2ray_raha          : 40
 azarbayjab1         : 39
-v2raying            : 37
+v2raying            : 38
+V2rayng_Fast        : 38
 kingoclubs          : 36
-V2rayng_Fast        : 36
+free1_vpn           : 34
 vpn_tehran          : 34
-free1_vpn           : 32
+skivpn              : 33
 vpnowl              : 32
 chv2raynp           : 31
-skivpn              : 31
 v_2rayng0           : 30
 dr_v2ray            : 29
 v2ryorg             : 28
