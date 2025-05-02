@@ -1,28 +1,30 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 669
-Failed Geo-IP Resolutions: 331
-Unknown              : 267
-United States        : 136
-Germany              : 68
+Successful Geo-IP Resolutions: 703
+Failed Geo-IP Resolutions: 297
+Unknown              : 266
+United States        : 130
+Germany              : 74
 Iran                 : 40
+The Netherlands      : 27
 Finland              : 25
-The Netherlands      : 22
-Sweden               : 15
-United Kingdom       : 15
-United Arab Emirates : 13
-Cyprus               : 11
-France               : 10
-Czechia              : 7
+Sweden               : 20
+United Arab Emirates : 18
+Cyprus               : 13
+France               : 12
+Lithuania            : 12
+Czechia              : 11
+United Kingdom       : 11
 Türkiye              : 7
+Austria              : 6
 Latvia               : 4
 Serbia               : 4
-Austria              : 4
+China                : 4
 Switzerland          : 4
-Lithuania            : 4
-Singapore            : 3
-Japan                : 2
-Russia               : 2
+South Korea          : 3
+Hong Kong            : 2
+Vietnam              : 2
+Singapore            : 2
 Slovakia             : 1
 Iceland              : 1
 Luxembourg           : 1
@@ -35,7 +37,7 @@ VMESS                : 500
 VLESS                : 500
 TROJAN               : 500
 SS                   : 500
-HYSTERIA2            : 60
+HYSTERIA2            : 61
 WIREGUARD            : 33
 WARP                 : 4
 HYSTERIA             : 0
@@ -85,16 +87,16 @@ FreakConfig         : 42
 asak_vpn            : 41
 v2ray_raha          : 40
 azarbayjab1         : 39
+v2raying            : 37
 kingoclubs          : 36
-v2raying            : 36
+V2rayng_Fast        : 36
 vpn_tehran          : 34
-V2rayng_Fast        : 34
 free1_vpn           : 32
 vpnowl              : 32
 chv2raynp           : 31
 skivpn              : 31
+v_2rayng0           : 30
 dr_v2ray            : 29
-v_2rayng0           : 28
 v2ryorg             : 28
 selinc              : 27
 m_vipv2ray          : 25
