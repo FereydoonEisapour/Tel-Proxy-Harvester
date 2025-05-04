@@ -1,32 +1,35 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 656
-Failed Geo-IP Resolutions: 344
-Unknown              : 256
-United States        : 118
-Germany              : 64
-Iran                 : 43
-Finland              : 32
-The Netherlands      : 28
-United Kingdom       : 16
-Sweden               : 15
-France               : 10
-Cyprus               : 10
-Switzerland          : 10
+Successful Geo-IP Resolutions: 671
+Failed Geo-IP Resolutions: 329
+Unknown              : 257
+United States        : 109
+Germany              : 75
+Iran                 : 40
+The Netherlands      : 33
+Finland              : 31
+United Kingdom       : 25
+Sweden               : 14
+France               : 12
 United Arab Emirates : 10
-Lithuania            : 8
-Türkiye              : 7
-Czechia              : 6
+Cyprus               : 8
+Poland               : 8
+Switzerland          : 6
+Lithuania            : 6
+Türkiye              : 5
+Russia               : 5
 Serbia               : 4
-Singapore            : 3
-Russia               : 3
-South Korea          : 2
-Greece               : 2
-Poland               : 2
+Czechia              : 4
+Austria              : 3
+Canada               : 2
+Singapore            : 2
+Armenia              : 2
+Australia            : 2
 Slovakia             : 1
 Latvia               : 1
 Iceland              : 1
-Austria              : 1
+South Korea          : 1
+Greece               : 1
 Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
@@ -36,7 +39,7 @@ VMESS                : 500
 VLESS                : 500
 TROJAN               : 500
 SS                   : 500
-HYSTERIA2            : 61
+HYSTERIA2            : 63
 WIREGUARD            : 35
 WARP                 : 4
 HYSTERIA             : 0
@@ -53,6 +56,7 @@ outline_ir          : 50
 configshub2         : 50
 vmesskhodam         : 50
 v2ray_free_conf     : 50
+WedBaZvpn           : 50
 Outline_Vpn         : 50
 proxy_mtproto_vpns_free: 50
 kingofilter         : 50
@@ -79,7 +83,6 @@ v2ray_ng            : 50
 wxgmrjdcc           : 50
 outlinev2rayng      : 50
 satellitenewspersian: 49
-WedBaZvpn           : 47
 v2rayprotocol       : 45
 VmessProtocol       : 44
 v2ray_raha          : 44
@@ -88,15 +91,15 @@ v2raying            : 43
 FreakConfig         : 42
 azarbayjab1         : 41
 asak_vpn            : 41
-free1_vpn           : 38
+free1_vpn           : 40
 kingoclubs          : 38
+skivpn              : 37
 vpn_tehran          : 34
-skivpn              : 33
 vpnowl              : 32
+selinc              : 32
 chv2raynp           : 31
 dr_v2ray            : 31
 v_2rayng0           : 30
-selinc              : 30
 v2ray_best_iran     : 30
 sinavm              : 28
 v2ryorg             : 28
@@ -113,8 +116,8 @@ v2ray_sub           : 15
 vpnkanfik           : 14
 v2rayngfreee        : 13
 artemisvpn1         : 12
+free_nettm          : 10
 configV2rayForFree  : 10
-free_nettm          : 9
+zibanabz            : 6
 v2rayvpn2           : 6
-zibanabz            : 4
 vpn4ir_1            : 2
