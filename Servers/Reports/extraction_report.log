@@ -1,35 +1,34 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 671
-Failed Geo-IP Resolutions: 329
-Unknown              : 257
-United States        : 109
-Germany              : 75
-Iran                 : 40
-The Netherlands      : 33
-Finland              : 31
-United Kingdom       : 25
-Sweden               : 14
-France               : 12
+Successful Geo-IP Resolutions: 656
+Failed Geo-IP Resolutions: 344
+Unknown              : 249
+United States        : 105
+Germany              : 88
+Iran                 : 38
+The Netherlands      : 31
+Finland              : 30
+United Kingdom       : 18
+Sweden               : 13
+France               : 11
 United Arab Emirates : 10
-Cyprus               : 8
-Poland               : 8
-Switzerland          : 6
+Russia               : 7
+Austria              : 6
+Cyprus               : 6
 Lithuania            : 6
+Czechia              : 5
+Switzerland          : 5
 Türkiye              : 5
-Russia               : 5
 Serbia               : 4
-Czechia              : 4
-Austria              : 3
+Greece               : 4
 Canada               : 2
 Singapore            : 2
-Armenia              : 2
+Poland               : 2
 Australia            : 2
 Slovakia             : 1
 Latvia               : 1
 Iceland              : 1
 South Korea          : 1
-Greece               : 1
 Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
@@ -83,18 +82,18 @@ v2ray_ng            : 50
 wxgmrjdcc           : 50
 outlinev2rayng      : 50
 satellitenewspersian: 49
+V2rayng_Fast        : 46
 v2rayprotocol       : 45
 VmessProtocol       : 44
+v2raying            : 44
 v2ray_raha          : 44
-V2rayng_Fast        : 44
-v2raying            : 43
+free1_vpn           : 42
+vpn_tehran          : 42
 FreakConfig         : 42
 azarbayjab1         : 41
 asak_vpn            : 41
-free1_vpn           : 40
 kingoclubs          : 38
 skivpn              : 37
-vpn_tehran          : 34
 vpnowl              : 32
 selinc              : 32
 chv2raynp           : 31
