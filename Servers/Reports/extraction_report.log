@@ -1,31 +1,31 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 660
-Failed Geo-IP Resolutions: 340
+Successful Geo-IP Resolutions: 664
+Failed Geo-IP Resolutions: 336
 Unknown              : 255
-United States        : 107
-Germany              : 83
-The Netherlands      : 34
+United States        : 103
+Germany              : 86
 Iran                 : 34
-Finland              : 30
+The Netherlands      : 32
+Finland              : 32
 United Kingdom       : 20
-France               : 16
+France               : 18
 Sweden               : 15
+Switzerland          : 11
 United Arab Emirates : 11
-Cyprus               : 8
 Lithuania            : 8
 Russia               : 7
-Switzerland          : 5
+Cyprus               : 6
 Türkiye              : 5
 Serbia               : 4
 Czechia              : 4
 Latvia               : 2
-Austria              : 2
 Singapore            : 2
 Poland               : 2
 Slovakia             : 1
 Iceland              : 1
 South Korea          : 1
+Austria              : 1
 Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
@@ -80,9 +80,9 @@ v2ray_ng            : 50
 wxgmrjdcc           : 50
 outlinev2rayng      : 50
 V2rayng_Fast        : 46
+v2raying            : 45
 v2rayprotocol       : 45
 VmessProtocol       : 44
-v2raying            : 44
 v2ray_raha          : 44
 free1_vpn           : 42
 vpn_tehran          : 42
