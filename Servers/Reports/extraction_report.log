@@ -1,32 +1,35 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 656
-Failed Geo-IP Resolutions: 344
-Unknown              : 268
-United States        : 100
-Germany              : 87
+Successful Geo-IP Resolutions: 665
+Failed Geo-IP Resolutions: 335
+Unknown              : 273
+United States        : 101
+Germany              : 71
 Iran                 : 34
-Finland              : 26
-The Netherlands      : 24
-United Kingdom       : 18
+The Netherlands      : 33
+Finland              : 23
+United Kingdom       : 20
+United Arab Emirates : 13
+France               : 12
+Sweden               : 12
 Lithuania            : 12
-Sweden               : 11
-France               : 10
-United Arab Emirates : 10
-Cyprus               : 8
-Czechia              : 6
+Cyprus               : 11
+Türkiye              : 9
 Russia               : 6
-Singapore            : 5
-Switzerland          : 5
-Türkiye              : 5
 Serbia               : 4
+Czechia              : 4
 Latvia               : 3
-Austria              : 3
+Greece               : 3
+Poland               : 3
+Switzerland          : 3
+Romania              : 2
+South Korea          : 2
 Brazil               : 2
-Greece               : 2
 Pakistan             : 2
 Slovakia             : 1
 Iceland              : 1
+Austria              : 1
+Singapore            : 1
 Italy                : 1
 South Africa         : 1
 Gibraltar            : 1
@@ -36,7 +39,7 @@ VMESS                : 500
 VLESS                : 500
 TROJAN               : 500
 SS                   : 500
-HYSTERIA2            : 65
+HYSTERIA2            : 67
 WIREGUARD            : 37
 WARP                 : 4
 HYSTERIA             : 0
@@ -79,10 +82,10 @@ Hope_Net            : 50
 summertimeus        : 50
 v2ray_ng            : 50
 wxgmrjdcc           : 50
+V2rayng_Fast        : 50
 outlinev2rayng      : 50
 azarbayjab1         : 49
-v2raying            : 48
-V2rayng_Fast        : 48
+v2raying            : 49
 free1_vpn           : 46
 v2rayprotocol       : 45
 VmessProtocol       : 44
@@ -93,8 +96,8 @@ kingoclubs          : 41
 asak_vpn            : 41
 skivpn              : 40
 v_2rayng0           : 34
+selinc              : 33
 vpnowl              : 32
-selinc              : 32
 chv2raynp           : 31
 dr_v2ray            : 31
 qrv2ray             : 30
