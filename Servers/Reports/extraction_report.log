@@ -1,36 +1,37 @@
 === Country Statistics ===
-Total Servers: 693
-Successful Geo-IP Resolutions: 461
-Failed Geo-IP Resolutions: 232
-Unknown              : 110
-United States        : 84
-Germany              : 38
-United Kingdom       : 24
+Total Servers: 724
+Successful Geo-IP Resolutions: 483
+Failed Geo-IP Resolutions: 241
+Unknown              : 114
+United States        : 90
+Germany              : 42
+United Kingdom       : 25
 The Netherlands      : 24
 France               : 21
-Iran                 : 20
-Lithuania            : 19
+Iran                 : 21
+Lithuania            : 20
 Singapore            : 14
 Finland              : 14
 United Arab Emirates : 11
 Sweden               : 10
 Russia               : 9
 Türkiye              : 9
-Cyprus               : 7
-Switzerland          : 6
+Cyprus               : 8
+Switzerland          : 7
 Czechia              : 4
 China                : 3
 Gibraltar            : 3
 Austria              : 3
 Brazil               : 3
+Canada               : 2
+Japan                : 2
 Poland               : 2
 Serbia               : 2
 Bahrain              : 2
 Latvia               : 2
 South Korea          : 2
-Canada               : 1
-Japan                : 1
 South Africa         : 1
+Bulgaria             : 1
 Seychelles           : 1
 Moldova              : 1
 Spain                : 1
@@ -46,9 +47,9 @@ Italy                : 1
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 104
-VMESS                : 41
-TROJAN               : 29
+SS                   : 107
+VMESS                : 45
+TROJAN               : 30
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -59,46 +60,48 @@ WARP                 : 0
 v2ray_ng            : 50
 V2rayNG3            : 50
 expressvpn_420      : 42
-v2raytg             : 30
+v2raytg             : 31
 shokhmiplus         : 28
+Hope_Net            : 28
+farahvpn            : 26
+configshub2         : 25
+v2rayfree           : 22
+proxy_mtproto_vpns_free: 22
+vmess_ir            : 21
+NEW_MTProxi2        : 21
+v2ry_proxy          : 20
 asak_vpn            : 20
 wxgmrjdcc           : 20
-Hope_Net            : 20
+summertimeus        : 19
 v2rayprotocol       : 19
 free_vpn_for_all_of_us: 19
 Outline_Vpn         : 19
 outline_ir          : 19
+vpnplusee_free      : 19
 VmessProtocol       : 19
-NEW_MTProxi2        : 19
-farahvpn            : 19
+vmesc               : 19
 v2ray_best_iran     : 18
-summertimeus        : 18
-v2ry_proxy          : 18
+kurdistan_vpn_perfectt: 18
 satellitenewspersian: 18
-v2rayfree           : 18
-proxy_mtproto_vpns_free: 18
 meli_proxyy         : 18
-vmess_ir            : 17
+outlinev2rayng      : 17
+selinc              : 17
 m_vipv2ray          : 17
-vmesc               : 17
 v2rayng_1378        : 16
-kurdistan_vpn_perfectt: 16
-vpnplusee_free      : 16
-configshub2         : 16
-outlinev2rayng      : 15
+gh_v2rayng          : 16
 dr_v2ray            : 15
 vpn_ioss            : 15
-selinc              : 15
+v2raying            : 15
 vpnowl              : 15
-v2raying            : 14
-gh_v2rayng          : 14
 v2ryorg             : 13
 azarbayjab1         : 13
+vistav2ray          : 12
 vpn_tehran          : 11
+configpluse         : 11
 orange_vpns         : 11
-vistav2ray          : 11
 v2mystery           : 11
 V2aryng_vpn         : 11
+free1_vpn           : 11
 kingoclubs          : 10
 v2ray_sub           : 10
 WedBaZvpn           : 10
@@ -107,21 +110,19 @@ skivpn              : 9
 v_2rayng0           : 9
 v2ray_raha          : 8
 FreakConfig         : 8
+v2ray1_ng           : 8
 kingofilter         : 7
 v2rayngfreee        : 7
-free1_vpn           : 7
-v2ray1_ng           : 6
 vpnkanfik           : 5
+configV2rayForFree  : 5
 V2rayng_Fast        : 5
 nofiltering2        : 4
-configV2rayForFree  : 4
 chv2raynp           : 4
 free_nettm          : 4
 freestrongvpn       : 3
 freeiranweb         : 2
 vpn4ir_1            : 2
 v2rayvpn2           : 2
-configpluse         : 2
 qrv2ray             : 2
 zibanabz            : 2
 sinavm              : 1
