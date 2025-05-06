@@ -7,6 +7,8 @@ import time
 import geoip2.database
 from pathlib import Path
 import re
+import json
+import base64
 
 # System configuration to enforce UTF-8 encoding for standard output
 sys.stdout.reconfigure(encoding='utf-8')
@@ -63,6 +65,35 @@ PATTERNS = {
     'warp': r'(?<![a-zA-Z0-9_])warp://[^\s<>]+'              # Warp  
 }
 
+def parse_server_link(link):
+    """Parses a server link to extract protocol, IP, port, and UUID for deduplication."""
+    try:
+        link = link.strip()
+        
+        protocol = link.split('://')[0].lower()
+        if protocol not in ['vless', 'vmess', 'trojan', 'ss']:
+            return None, None, None, None
+
+        if protocol == 'vmess':
+            vmess_data = json.loads(base64.b64decode(link.split('://')[1]).decode('utf-8'))
+            ip = vmess_data.get('add', '')
+            port = str(vmess_data.get('port', ''))
+            uuid = vmess_data.get('id', '')
+            return protocol, ip, port, uuid
+
+        match = re.match(r'^(vless|trojan|ss)://([0-9a-f\-]+|[^\@]+)\@([^\:]+):(\d+)', link)
+        if not match:
+            return None, None, None, None
+        
+        protocol, uuid, ip, port = match.groups()
+        
+        if protocol == 'ss':
+            uuid = link.split('@')[0].split('://')[1]
+        
+        return protocol, ip, port, uuid
+
+    except Exception:
+        return None, None, None, None
 
 def normalize_telegram_url(url):
     """
@@ -155,6 +186,7 @@ def save_extraction_data(channel_stats, country_data):
                 
     except Exception as e:
         print(f"Error writing to log file: {e}")
+
 def fetch_config_links(url):
     """Scrapes Telegram channel content for proxy configuration links."""
     try:
@@ -162,17 +194,17 @@ def fetch_config_links(url):
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # استخراج تمام بلوک‌های کد و متن معمولی
+        # Extract all code blocks and plain text
         message_tags = soup.find_all(['div', 'span'], class_='tgme_widget_message_text')
         code_blocks = soup.find_all(['code', 'pre'])
         
         configs = {proto: set() for proto in PATTERNS}
         configs["all"] = set()
         
-        # پردازش بلوک‌های کد به صورت جداگانه
+        # Process code blocks separately
         for code_tag in code_blocks:
             code_text = code_tag.get_text().strip()
-            # حذف کاراکترهای ``` و ` از ابتدا و انتها
+            # Remove ``` and ` from start and end
             clean_text = re.sub(r'^(`{1,3})|(`{1,3})$', '', code_text, flags=re.MULTILINE)
             
             for proto, pattern in PATTERNS.items():
@@ -181,7 +213,7 @@ def fetch_config_links(url):
                     configs[proto].update(matches)
                     configs["all"].update(matches)
         
-        # پردازش متن عمومی پیام‌ها
+        # Process general message text
         for tag in message_tags:
             general_text = tag.get_text().strip()
             
@@ -236,8 +268,20 @@ def trim_file(file_path, max_lines):
     except Exception as e:
         print(f"Error trimming {file_path}: {e}")
 
+def deduplicate_configs(configs, existing_keys):
+    """Deduplicates a list of configs based on (ip, port, uuid) keys."""
+    unique_configs = {}
+    for link in configs:
+        protocol, ip, port, uuid = parse_server_link(link)
+        if not protocol or ip == '127.0.0.1':
+            continue
+        key = (ip, port, uuid)
+        if key not in existing_keys and key not in unique_configs:
+            unique_configs[key] = link
+    return list(unique_configs.values())
+
 def process_channel(url):
-    """Executes full processing pipeline for a Telegram channel."""
+    """Executes full processing pipeline for a Telegram channel with deduplication."""
     existing_configs = load_existing_configs()
     channel_name = extract_channel_name(url)
     channel_file = os.path.join(CHANNELS_DIR, f"{channel_name}.txt")
@@ -250,15 +294,21 @@ def process_channel(url):
     for proto_links in configs.values():
         all_channel_configs.update(proto_links)
 
-    # Channel-specific deduplication
+    # Load existing channel configs and their keys
     existing_channel_configs = set()
+    existing_channel_keys = set()
     if os.path.exists(channel_file):
         with open(channel_file, 'r', encoding='utf-8') as f:
             existing_channel_configs = set(f.read().splitlines())
+        for link in existing_channel_configs:
+            protocol, ip, port, uuid = parse_server_link(link)
+            if protocol and ip != '127.0.0.1':
+                existing_channel_keys.add((ip, port, uuid))
     
-    new_channel_configs = all_channel_configs - existing_channel_configs
+    # Deduplicate new channel configs
+    new_channel_configs = deduplicate_configs(all_channel_configs - existing_channel_configs, existing_channel_keys)
     if new_channel_configs:
-        updated_channel_configs = list(new_channel_configs) + list(existing_channel_configs)
+        updated_channel_configs = new_channel_configs + list(existing_channel_configs)
         with open(channel_file, 'w', encoding='utf-8') as f:
             f.write('\n'.join(updated_channel_configs[:MAX_CHANNEL_SERVERS]) + '\n')
 
@@ -266,12 +316,18 @@ def process_channel(url):
     for proto, links in configs.items():
         if proto == "all":
             continue
-        new_links = set(links) - existing_configs[proto]
+        # Load existing protocol keys
+        existing_proto_keys = set()
+        for link in existing_configs[proto]:
+            protocol, ip, port, uuid = parse_server_link(link)
+            if protocol and ip != '127.0.0.1':
+                existing_proto_keys.add((ip, port, uuid))
+        
+        # Deduplicate new protocol links
+        new_links = deduplicate_configs(set(links) - existing_configs[proto], existing_proto_keys)
         if not new_links:
             continue
 
-        unique_new = [link for link in new_links if link not in existing_configs[proto]]
-        
         # Update protocol file
         proto_path = os.path.join(PROTOCOLS_DIR, f"{proto}.txt")
         try:
@@ -280,7 +336,7 @@ def process_channel(url):
                 with open(proto_path, 'r', encoding='utf-8') as f:
                     existing_lines = f.read().splitlines()
             
-            updated_lines = unique_new + existing_lines
+            updated_lines = new_links + existing_lines
             with open(proto_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(updated_lines[:MAX_PROTOCOL_SERVERS]) + '\n')
         
@@ -290,11 +346,16 @@ def process_channel(url):
         # Update merged list
         try:
             merged_lines = []
+            existing_merged_keys = set()
             if os.path.exists(MERGED_SERVERS_FILE):
                 with open(MERGED_SERVERS_FILE, 'r', encoding='utf-8') as f:
                     merged_lines = f.read().splitlines()
+                for link in merged_lines:
+                    protocol, ip, port, uuid = parse_server_link(link)
+                    if protocol and ip != '127.0.0.1':
+                        existing_merged_keys.add((ip, port, uuid))
             
-            new_merged = [link for link in unique_new if link not in merged_lines]
+            new_merged = deduplicate_configs(new_links, existing_merged_keys)
             updated_merged = new_merged + merged_lines
             with open(MERGED_SERVERS_FILE, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(updated_merged[:MAX_MERGED_SERVERS]) + '\n')
@@ -302,7 +363,7 @@ def process_channel(url):
         except Exception as e:
             print(f"Error updating merged configs: {e}")
         
-        existing_configs[proto].update(unique_new)
+        existing_configs[proto].update(new_links)
 
     return 1, len(new_channel_configs)
 
@@ -328,7 +389,7 @@ def download_geoip_database():
         return False
 
 def process_geo_data():
-    """Performs geographical analysis using GeoIP database."""
+    """Performs geographical analysis using GeoIP database with deduplication."""
     if not GEOIP_DATABASE_PATH.exists():
         print("⚠️ GeoIP database missing. Attempting download...")
         success = download_geoip_database()
@@ -353,7 +414,17 @@ def process_geo_data():
         with open(MERGED_SERVERS_FILE, 'r', encoding='utf-8') as f:
             configs = [line.strip() for line in f if line.strip()]
 
-    for config in configs:
+    # Deduplicate configs for region processing
+    unique_configs = {}
+    for link in configs:
+        protocol, ip, port, uuid = parse_server_link(link)
+        if not protocol or ip == '127.0.0.1':
+            continue
+        key = (ip, port, uuid)
+        if key not in unique_configs:
+            unique_configs[key] = link
+
+    for config in unique_configs.values():
         try:
             # Extract IP from common proxy URI formats
             ip = config.split('@')[1].split(':')[0]  
@@ -364,13 +435,19 @@ def process_geo_data():
             
             region_file = os.path.join(REGIONS_DIR, f"{country}.txt")
             existing_region = []
+            existing_region_keys = set()
             if os.path.exists(region_file):
                 with open(region_file, 'r', encoding='utf-8') as f:
                     existing_region = f.read().splitlines()
+                for link in existing_region:
+                    protocol, ip, port, uuid = parse_server_link(link)
+                    if protocol and ip != '127.0.0.1':
+                        existing_region_keys.add((ip, port, uuid))
             
-            updated_region = [config] + existing_region
-            with open(region_file, 'w', encoding='utf-8') as f:
-                f.write('\n'.join(updated_region[:MAX_REGION_SERVERS]) + '\n')
+            if parse_server_link(config)[1:4] not in existing_region_keys:
+                updated_region = [config] + existing_region
+                with open(region_file, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(updated_region[:MAX_REGION_SERVERS]) + '\n')
                 
         except (IndexError, geoip2.errors.AddressNotFoundError, ValueError):
             pass  # Silent fail for invalid formats
@@ -425,6 +502,5 @@ if __name__ == "__main__":
     print(f"📂 Channels: {CHANNELS_DIR}")
     print(f"\n📊 Final Statistics:")
     print(f"🎉 Total Servers: {current_counts['total']}")
-
     print(f"✅ Successful Geo-IP Resolutions: {current_counts['successful']}")
     print(f"❌ Failed Geo-IP Resolutions: {current_counts['failed']}")
