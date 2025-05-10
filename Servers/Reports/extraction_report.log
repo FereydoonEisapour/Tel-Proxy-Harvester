@@ -1,57 +1,59 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 656
-Failed Geo-IP Resolutions: 344
-Unknown              : 158
-United States        : 155
-Germany              : 58
+Successful Geo-IP Resolutions: 669
+Failed Geo-IP Resolutions: 331
+Unknown              : 172
+United States        : 160
+Germany              : 56
 The Netherlands      : 37
-United Kingdom       : 27
-Iran                 : 22
+United Kingdom       : 25
 Finland              : 22
 Singapore            : 18
-France               : 16
-Sweden               : 14
+France               : 17
+Sweden               : 16
+Cyprus               : 13
 Switzerland          : 12
+Russia               : 11
 Czechia              : 11
-Cyprus               : 11
 United Arab Emirates : 11
 Japan                : 9
-Russia               : 9
-Türkiye              : 9
-Lithuania            : 8
-South Korea          : 6
+Iran                 : 9
+Lithuania            : 9
+South Korea          : 7
+Türkiye              : 7
 Romania              : 4
 Canada               : 3
 Poland               : 3
 Bulgaria             : 3
 Austria              : 3
 Brazil               : 3
+Taiwan               : 2
 South Africa         : 2
+Serbia               : 2
 Luxembourg           : 2
 Latvia               : 2
 Spain                : 2
 Hong Kong            : 2
 Ireland              : 1
 China                : 1
-Taiwan               : 1
 India                : 1
-Serbia               : 1
 Ukraine              : 1
+Gibraltar            : 1
 Morocco              : 1
 Estonia              : 1
 Vietnam              : 1
 Israel               : 1
 Pakistan             : 1
 Slovakia             : 1
+Iceland              : 1
 Italy                : 1
 Kazakhstan           : 1
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 219
-VMESS                : 89
-TROJAN               : 53
+SS                   : 224
+VMESS                : 92
+TROJAN               : 56
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -95,13 +97,13 @@ satellitenewspersian: 19
 VmessProtocol       : 19
 free1_vpn           : 19
 v2ray_best_iran     : 18
+WedBaZvpn           : 18
 m_vipv2ray          : 17
 azarbayjab1         : 17
 v2ray1_ng           : 17
 v2rayng_1378        : 16
 dr_v2ray            : 16
 vpnowl              : 16
-WedBaZvpn           : 15
 V2aryng_vpn         : 15
 v2ray_sub           : 14
 vpn_tehran          : 14
