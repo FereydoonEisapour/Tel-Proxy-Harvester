@@ -1,40 +1,40 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 659
-Failed Geo-IP Resolutions: 341
-Unknown              : 162
-United States        : 149
-Germany              : 55
+Successful Geo-IP Resolutions: 661
+Failed Geo-IP Resolutions: 339
+Unknown              : 161
+United States        : 147
+Germany              : 57
 The Netherlands      : 35
 Finland              : 31
 United Kingdom       : 21
+Sweden               : 20
 Iran                 : 20
-Sweden               : 19
 France               : 16
-Singapore            : 15
+Singapore            : 16
 Cyprus               : 14
-Czechia              : 11
+Russia               : 10
 Türkiye              : 10
-Russia               : 9
-United Arab Emirates : 9
+United Arab Emirates : 10
+Czechia              : 9
 Japan                : 8
 Lithuania            : 8
+South Korea          : 7
 Switzerland          : 7
-South Korea          : 6
 South Africa         : 5
 Spain                : 5
 Canada               : 4
-Poland               : 4
 Romania              : 4
-Luxembourg           : 3
+Poland               : 3
+Austria              : 3
 Latvia               : 3
+Hong Kong            : 3
 Ireland              : 2
 Taiwan               : 2
 Armenia              : 2
 Serbia               : 2
-Austria              : 2
+Luxembourg           : 2
 Brazil               : 2
-Hong Kong            : 2
 Kazakhstan           : 2
 Ukraine              : 1
 Gibraltar            : 1
@@ -49,9 +49,9 @@ Italy                : 1
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 261
-VMESS                : 112
-TROJAN               : 65
+SS                   : 270
+VMESS                : 114
+TROJAN               : 67
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -94,9 +94,9 @@ v2ray_best_iran     : 20
 v2rayprotocol       : 20
 satellitenewspersian: 20
 VmessProtocol       : 20
+V2aryng_vpn         : 20
 free_vpn_for_all_of_us: 19
 Outline_Vpn         : 19
-V2aryng_vpn         : 19
 WedBaZvpn           : 18
 vpnowl              : 17
 m_vipv2ray          : 17
