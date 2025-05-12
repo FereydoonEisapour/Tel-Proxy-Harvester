@@ -38,9 +38,9 @@ FETCH_CONFIG_LINKS_TIMEOUT = 15  # HTTP request timeout for Telegram scraping (s
 
 # Maximum entries per file
 MAX_CHANNEL_SERVERS = 200         # Max entries per channel file
-MAX_PROTOCOL_SERVERS = 1000        # Max entries per protocol file
-MAX_REGION_SERVERS = 1000          # Max entries per region file
-MAX_MERGED_SERVERS = 1000        # Max entries in merged file
+MAX_PROTOCOL_SERVERS = 10000        # Max entries per protocol file
+MAX_REGION_SERVERS = 10000          # Max entries per region file
+MAX_MERGED_SERVERS = 10000        # Max entries in merged file
 
 # ========================
 # Critical File Paths
