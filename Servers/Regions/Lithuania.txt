@@ -4,3 +4,4 @@ vless://0f9f0500-01a2-49a6-b67b-d1b38913ba2c@86.38.214.30:8080?security=none&typ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://1f3747e8-8beb-4a30-a52c-97efd9829b08@194.5.157.239:16977?type=xhttp&path=%2Fcva&host=&mode=auto&security=reality&pbk=W58j2vDj3iiLCVhsPNKVaguS0xQBoAoYr2nChwDRWk4&fp=chrome&sni=yahoo.com&sid=72cfda14fc&spx=%2F#%40CAA_V2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF

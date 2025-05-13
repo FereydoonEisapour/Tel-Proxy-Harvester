@@ -5,3 +5,4 @@ vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@83.147.18.150:443?encryption=none&s
 vless://60b1a1a3-5d57-4256-b4d2-b69d4bd2b142@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#Moftinet
 vless://6ba582f5-ac6a-4e03-ae7a-b32ad05caab5@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#Moftinet%20%F0%9F%87%A9%F0%9F%87%AA…
 vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.132.157:443?type=ws&host=aklisvpn.com&path=/@V2HAMID@V2HAMID@V2HAMID&security=tls&fp=firefox&sni=ads.google.com&allowInsecure=true#V2HAMID%F0%9F%8C%90Vip2%F0%9F%87%BA%F0%9F%87%B8@V2HAMID
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINjJMWEYyczQ3bE9xNlM4WnA5SDZr@194.87.45.189:443#🇪🇸
