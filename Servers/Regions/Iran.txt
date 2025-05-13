@@ -125,3 +125,4 @@ vless://9155e3fe-d418-4f5c-a5a1-c26cfe862af1@194.60.231.31:29879?security=&type=
 vless://0f8572d9-52b2-4bf5-82cf-7b418b375135@87.248.152.16:34750?type=tcp&security=none&path=/&host=host:nasa.gov&headerType=http#V2rayNG-Lionلوکیشن
 vless://e52b5a89-774d-45db-9539-580c45163dfb@185.155.72.123:19810?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40NETMelliAnti
 vless://7adaebfd-d641-44a1-b379-6181900c9b35@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#@summertimeus🎀
+vless://fa578054-33d1-40f4-94ef-45df1b867420@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#@summertimeus
