@@ -63,3 +63,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM0lsZ0l2Z0FrQWthQkNuMFNVQXNY@77.239.117.121:28694#@Awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#@awlix_ir
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.59:80?path=%2F&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://4de73a98-0f31-4d2c-b845-fcb7a2bbe9bb@134.209.205.173:4000?mode=auto&path=%2F&security=reality&encryption=none&pbk=WvWpvjm0ynTr6YCICH5TmTEKicAq0JNGEZDWZvApgRM&fp=chrome&spx=%2F&type=xhttp&sni=zula.ir&sid=d9ed58fe#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+trojan://vpn@109.120.139.214:2025?security=&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#@V2rayngSeven
+trojan://vpn@79.137.204.130:2025?security=&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#@V2rayngSeventrojan://vpn@109.120.139.214:2025?security=&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#@V2rayngSevenهر
