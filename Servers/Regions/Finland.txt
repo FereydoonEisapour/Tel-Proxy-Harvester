@@ -55,3 +55,4 @@ vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?type=tcp&path=
 vless://759918a1-e0bf-47ad-80fb-3b331f83a59b@37.27.212.52:8880?mode=gun&security=none&encryption=none&authority=%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=%40cephalon_ai_bot#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k@77.91.103.73:443#%F0%9F%87%AB%F0%9F%87%AE73%40shadowsockskeys@shadowsockskeys
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.45.73:8880?mode=gun&security=none&encryption=none&authority=%2Fxx&type=grpc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9D%A4%EF%B8%8F

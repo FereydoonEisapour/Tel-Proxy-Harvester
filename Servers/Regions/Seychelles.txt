@@ -1,3 +1,4 @@
 vless://df81e978-ef0e-4ded-bf5c-e0d8c6f02ee2@154.197.75.98:80?path=%2F&serviceName=-Telegram:-@UraniumVpn-Telegram:
 vless://8c31695b-3c0a-4ec8-a833-451cfb881a57@154.197.75.98:80?path=/?-@UraniumVpnTelegram:
 vless://1673dec3-d02f-4754-b64e-a08403974bad@154.197.75.98:80?path=/?-Telegram:-@UraniumVpnTelegram:
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.141:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#[🇺🇸]t.me/ConfigsHub
