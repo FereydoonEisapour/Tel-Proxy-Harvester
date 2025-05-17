@@ -1,0 +1,2 @@
+vless://aa77ab4d-31d3-4603-8b14-ec8363b2a615@marzban.panelmarzban.com:4040?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk&sid=#%F0%9F%85%B3%F0%9F%85%B4%E2%9E%BA%F0%9F%87%A9%F0%9F%87%AA
+vless://aa77ab4d-31d3-4603-8b14-ec8363b2a615@vip.panelmarzban.com:4044?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk&sid=#%F0%9F%85%BD%F0%9F%85%BB%E2%9E%BA%F0%9F%87%B3%F0%9F%87%B1
