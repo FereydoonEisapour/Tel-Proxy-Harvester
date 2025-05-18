@@ -1,0 +1,2 @@
+vless://join:V2rayNGFreee@79.137.199.173:57847?security=none&encryption=none&headerType=none&type=tcp#@BetV2ray+%28611119%29+Mci+%F0%9F%87%A9%F0%9F%87%AA
+vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.188.202.201:8880?security=none&encryption=none&headerType=none&type=tcp#@BetV2ray+%28611120%29+Irancell+%F0%9F%87%A9%F0%9F%87%AA💎

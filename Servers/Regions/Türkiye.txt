@@ -13,3 +13,4 @@ ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005#@awlix_irss://YWV
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com#[🇹🇷]t.me/ConfigsHubϟ
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@45.89.52.66:9088#%F0%9F%87%B9%F0%9F%87%B7%20TR%205🤯
 vless://e2286c5e-d910-405f-9bcb-b0e81188ad53@213.142.133.143:443?security=reality&encryption=none&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=67dcdbd6ed95f729#%40MARAMBASHI%20%E2%AD%90%EF%B8%8F%D9%88%D8%B5%D9%84%20%D9%85%DB%8C%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%F0%9F%92%9C
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#%F0%9F%87%B9%F0%9F%87%B7%20TR-185.123.101.241%3A989
