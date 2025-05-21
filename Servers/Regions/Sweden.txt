@@ -190,3 +190,5 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-239@185.146.173.39:8880?path=%2F&servi
 vless://Parsashonam-239@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
 trojan://telegram-id-v2rayvpnchannel@16.16.8.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-v2rayvpnchannel@13.49.13.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEb0hTdDJsb1dscU80dHJFQlBtSTRn@217.211.72.49:55551#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRmt3TzRnMmMzUFc3QlZOZ3Z6b3ZM@62.60.231.81:59945#%F0%9F%87%B8%F0%9F%87%AA1%40shadowsockskeys@shadowsockskeys

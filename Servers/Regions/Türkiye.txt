@@ -17,3 +17,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#%F0%9F%87%B9%F0%
 vless://1799b29e-d587-4ad7-b58e-5ef51c158173@79.110.51.52:55555?security=reality&encryption=none&pbk=1zxVP27bDf_TlHFEbBne26fdhCFPftpB9zt7-nCd8HQ&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=867599a1433d8a1e#%40NETMelliAnti
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:63.89ms
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@45.89.52.66:9001#%F0%9F%92%9C%20%40
+vless://07d35860-e67d-455e-9d65-0bd712075be0@95.164.116.35:443?security=tls&sni=95.164.116.35&type=ws&host=95.164.116.35&path=%2Fws&fp=chrome#[🇹🇷]t.me/ConfigsHub
