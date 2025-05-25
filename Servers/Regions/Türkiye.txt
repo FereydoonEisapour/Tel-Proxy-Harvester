@@ -20,3 +20,4 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@45.89.52.66:9001#%F0%9F%92%9C%20%40
 vless://07d35860-e67d-455e-9d65-0bd712075be0@95.164.116.35:443?security=tls&sni=95.164.116.35&type=ws&host=95.164.116.35&path=%2Fws&fp=chrome#[🇹🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@45.89.52.66:9041#%F0%9F%87%B9%F0%9F%87%B7%20TR%201🤯
 vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?security=none&encryption=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4111?security=reality&encryption=none&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=serverdlt1.goodshoes.ir&sid=cc30318af8ce0970#[🇹🇷]t.me/ConfigsHub
