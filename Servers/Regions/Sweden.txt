@@ -212,3 +212,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aWhBZ1Z4Wk8xMnU%3D@81.177.215.84:443#@meli_
 vless://Parsashonam-246@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNHEzZ3llTnVUY3lKYTBnc1Uxb0RL@62.60.231.81:59945#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM3VQUk5yM3NRM2lzZlJBdGt6TVJF@62.60.231.81:59945#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
+vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?type=tcp&security=none#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aWhBZ1Z4Wk8xMnU=@81.177.215.84:443?type=tcp#Kurdistan_Vpnکپی
+vless://Parsashonam-247@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@meli_proxyyvless://Parsashonam-247@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@meli_proxyy
