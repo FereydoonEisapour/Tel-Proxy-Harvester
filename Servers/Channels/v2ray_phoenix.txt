@@ -1,0 +1,1 @@
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=%2Fed%3F%2FooAjjjjjAAdyujh7%3D8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#%40v2ray_Phoenix%20mciPHOENIX

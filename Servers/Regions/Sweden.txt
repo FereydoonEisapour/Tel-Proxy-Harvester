@@ -218,3 +218,4 @@ vless://Parsashonam-247@185.146.173.39:8880?path=%2F&security=none&encryption=no
 vless://905b744f-d213-4cd3-9306-53f0ea86b2c4@91.92.40.78:2070?type=tcp&security=none#%F0%9D%91%A9%F0%9D%92%90%F0%9D%92%8D%F0%9D%91%A9%F0%9D%92%90%F0%9D%92%8D%F0%9D%91%BD%F0%9D%91%B7%F0%9D%91%B570
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQjJhYTJONnRWdkN4djMzcHA4RFNL@62.60.231.81:59945#%F0%9F%87%B8%F0%9F%87%AA%20%40vlees_v2rayng%20%282%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTVMzUnN6RGdqc0tNWkg5SEEzQllj@62.60.231.81:59945#%F0%9F%87%B8%F0%9F%87%AA%20%40vlees_v2rayng%20%281%29```
+vless://Parsashonam-248@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@meli_proxyyvless://Parsashonam-248@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@meli_proxyy
