@@ -161,3 +161,4 @@ vless://ab126a40-24fa-4a51-a505-00cfb67ada28@185.79.158.154:8087?security=none&e
 vless://64b48f35-d81e-4227-8075-6337e6ef0b85@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=http%2F1.1&encryption=none&host=s1.api.ir-sub.fun&type=ws&sni=jmu.ac.ir#@meli_proxyyبا
 vless://71eaf343-1b47-44d0-a725-5dd4c00ee6ba@185.79.158.154:8087?…
 vless://88d201d0-7fdb-4746-baaf-c5f782431c06@188.121.100.12:80?path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&security=none&encryption=none&type=ws#vip_gift_%40V2Graphy
+vless://2a24c8e0-aff5-4fa7-9d63-e80715c0c410@185.79.158.154:8087?security=none&encryption=none&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
