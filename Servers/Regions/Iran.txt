@@ -162,3 +162,6 @@ vless://64b48f35-d81e-4227-8075-6337e6ef0b85@185.143.233.120:443?path=%2Ftelegra
 vless://71eaf343-1b47-44d0-a725-5dd4c00ee6ba@185.79.158.154:8087?…
 vless://88d201d0-7fdb-4746-baaf-c5f782431c06@188.121.100.12:80?path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&security=none&encryption=none&type=ws#vip_gift_%40V2Graphy
 vless://2a24c8e0-aff5-4fa7-9d63-e80715c0c410@185.79.158.154:8087?security=none&encryption=none&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+vless://e7d76505-d0bf-4c81-b8e7-c7a784ce7a78@212.80.10.34:5253?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://telegram-mitivpn@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=s2.app.ir-sub.fun&fp=chrome&type=ws&sni=abu.ac.ir#@meli_proxyy
+vless://3083c79b-9221-4a47-8e32-354d9fffe3ab@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.dev.ir-sub.fun&fp=chrome&type=ws&sni=abu.ac.ir#@meli_proxyyفرینت
