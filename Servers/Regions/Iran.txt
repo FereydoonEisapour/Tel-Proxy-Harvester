@@ -165,3 +165,4 @@ vless://2a24c8e0-aff5-4fa7-9d63-e80715c0c410@185.79.158.154:8087?security=none&e
 vless://e7d76505-d0bf-4c81-b8e7-c7a784ce7a78@212.80.10.34:5253?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://telegram-mitivpn@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=s2.app.ir-sub.fun&fp=chrome&type=ws&sni=abu.ac.ir#@meli_proxyy
 vless://3083c79b-9221-4a47-8e32-354d9fffe3ab@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.dev.ir-sub.fun&fp=chrome&type=ws&sni=abu.ac.ir#@meli_proxyyفرینت
+vless://5612c4fc-4f22-4956-a38c-44ebf5c5481c@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#@summertimeus
