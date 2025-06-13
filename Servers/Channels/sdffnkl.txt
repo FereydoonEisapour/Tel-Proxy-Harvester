@@ -1,0 +1,8 @@
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@218.232.76.185:443?allowInsecure=1&host=hezijiasuqi.com#韩国2
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@47.242.225.242:443?allowInsecure=1&host=hezijiasuqi.com#香港2
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@133.242.157.140:443?allowInsecure=1&host=hezijiasuqi.com#日本3
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@153.121.37.176:443?allowInsecure=1&host=hezijiasuqi.com#日本2
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@47.86.9.253:443?allowInsecure=1&host=hezijiasuqi.com#香港3
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@8.210.125.207:443?allowInsecure=1&host=hezijiasuqi.com#香港1trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@61.216.76.114:443?allowInsecure=1&host=hezijiasuqi.com#台湾1
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@47.83.121.99:443?allowInsecure=1&host=hezijiasuqi.com#香港4
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@27.102.118.145:443?allowInsecure=1&host=hezijiasuqi.com#韩国1

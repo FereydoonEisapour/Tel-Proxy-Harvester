@@ -1,2 +1,3 @@
+vless://73401b47-352a-455e-a442-88e5f988af0c@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-z4ye7m0i🛠️
 vless://6a1f1732-f12e-478f-a105-1d5fa310ad9d@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-9l4yvcfy🛠️
 vless://81d176a1-7f7a-4b04-8212-c92d684f6850@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-9l4yvcfy
