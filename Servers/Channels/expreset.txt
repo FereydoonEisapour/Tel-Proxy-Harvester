@@ -1,3 +1,4 @@
-vless://73401b47-352a-455e-a442-88e5f988af0c@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-z4ye7m0i🛠️
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%F0%9F%94%B4
 vless://6a1f1732-f12e-478f-a105-1d5fa310ad9d@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-9l4yvcfy🛠️
+vless://73401b47-352a-455e-a442-88e5f988af0c@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-z4ye7m0i🛠️
 vless://81d176a1-7f7a-4b04-8212-c92d684f6850@dash.vfast.news:4040/?type=tcp&security=none#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%40Expreset-9l4yvcfy
