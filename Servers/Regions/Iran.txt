@@ -174,3 +174,6 @@ vless://e2bc6b81-5b65-45ed-bdfb-cf5795eb92af@89.47.198.101:54933?security=none&e
 vless://5b77d2e4-c347-4f15-8082-9383d5f3ff68@185.79.158.147:8087?security=none&encryption=none&host=%2FChannel%20%3A%20%40NT_Safe&headerType=http&type=tcp#Telegram%20%3A%20%40NT_SAFE%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d3a684b5-49a9-46e0-913f-c1b38d1d79ae@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#@summertimeus🎀
 vless://7dc6ccde-c471-420e-d83b-e83c289b5bd8@85.9.100.233:19120?security=none&encryption=none&headerType=none&type=tcp#%40v2raying
+vless://1147bc83-5ef3-418a-b31b-ccbb1c0c7099@193.24.120.84:2040?path=%2F&security=none&encryption=none&type=ws#hormozvpn
+vless://c8309f20-7d62-40f6-a82e-a162aa86b2e5@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#@summertimeus🎀
+vless://e2a2ac00-66ff-46b8-8fe4-063e1fb49192@92.242.220.59:2096?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran

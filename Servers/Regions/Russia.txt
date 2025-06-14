@@ -86,3 +86,4 @@ ss://YWVzLTI1Ni1nY206YWU2Mjc5MjAxNjhjMWNjZQ%3D%3D@185.22.154.123:50126#%40V2ry_P
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@94.103.183.229:2053?path=%2FTG%40ShadowProxy66%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=jj.wxgqlfx.cn&fp=random&type=ws&sni=jj.wxgqlfx.cn#[🇷🇺]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA%3D%3D@176.32.35.68:2029#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_irمخصوص
 ss://YWVzLTI1Ni1nY206YjU1YzdlODRhZmRkNTJjYg%3D%3D@185.22.153.67:2026#%40nofilter_v2rayNg
+vless://f5476642-ce98-45af-b227-273dcfd4f96a@178.20.41.219:2083?type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&authority=&security=reality&pbk=BUzfBVmWNSPk69ZlNgIlMvjB_KctXOhYaLx_bBlf70U&fp=firefox&sni=speedtest.net&sid=3b35fd9cd4d47fe6&spx=%2F#KINGVPN👑🇷🇺Tel:@VPN_KING_V2RAY

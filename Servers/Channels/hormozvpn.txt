@@ -1,1 +1,3 @@
+vless://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?encryption=none&security=none&type=ws&path=%2F#%40Hormozvpnکانفیگ
+vless://1147bc83-5ef3-418a-b31b-ccbb1c0c7099@193.24.120.84:2040?path=%2F&security=none&encryption=none&type=ws#hormozvpn
 vless://e381d107-3551-45b6-9597-8d9506be9b8c@45.144.48.237:55325?security=reality&encryption=none&pbk=WrK40aQhFIbyutL_J415GVRHhOdaG_oyrGm_DCp8FW0&fp=chrome&spx=%2F&type=grpc&serviceName=%40hormoz%40hormoz%40hormoz%40hormoz%40hormoz%40hormoz%40hormoz&sni=refersion.com&sid=13a5600f7e#%40hormozvpn-%D9%86%D9%88%D8%B1%D9%88%D8%B2%D8%AA%D8%A7%D9%86%20%D9%BE%DB%8C%D8%B1%D9%88%D8%B2جهت

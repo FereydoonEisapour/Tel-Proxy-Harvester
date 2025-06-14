@@ -23,3 +23,4 @@ trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@47.86.9.253:443?allowInsecure=1&host=h
 trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@47.83.121.99:443?allowInsecure=1&host=hezijiasuqi.com#香港4
 trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@8.210.125.207:443?allowInsecure=1&host=hezijiasuqi.com#香港1trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@61.216.76.114:443?allowInsecure=1&host=hezijiasuqi.com#台湾1
 trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@47.242.225.242:443?allowInsecure=1&host=hezijiasuqi.com#香港2
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.12.22:2029#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
