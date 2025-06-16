@@ -1,8 +1,3 @@
-trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/vmess_iran
-trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S916)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIV3VrbHhoOXNTSlNxbGRRakxUSnF6@52.169.46.44:37565#capi.hosin
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZnBobExiSHNjZ1drNk0yUnRYaGU3@52.169.47.46:47411#mess.hosin
-trojan://telegram-id-directvpn@34.252.209.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our
 trojan://telegram-id-privatevpns@52.211.21.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S130)🇨🇮https://t.me/vpn_v2ray_v2
 trojan://telegram-id-directvpn@54.73.47.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our
 trojan://telegram-id-directvpn@99.81.253.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Ourhttps://t.me/vpn_v2ray_v2

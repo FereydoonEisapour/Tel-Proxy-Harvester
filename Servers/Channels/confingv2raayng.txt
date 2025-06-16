@@ -1,1 +1,2 @@
+vless://%54E%4cE%47%52%41%4d-%4e%55Fi%4c%54E%52@89.34.230.177:47728?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ConfingV2RaayNG
 vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001?security=reality&encryption=none&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&headerType=none&fp=chrome&spx=%2F%45Li%562ray--%45Li%562ray--%45Li%562ray--%45Li%562ray--%45Li%562ray&type=tcp&sni=fr.zran.top#@ConfingV2RaayNG
