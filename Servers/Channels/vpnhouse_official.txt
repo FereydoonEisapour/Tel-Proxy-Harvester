@@ -1,1 +1,2 @@
+vless://5e323e77-048d-401b-a6cb-d84ccb7489a5@kinsta.sic.al:8080?type=tcp&path=%2F&host=exo.ir&headerType=http&security=none#kinsta_service-kinsta_service
 vless://879f1d7e-e845-48d9-9681-4f03c8a9f015@kinsta.sic.al:8080?type=tcp&path=%2F&host=exo.ir&headerType=http&security=none#uj5nwkc1به
