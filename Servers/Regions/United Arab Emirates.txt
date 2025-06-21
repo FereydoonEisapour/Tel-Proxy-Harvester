@@ -44,3 +44,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWM0NDZiNzc1OTMxZDI4@151.240.110.215:11254#%40speeds_vpn1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YWI0ZjIxOTc4N2Q2NzJi@151.240.110.213:11248#T.me%2FVpn_Mafia
 vless://3f9f6a5e-4415-419b-9dfb-02ddea5670b9@151.242.43.179:41271?security=reality&encryption=none&pbk=UZ16l6SNFU-DhKMLbnjLSb01z0aV1FOQDIRIqK0dqGA&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=filimo.com&sid=54963fa4b8d62214#@Capoit@Capoit
+vless://7c598d05-6b60-4ba4-b326-52cca83adc95@217.60.240.208:2092?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram⚠️
