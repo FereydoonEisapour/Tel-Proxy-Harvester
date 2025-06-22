@@ -1,10 +1,11 @@
-vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40xiv2ray%0A%40v2ray_83همه
-vless://979934c7-0baa-4fa2-96ce-81722b541ddc@vip1.digitalldns.net:6587?security=none&encryption=none&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83نکته
+vless://427f61ed-4a25-46f2-a64f-c8afcbfc8968@ir-hm5.whaletm2.site:4926?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40xiv2ray%40v2ray_83@xiv2ray
 vless://d569b044-0dbb-496a-8d28-a3f14a003e73@sami.snapx.sbs:52914?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83🚀
-vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#%40xiv2ray%20%40v2ray_83
-vless://a18082b0-b3a5-41cd-a566-0adfaa6d1270@45.142.189.23:9090?security=none&encryption=none&headerType=none&type=tcp#%40xiv2aryهمه
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40v2ray_83همه
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40v2ray_83%20-%20%20%F0%9F%87%A6%F0%9F%87%AA_xiv2ray
+vless://a18082b0-b3a5-41cd-a566-0adfaa6d1270@45.142.189.23:9090?security=none&encryption=none&headerType=none&type=tcp#%40xiv2aryهمه
+vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40xiv2ray%0A%40v2ray_83همه
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83
+vless://979934c7-0baa-4fa2-96ce-81722b541ddc@vip1.digitalldns.net:6587?security=none&encryption=none&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83نکته
+vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#%40xiv2ray%20%40v2ray_83
 vless://d336f16e-ed78-4864-9b49-33c590bcea26@meow.streamcallfile.ir:8443?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20MaGSiN%20%F0%9F%87%AE%F0%9F%87%B7
 vless://b55d615a-104d-48bb-acd6-fe2a4666745a@ebook.streamingpower.sbs:7042?security=reality&encryption=none&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=5668ea398f7657ef#%40v2ray_83همه
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40v2ray_83همه

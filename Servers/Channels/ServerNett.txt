@@ -1,4 +1,5 @@
-vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
+ss://YWVzLTI1Ni1nY206TXpnMVlUQTNZelV5WldVM05tWTROMkU0TkdReFpUY3pPVEZtWXpnMw%3D%3D@thr.npvnot.com:11110#%40ServerNettایرانسل
 vless://ServerNett@62.60.221.201:43496?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett-ServerNett-Channelسرور
-vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
+vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
