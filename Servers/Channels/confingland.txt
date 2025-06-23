@@ -1,1 +1,2 @@
+vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=none&encryption=none&headerType=http&type=tcp#%40ConfigLand
 vless://597b7379-9d02-67fa-7062-26b734d98f09@testh.shirinifandogh.ir:235?security=none&encryption=none&host=ehbo.divarcdn.com&headerType=http&type=tcp&sni=ehbo.divarcdn.com#%40ConfigLand

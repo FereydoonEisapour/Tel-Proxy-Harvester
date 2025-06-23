@@ -1,7 +1,8 @@
-vless://979934c7-0baa-4fa2-96ce-81722b541ddc@vip1.digitalldns.net:6587?security=none&encryption=none&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83نکته
-vless://d569b044-0dbb-496a-8d28-a3f14a003e73@sami.snapx.sbs:52914?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83همه
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#%40xiv2ray%20%40v2ray_83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40v2ray_83%20-%20%20%F0%9F%87%A6%F0%9F%87%AA_xiv2ray
-vless://b55d615a-104d-48bb-acd6-fe2a4666745a@ebook.streamingpower.sbs:7042?security=reality&encryption=none&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=5668ea398f7657ef#%40v2ray_83همه
+vless://db0c7d99-3760-4fcd-84b9-da6ac844e18c@Speedtest.net:80?mode=auto&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbede_vmessorg.ir&type=xhttp#%40xiv2ray%20%40v2ray_83@xiv2ray
 vless://d336f16e-ed78-4864-9b49-33c590bcea26@meow.streamcallfile.ir:8443?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20MaGSiN%20%F0%9F%87%AE%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40v2ray_83همه
+vless://b55d615a-104d-48bb-acd6-fe2a4666745a@ebook.streamingpower.sbs:7042?security=reality&encryption=none&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=5668ea398f7657ef#%40v2ray_83همه
+vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#%40xiv2ray%20%40v2ray_83
+vless://d569b044-0dbb-496a-8d28-a3f14a003e73@sami.snapx.sbs:52914?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83همه
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40v2ray_83%20-%20%20%F0%9F%87%A6%F0%9F%87%AA_xiv2ray
+vless://979934c7-0baa-4fa2-96ce-81722b541ddc@vip1.digitalldns.net:6587?security=none&encryption=none&headerType=http&type=tcp#%40xiv2ray%20%40v2ray_83نکته

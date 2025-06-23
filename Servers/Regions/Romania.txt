@@ -1,6 +1,3 @@
-vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%40FATI_FFX+50+GB%F0%9F%98%88
-vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%40FATI_FFX+50+GB%F0%9F%98%B7
-vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.119.01:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#%40FATI_FFX+50+GB%F0%9F%98%90
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?path=%2FfJBvsL0uR2MtzRig&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&type=ws&sni=mypHOtoGRAPICpIctUre.iR#%40NETMelliAnti
 vless://e3ed372d-dd6a-4f11-9aeb-b53fd0478577@45.12.30.16:80?path=%2Fbackup&security=none&encryption=none&host=rZ0nao.Dl-vScODE.COm&type=ws#server_nekobox✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SUFnZTA2UG1QdW81T0pHRDE3c2Rn@203.25.108.78:44591#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry

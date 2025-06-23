@@ -1,4 +1,3 @@
-vless://b0f68b4d-1062-4560-96ea-042b03d9a44f@78.135.80.142:657?mode=gun&security=reality&encryption=none&pbk=4V9rR_oU_XHHMv4r_J7KjUazB99W6FEIKUJdXersxXI&fp=chrome&type=grpc&serviceName=Telegram:@vpn_xw-Telegram:@vpn_xw-Telegram:@vpn_xw-Telegram:@vpn_xw-Telegram:@vpn_xw-Telegram:@vpn_xw-Telegram:@vpn_xw-Telegram:@vpn_xw&sni=game-center.ir#%F0%9F%87%B9%F0%9F%87%B7+Turkey+%28%E2%9A%A1-Grpc%29
 vless://850c022d-96c9-44a0-b941-40f47de1907a@194.146.26.184:443?security=reality&encryption=none&alpn=http/1.1&pbk=tubQ9E4StkIz0rMeYujtNQDTjuYfy9imxtOcwxbS3hs&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=4027e5#@TEHRON98vless://10221e99-bb18-4d22-87ea-daa48470d098@104.18.203.232:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fr2.vlessx.xyz&type=ws#@TEHRON98
 vless://ab03c163-c098-44ce-8e68-ed1578c82035@216.9.224.31:1181?security=none&encryption=none&headerType=none&type=tcp#%40telmavpn✅vless://ab03c163-c098-44ce-8e68-ed1578c82035@103.167.234.248:1182?security=none&encryption=none&headerType=none&type=tcp#%40telmavpn❌زمان
 vless://09874b38-975f-11ee-8b6c-06263e24424e@185.242.161.214:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#tr4+%F0%9F%87%B9%F0%9F%87%B7+7day+%E2%88%9EGB+%40v2modدریافت
@@ -31,3 +30,4 @@ vless://3678da03-f4f3-4445-a665-1959b80bc8d5@213.142.133.80:2053?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#%F0%9F%87%B9%F0%9F%87%B712%40shadowsockskeys@shadowsockskeys
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@45.89.52.66:9020#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?security=reality&encryption=none&pbk=dXwonwg9IAAXTVdh8-vhzgP1u6yhJOjVlWrx1fWOzFU&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apps.apple.com&sid=77#%F0%9F%87%B9%F0%9F%87%B7%20%40DailyTek
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@45.89.52.66:9079

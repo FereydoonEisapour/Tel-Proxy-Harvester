@@ -21,3 +21,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.215.213:8880/?type=ws&encrypt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMzM0N2VmZDVlZGNmYjA2@51.222.204.64:10597#Channel%20id%3A%20%40ShadowProxy66
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@178.128.239.112:23492?security=tls&sni=dir21.amosrellyek.ir&type=ws&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.200.162:989
+vless://65aba5d9-bf3d-4ee3-cdbc-d3854d580263@99.199.73.53:23877?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#IR-%40V2ray_Alpha-51
