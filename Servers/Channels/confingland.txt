@@ -1,2 +1,4 @@
-vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=none&encryption=none&headerType=http&type=tcp#%40ConfigLand
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#Channel
+vless://6cde4a90-dbd4-41d2-914f-1a86daab0212@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#Channel
 vless://597b7379-9d02-67fa-7062-26b734d98f09@testh.shirinifandogh.ir:235?security=none&encryption=none&host=ehbo.divarcdn.com&headerType=http&type=tcp&sni=ehbo.divarcdn.com#%40ConfigLand
+vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=none&encryption=none&headerType=http&type=tcp#%40ConfigLand

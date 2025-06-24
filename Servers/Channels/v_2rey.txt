@@ -1,0 +1,2 @@
+vless://083d536e-6f43-4c84-8577-7f34d746bd10@vip.zoohall.ir:20255?type=tcp&headerType=http&host=speedtest.net&security=none#@v_2rey📊Ping:295ms⚡️🌍Server:🇨🇦⚠️
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@85.210.120.237:443?type=raw&security=none#@V_2reyTelegram📊Ping:295ms⚡️🌍Server:🇨🇦⚠️

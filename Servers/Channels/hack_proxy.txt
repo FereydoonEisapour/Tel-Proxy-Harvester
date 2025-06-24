@@ -1,5 +1,7 @@
-vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#net
+vless://833dea48-f3a4-4409-e61b-e1342ea4011c@45.63.117.125:23966?path=%2F&security=none&encryption=none&type=ws
+vless://b3bc00c6-d65b-4286-adc9-02134b37ae8d@dns8.mehrancloud.ir:34982?security=&encryption=none&host=fast.com&headerType=http&type=tcp
 vless://d0c3273b-3e75-4644-922a-e106ad0cfe7d@151.101.3.8:80?mode=auto&path=%2Fv2rayfree1vpn&security=none&encryption=none&host=v2rayfree1vpnTL.global.ssl.fastly.net&type=xhttp#%40hack_proxy
-vmess://eyJhZGQiOiJtay5zbTE2MTIuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjU5YTg3MTYtMjQ1Ni00MTBjLWI3YjYtZjM3MmJkYTg3ZmFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDE1IiwicHMiOiJAaGFja19wcm94eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206WlRGa04yWTFZVEExWVdVeE16UXdNbVE1WkdSallXTmxaVE5oWm1JeQ%3D%3D@thr.npvnot.com:10109
 vless://1364334f-7361-4ebc-86a1-ac06e918631f@ir4.bestirspeed.top:2095?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcpvless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=%2F&security=none&encryption=none&type=wsvless://9a1f21c7-85ba-4b9c-9f17-b7466022f7ee@195.158.230.124:35746?security=none&encryption=none&host=fast.com%2C%20cloudflare.com&headerType=http&type=tcp
+vmess://eyJhZGQiOiJtay5zbTE2MTIuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjU5YTg3MTYtMjQ1Ni00MTBjLWI3YjYtZjM3MmJkYTg3ZmFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDE1IiwicHMiOiJAaGFja19wcm94eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#net

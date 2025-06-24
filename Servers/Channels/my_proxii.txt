@@ -1,0 +1,1 @@
+vless://%40%40BeFreeWithUs@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#https%3A%2F%2Ft.me%2Fmy_proxii
