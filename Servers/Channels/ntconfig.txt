@@ -1,0 +1,2 @@
+vless://d4a155e2-9e4b-4173-89e1-2062b89431ae@upload.nobifay.ir:80?path=%2F&security=none&encryption=none&host=a1a1a1a1wsew.com&type=ws#NTConfigپینگ
+vless://862873ea-4ea7-4207-b8d3-8f3c440f0afc@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#%40NTConfig

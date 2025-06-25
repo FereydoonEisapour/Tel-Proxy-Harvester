@@ -1,0 +1,3 @@
+vless://47ba2669-40fb-46ef-897e-9d45485603d2@62.60.193.19:46205?type=tcp&headerType=http&path=/?ed%3D1024&security=none#(@mimitdl)%20%E2%AD%95
+vless://85dc272d-44a5-435a-8bd0-d351081b8347@62.60.193.19:46205?type=tcp&headerType=http&host=namnak.com&path=/?ed%3D1024&security=none#mimitdl%20%E2%AD%95
+vless://c4f3d815-8ab9-4944-8b08-4da44842f3ed@62.60.193.19:46205?type=tcp&headerType=http&host=namnak.com&path=/?ed%3D1024&security=none#MimiTdl%20%E2%AD%95کانفیگ

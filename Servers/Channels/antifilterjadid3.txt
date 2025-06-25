@@ -1,0 +1,1 @@
+vless://freewireguard-telegram-channel@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=nushdaru.sohrab.com&path=%2F&mode=auto#sohrabهدف،

@@ -1,0 +1,2 @@
+vless://4fb7589c-0eeb-4866-8a0d-3fdb49cab61e@TinyVpn-cdn1.unlimiteddev.co:8080?type=ws&path=%2F&host=&security=none#TinyVpn-tiny-100-Link1
+vless://4fb7589c-0eeb-4866-8a0d-3fdb49cab61e@TinyVpn-cdn2.unlimiteddev.co:8080?type=ws&path=%2F&host=&security=none#TinyVpn-tiny-100-Link2

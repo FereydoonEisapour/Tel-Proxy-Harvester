@@ -1,0 +1,2 @@
+vless://e93f923b-92b1-4009-aaeb-3691001347bd@104.17.147.22:80?mode=auto&path=%2F%40Mr_Amirr_00%2F%3Fed%3D443&security=&encryption=none&host=de.tunnel.irangroupz.ir&type=xhttp#Cloudflare-Number%201
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=Q03l9EiQiA.9pEsC.cOm&type=ws&host=Q03l9EiQiA.9pEsC.cOm&path=/&alpn=h2%2Chttp%2F1.1&fp=chrome#new

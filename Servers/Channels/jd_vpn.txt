@@ -1,0 +1,1 @@
+vless://f93502f9-ae6b-4871-9507-58eedf1e0ea5@www.speedtest.net:80?type=xhttp&mode=auto&host=api.shakhle.ir&path=/?ed%3D2048&security=none#Shatel

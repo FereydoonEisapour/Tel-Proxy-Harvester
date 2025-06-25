@@ -1,0 +1,7 @@
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=firefox&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#[🏁]v2ray_cartel
+vless://1b2f4ba7-dc5f-493a-87c1-3cff25649a3f@91.99.164.57:26870?encryption=none&security=reality&sni=www.varzesh3.com&fp=firefox&pbk=W2-RPfpsKs3XdWbfc0Du03P2fVURK1B-uI1fuCKMq0g&sid=cbf2bf3a&spx=%2F&type=grpc&authority=&serviceName=%40sohrab&mode=multi#%v2ray_cartel
+vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.org&type=ws#[🇺🇸]t.me/v2ray_cartel
+vless://b781545c-a6a8-4ca7-aa16-4960beff53df@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=b-sub.com&type=xhttp#v2ray_cartel
+trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#[🇮🇷]v2ray_cartel
+trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]v2ray_cartel
+vless://5c91dbf9-56fa-4dde-ae28-0792a69409e0@cloud.wiromusic.ir:80?mode=packet-up&path=%2FXhTtP&security=none&encryption=none&host=buffalu.global.ssl.fastly.net&type=xhttp#[🇺🇸]v2ray_cartel

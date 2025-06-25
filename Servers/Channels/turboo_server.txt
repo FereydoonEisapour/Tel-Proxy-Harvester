@@ -1,0 +1,8 @@
+vless://5e666be4-b14b-4466-a461-fa8c81e15009@151.101.3.8:80?type=ws&host=ocean.ir&path=/download&security=none#Turboo_server%F0%9F%87%B9%F0%9F%87%B7
+vless://42c32856-6f1a-46cb-9e87-6d5264fe32c8@speedtest.net:80?type=ws&host=kardorost.com&path=/download&security=none#Turboo_server%F0%9F%87%AC%F0%9F%87%A7
+vless://e1998859-e26d-4a83-84df-d4bf0737be25@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxC…
+vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?type=ws&host=speedtest.net.km&path=/ed%3D2560#Turboo_server1%F0%9F%87%A9%F0%9F%87%AA(برای
+vless://49abbd48-f69f-446c-9cc4-7bb3ba940b6f@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=turboo-server-just2.co.ir&type=xhttp#Turboo_server(برای
+vless://c63bc3cf-04d2-4988-a1e5-7dc3f72f43f4@speedtest.net:80?type=ws&host=Nazan.com&path=/download&security=none#Turboo_server3%F0%9F%87%A9%F0%9F%87%AA
+vless://42c32856-6f1a-46cb-9e87-6d5264fe32c8@151.101.3.8:80?type=ws&host=qaminist.com&path=/download&security=none#Turboo_server%F0%9F%87%B8%F0%9F%87%AA(برای
+vless://511efd2f-3947-4f54-b06e-942bf132c864@speedtest.net:80?type=ws&host=Nazan.com&path=/download&security=none#Turboo_server2%F0%9F%87%A9%F0%9F%87%AA(برای
