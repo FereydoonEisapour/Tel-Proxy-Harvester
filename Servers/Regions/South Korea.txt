@@ -37,3 +37,5 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@152.67.203.34:443?path=%2Ftiger&sec
 trojan://Aimer@210.222.30.180:17100?path=%2F&security=tls&host=agepq.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agepq.ambercc.filegear-sg.me#%40DailyTek
 trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South
+trojan://Aimer@118.35.88.114:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegramss://YWVzLTI1Ni1nY206QkZZQ09LSFRDOEhJV1dSQg==@ti3hyra4.slashdevslashnetslashtun.net:16006#@Hope_Netvless://baccaab-caab-baac-cabd-baacccabbcab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegramtrojan://Aimer@162.159.44.199:443?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&path=/&host=agepy.ambercc.filegear-sg.mehttp/1.1#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI@141.164.63.32:30936#%F0%9F%87%B0%F0%9F%87%B732%40shadowsockskeys

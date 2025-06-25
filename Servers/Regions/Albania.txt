@@ -1,2 +1,1 @@
-vless://3175c0e6-2d00-4560-d90e-1a5a4810c4c0@45.38.139.104:45134?security=reality&encryption=none&pbk=0exSjluSEfNvR4S1TYT7PIBHhLQS6ypHZXM25xtJa04&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=microsoft.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%F0%9F%AB%B6%20%40nofilter_v2rayNg
 vless://ab03c163-c098-44ce-8e68-ed1578c82035@103.167.234.248:1182?security=none&encryption=none&headerType=none&type=tcp#%40telmavpn

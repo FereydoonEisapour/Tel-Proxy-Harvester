@@ -1,0 +1,1 @@
+vless://freewireguard-marg-bar-zahak@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=terror.zahak.ir&path=%2F&mode=auto#marg-bar-zahak
