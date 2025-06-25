@@ -1,1 +1,0 @@
-vless://20c7a6d8-b40e-4b4d-beb7-2bcff72e8dfc@45.131.208.1:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&type=grpc&serviceName=16QKpBwSlcXX7EG6HC2GJ&sni=wan2b.vmessprotocol.sbs#Janusvpn%28%D8%AC%D9%88%DB%8C%D9%86-%D8%A8%D8%AF%DB%8C%D8%AF%29#کانفیگ_رایگان

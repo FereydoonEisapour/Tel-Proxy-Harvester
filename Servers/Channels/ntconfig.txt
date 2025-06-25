@@ -1,6 +1,0 @@
-vless://d4a155e2-9e4b-4173-89e1-2062b89431ae@upload.nobifay.ir:80?path=%2F&security=none&encryption=none&host=a1a1a1a1wsew.com&type=ws#NTConfigپینگ
-vless://862873ea-4ea7-4207-b8d3-8f3c440f0afc@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#%40NTConfig
-vless://0ccef315-6887-4a51-a61c-40e19384369f@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp#NTConfig
-vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp#NTConfig
-vless://Parsashonam-263@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp#NTConfig
-vless://92a02e30-73df-43ca-b6e6-c8aac4fc86a7@fr1vip.vnetplus.click:19100?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#NTConfig

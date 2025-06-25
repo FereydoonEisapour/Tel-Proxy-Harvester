@@ -1,4 +1,0 @@
-vless://e2bc6b81-5b65-45ed-bdfb-cf5795eb92af@89.47.198.101:54933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA1
-vless://8c816134-0ddb-42c3-a5b7-2a7b54eec6cb@5.202.15.163:8086?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA%20%D8%B3%D9%87
-vless://24839ae9-a178-4cc9-a9fd-1d6fd5f11451@de1.karalin.ir:2087?security=reality&encryption=none&pbk=ITUWRXORvpTgkY4p8L-fFFZyY_WJCe_59AGDpV6vMns&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=266564#%D9%85%D9%88%D9%82%D8%AA2
-vless://47827684-1811-4837-b1d9-ba4efc1f6c4f@37.152.181.176:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40lepingshop+-+250GB+-+Germany%F0%9F%87%A9%F0%9F%87%AA❌زمان

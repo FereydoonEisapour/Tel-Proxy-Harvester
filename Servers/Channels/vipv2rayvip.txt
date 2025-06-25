@@ -1,9 +1,0 @@
-vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IkB2aXB2MnJheXZpcEB2aXB2MnJheXZpcCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://ce49dfad-6d54-47df-a7dd-31b6daa3db3f@176.120.17.100:48304?security=none&encryption=none&headerType=none&type=tcp#%D9%85%D9%88%D9%82%D8%AA
-vless://ba416ad0-96ec-4f10-8a24-a4278ae5c5b6@49.13.58.6:59286?security=none&encryption=none&headerType=none&type=tcp#movaghat
-vless://e362a7d3-0018-4910-a885-ea27a79d00c3@188.34.185.192:18013?security=none&encryption=none&headerType=none&type=tcp#%D9%85%D9%88%D9%82%D8%AA%20%DB%B2
-vless://0d1cb2a3-81bd-48b0-a1c0-7706d93a6f96@81.90.147.236:28738?type=ws&path=%2F&host=telewebion&security=none#ID%20Channel%20%3A%20%40vipv2rayvip⏰⏰⏰⏰⏰⏰⏰⏰⏰⏰⏰⏰انگشتتون
-vless://aa136e7a-7046-4df5-a0ea-6c2b07a2834f@95.179.247.124:50516?security=none&encryption=none&headerType=none&type=tcp#%D9%85%D9%88%D9%82%D8%AA%20%DB%B3
-vless://41ed1447-0623-4e86-b159-aee5a6f67a1c@157.90.236.4:29032?type=tcp&security=none#ID%20Channel%20%3A%20%40vipv2rayvip
-vless://56620ee0-6840-4e87-8515-9fbf33b83ee5@185.124.175.128:34560/?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#%D9%85%D9%88%D9%82%D8%AA%20-%20%D8%AF%D8%B1%20%D8%B5%D9%88%D8%B1%D8%AA%20%D9%82%D8%B7%D8%B9%DB%8C%20%D8%B1%D9%88%D8%B4%D9%86%20%D9%85%DB%8C%20%D8%B4%D9%88%D8%AF
-vless://id-channel-vipv2rayvip@91.107.169.91:39546?type=tcp&security=none#ID%20Channel%20%3A%20%40vipv2rayvip⏰⏰⏰⏰⏰⏰⏰⏰⏰⏰⏰⏰انگشتتون

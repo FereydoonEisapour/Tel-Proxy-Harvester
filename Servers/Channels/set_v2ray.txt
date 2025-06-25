@@ -1,1 +1,0 @@
-vless://1799abb5-defa-4a44-af01-a0cb31dee035@176.124.220.15:42918?security=&encryption=none&headerType=&type=tcp#Telegram%3A-%40set_v2ray

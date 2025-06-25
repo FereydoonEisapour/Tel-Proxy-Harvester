@@ -1,1 +1,0 @@
-vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8@goldd_v2ray
