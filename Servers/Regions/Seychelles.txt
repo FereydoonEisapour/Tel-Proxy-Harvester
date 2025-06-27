@@ -1,3 +1,5 @@
 vless://8c31695b-3c0a-4ec8-a833-451cfb881a57@154.197.75.98:80?path=/?-@UraniumVpnTelegram:
 vless://df81e978-ef0e-4ded-bf5c-e0d8c6f02ee2@154.197.75.98:80?path=%2F&serviceName=-Telegram:-@UraniumVpn-Telegram:
 vless://1673dec3-d02f-4754-b64e-a08403974bad@154.197.75.98:80?path=/?-Telegram:-@UraniumVpnTelegram:
+trojan://Aimer@154.197.64.189:2087?security=tls&headerType=none&type=tcp&sni=agepy.ambercc.filegear-sg.me#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc───────❥
+trojan://Aimer@154.197.64.98:8443?security=tls&headerType=none&type=tcp&sni=agepy.aimercc.filegear-sg.me#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc───────❥

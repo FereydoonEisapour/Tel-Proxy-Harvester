@@ -1,2 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#%40server_nekobox
+vless://8494e623-7371-4db0-9519-956d0329c23f@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekoboxری
+vless://18cb3f69-1713-415f-ac7b-f65c2a8e9fed@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
+vless://1f8c2a75-27ad-4532-a0e1-5ade6d31a2eb@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
+vless://dc62e172-d055-45f9-bc54-c7af2722fc2b@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
 vless://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=melovy.ir&type=ws#%40server_nekobox
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#%40server_nekobox

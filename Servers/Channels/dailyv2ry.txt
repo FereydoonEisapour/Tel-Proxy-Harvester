@@ -1,0 +1,1 @@
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s11.Server11Net.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s11.Server11Net.ir&fp=#telegram
