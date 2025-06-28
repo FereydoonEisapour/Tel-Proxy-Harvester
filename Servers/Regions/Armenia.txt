@@ -1,3 +1,4 @@
 vless://1af8c451-eff1-40cb-a14e-e395a4bd6018@45.83.143.71:2087?security=reality&encryption=none&pbk=-hM5NALIIJNPWrREoyKCxYkqaHyEXaPkpD9wJbdbtRs&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&sni=maps.google.com&sid=d026#Reality%20%7C%20%40ipV2Ray
 vless://f8ff8435-f201-471b-b08b-602cef6ca180@45.83.143.71:443?security=reality&encryption=none&pbk=KuXbGeSIqhg5_bFaYN1ZW7F4m4LyjLio8Yh1YEE46xM&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&sni=ftp.debian.org&sid=8a#Reality%20%7C%20%40ipV2Ray
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.162.231.186:2087?type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=/&security=tls&fp=chrome&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&alpn=h2,http/1.1#@vipoutline%F0%9F%87%B3%F0%9F%87%B1
+trojan://Aimer@188.164.159.241:2096?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#@Msv2flyNG

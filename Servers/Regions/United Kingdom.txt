@@ -81,3 +81,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.215.110:443#%40
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.97:8880?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed#👉🆔@v2ray_configs_pool📡🇬🇧®️United
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.36.55.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇬🇧®️United
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@172.166.8.137:443#AZADNET%20%E2%9D%A4%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#@NetAccountss://YWVzLTI1Ni1nY206WkRaaU9UWmpZbUUxTURsaE5qaGlabUptTW1abE0yWmlNREJtTkRSbQ==@ir.npvnot.com:10098#@NetAccount

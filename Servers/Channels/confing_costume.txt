@@ -1,0 +1,1 @@
+vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=bahbahbahvpn.ir&type=xhttp#testکانفیگ
