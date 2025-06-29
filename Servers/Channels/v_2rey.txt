@@ -1,6 +1,7 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@v_2rey
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@85.210.120.237:443?type=raw&security=none#%E2%80%A2V_2rey%E2%80%A2Telegram
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#%40v2_rey
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?type=ws&security=none&path=%2F%3Fed%3D2560&host=a1.ghormehsabzi.dpdns.org#%5B%F0%9F%9A%80%5D@v_2rey
 vless://0626f5c9-3484-4d59-b0c3-ac244d4488cb@nwarne.fast.hosting-ip.com:80?type=ws&host=Yghbshup.com&path=/de?ed%3D1048#%E2%80%A2Server-%20@v_2reyPing
-vless://95f85b0b-947b-4a5f-a3f2-68a6dfc35c3b@sudo.winapp3.ir:80?type=ws&host=su3germany1.global.ssl.fastly.net&path=/&security=none#%D9%BE%D8%AE%D8%AA%20%D9%88%20%D9%BE%D8%B2%20%F0%9F%92%8E📊Ping:295ms⚡️Server:
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@v_2rey
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@api.namasha.co:443?type=raw&security=none#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0@v_2rey%F0%9F%92%AFPing
+vless://95f85b0b-947b-4a5f-a3f2-68a6dfc35c3b@sudo.winapp3.ir:80?type=ws&host=su3germany1.global.ssl.fastly.net&path=/&security=none#%D9%BE%D8%AE%D8%AA%20%D9%88%20%D9%BE%D8%B2%20%F0%9F%92%8E📊Ping:295ms⚡️Server:
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@85.210.120.237:443?type=raw&security=none#%E2%80%A2V_2rey%E2%80%A2Telegram
