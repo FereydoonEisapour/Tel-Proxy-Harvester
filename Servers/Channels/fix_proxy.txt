@@ -1,2 +1,3 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4FreakConfig.usecharge.ir:443#%F0%9F%87%AC%F0%9F%87%A7%20Free_Netplus%20%F0%9F%87%AE%F0%9F%87%B7
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Free_NetPlus@Fix_proxy
 vless://e018bfab-0902-47a0-abfc-7efbd017ec73@netmeli.noytads.ir:80?mode=auto&path=%2Fpath%2Fv2rayng&security=none&encryption=none&host=rafaserver-betsrafaservise-albaniabestvps-opsirwork-your-name.global.ssl.fastly.net&type=xhttp#%40erfanandroid@Fix_proxy

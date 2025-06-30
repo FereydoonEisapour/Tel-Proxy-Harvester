@@ -90,3 +90,5 @@ trojan://3770966768580042752@89.39.70.165:443?security=tls&type=tcp&sni=warm-ory
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Telegram@ConfingV2RaayNG
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%DA%86%D9%86%D9%84%20kurdistan_vpn%40🔴روش
 vless://369d4236-4cd8-4dc1-bb85-72557dd349eb@188.227.84.99:8443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Telegram%20%3A%20%40v2ryNG01%20%F0%9F%87%AE%F0%9F%87%B7ضربه
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.101.214.54:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=xv1.ylks0033.dpdns.org&type=ws&sni=xv1.ylks0033.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C356
