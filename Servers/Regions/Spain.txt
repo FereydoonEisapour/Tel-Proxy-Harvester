@@ -11,3 +11,5 @@ trojan://trojan@109.234.211.66:8443?security=tls&host=store.timimi.dpdns.org&typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTjMxTWpFYXdlQWJHcGR4ZTMyWUp3@194.87.45.189:443#🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdWFUeERYZFZRVFFGeU90UnZGRDBp@194.87.45.189:443#%E2%87%9D@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNVhYaUU4THJMaW9rVHU4QWtpWmhk@194.87.45.189:443#🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyakF6VExTWFQwMVMwNXI0NmxjWkZ3@194.87.45.189:443#🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob3c0M0FpVTZHSE5CWmcwMml1YzhH@194.87.45.189:443#🇪🇸
